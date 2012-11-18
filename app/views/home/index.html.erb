@@ -1,2 +1,3 @@
 <h1>Home#index</h1>
+<p><%= @tokens %></p>
 <p><% @ponies.each do |pony| %><%= pony %> -> <%= File.read("transcripts/" + pony + ".txt").split("\n").length %><br /><% end %></p>
