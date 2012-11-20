@@ -1,11 +1,11 @@
 01 01 Oh my. Um, stop please, everyone, umm. Excuse me, sir? I mean, no offense, but your rhythm is just a teeny-tiny bit off. Now, follow me, please. A-one, a-two, a-one two three-
-01 01 [yelp]
+01 01 
 01 01 [very quietly] Um... I'm Fluttershy.
 01 01 [even quieter] Um... My name is Fluttershy.
-01 01 [squeaking]
-01 01 [squeaking]
-01 01 [gasp] A baby dragon!
-01 01 [thump]
+01 01 
+01 01 
+01 01  A baby dragon!
+01 01 
 01 01 Oh, I've never seen a baby dragon before. He's sooo cute!
 01 01 Oh my, he talks. I didn't know dragons could talk. That's just so incredibly wonderful I, I just don't even know what to say!
 01 01 Wait, wait! What's his name?
@@ -23,16 +23,16 @@
 01 02 WAIT!
 01 02 Shhh... It's okay. Oh, you poor, poor little baby.
 01 02 Now this might hurt for just a second.
-01 02 [giggles] Aw you're just a little ol' baby kitty, aren't you? Yes you are, yes you are.
+01 02  Aw you're just a little ol' baby kitty, aren't you? Yes you are, yes you are.
 01 02 I didn't. Sometimes we all just need to be shown a little kindness.
-01 02 [scream]
+01 02 
 01 02 Why Rarity, it's so lovely.
 01 02 No. Your necklace. It looks just like your cutie mark.
-01 02 [gasp]
-01 03 [gasp] Angel, these are perfect.
+01 02 
+01 03  Angel, these are perfect.
 01 03 Um, excuse me, Twilight. I would just like to ask, I mean, if it would be alright, if you haven't given it to someone else--
 01 03 Oh, no. I mean, yes, or, actually, kind of. You see, it's not so much The Grand Galloping Gala as it is the wondrous private gated garden that surrounds the dance. The flowers are said to be the most beautiful and fragrant in all of Equestria. For the night of the gala, and that night alone, would they all be in bloom... and that's just the flora! Don't get me started on the fauna. There's loons and toucans and bitterns, oh my! Hummingbirds that can really hum, and buzzards that can really buzz. White-blue jays, and red jays, and green jays, pink jays and pink flamingos!
-01 03 [humming]
+01 03 
 01 03 Oh, well, hello Twilight. I hope you don't mind, but we're all doing a little spring cleaning for you.
 01 03 Oh, well, better late than never, right? It was Angel's idea.
 01 03 Oh no, I'm doing this because you're my very best friend. Right Angel? Oh, yes, we are just doing this for the ticket.
@@ -52,15 +52,15 @@
 01 05 Please excuse me.
 01 05 Oh, um, I'm sorry. I-I-I was just trying to...
 01 05 B-b-b-but I... I...
-01 05 [bleat] [sobs]
+01 05  
 01 05 Oh, um, well, I'll tell you later, Twilight.
 01 05 Um, Pinkie Pie, about this party for Gilda. Umm... Do you really think it's a good idea? I mean–
 01 05 I'm a year older than you.
-01 07 [spits] Not too fast now, Angel bunny. You don't wanna get a tummy ache. [chuckles] You really should eat more than that, don't you think? It's not play time yet. I know you want to run, but... just three more bites. Two more bites? One more bite? Pretty please? [sighs]
+01 07  Not too fast now, Angel bunny. You don't wanna get a tummy ache.  You really should eat more than that, don't you think? It's not play time yet. I know you want to run, but... just three more bites. Two more bites? One more bite? Pretty please? 
 01 07 Oh, goodness. Are you okay?
 01 07 Are you coughing because there's a carrot stuck in your throat?
 01 07 Because you need some water?
-01 07 [gasp] Because of that giant cloud of scary black smoke? I'll take that as a... yes.
+01 07  Because of that giant cloud of scary black smoke? I'll take that as a... yes.
 01 07 [<a href="/wiki/My_Little_Pony_theme_song" title="My Little Pony theme song">theme song</a>]
 01 07 [ponies conversing in the background]
 01 07 Help. Help! Please? Help? There's-- there's a horrible cloud of smoke. It's headed this way and-- aaa!
@@ -72,56 +72,56 @@
 01 07 Oh, thank goodness.
 01 07 A... d-dragon?
 01 07 Huh?
-01 07 [gasp]
+01 07 
 01 07 Um, actually...
-01 07 [squeak]
-01 07 Um, let's... not? [squeak]
+01 07 
+01 07 Um, let's... not? 
 01 07 M-m-mountain?
-01 07 [gulp] Um, excuse me, Twilight? I know you're busy, but...
+01 07  Um, excuse me, Twilight? I know you're busy, but...
 01 07 But if I could just have a second...
 01 07 So, um, I was thinking that, um, maybe I should just stay here in Ponyville.
 01 07 Oh! Good. I'll stay here and--
 01 07 I don't think I--
-01 07 I don't really think he's up to the task. Maybe... But... But... [whine]
-01 07 [squeal]
-01 07 But... but...! [scream]
+01 07 I don't really think he's up to the task. Maybe... But... But... 
+01 07 
+01 07 But... but...! 
 01 07 [dragon snore]
-01 07 [gasp]
+01 07 
 01 07 It-- it's so... high!
 01 07 I-it's so... so... steep.
 01 07 Oh... okay. [soft cry]
 01 07 [dragon snore]
-01 07 [whines]
+01 07 
 01 07 [soft grunts]
-01 07 [whine]
+01 07 
 01 07 [dragon snore]
 01 07 [goat bleat]
-01 07 [gulp]
+01 07 
 01 07 But... it's so... wide.
 01 07 I--
 01 07 [dragon snore]
 01 07 I don't know.
 01 07 O-okay. Here I go. A hop.
 01 07 Skip.
-01 07 [whine]
+01 07 
 01 07 I guess I forgot to jump.
 01 07 An... an ava... ava...
 01 07 AVALA--!
 01 07 [collective sigh]
-01 07 [rumble]
-01 07 [sigh] Sorry.
-01 07 [sigh] [whine]
-01 07 [whimper]
+01 07 
+01 07  Sorry.
+01 07  
+01 07 
 01 07 I-- I-- I can't go in the cave.
-01 07 I'm not scared of caves, I'm scared of [mumble].
-01 07 I'm scared of [mumble].
+01 07 I'm not scared of caves, I'm scared of .
+01 07 I'm scared of .
 01 07 I'm scared of dragons!
 01 07 [dragon snore]
 01 07 Yes, because they're not dragons.
 01 07 Yes, because he wasn't a dragon.
 01 07 Yes, because he not a huge, gigantic, terrifying, enormous, teeth-gnashing, sharp-scale having, horn-wearing, smoke-snoring, could eat a pony in one bite, totally all grown-up dragon!
 01 07 [dragon snore]
-01 07 [whimper]
+01 07 
 01 07 I was afraid to.
 01 07 I-- I-- I just... can't.
 01 07 How dare you... How dare you! Listen here, mister. Just because you're big doesn't mean you get to be a bully. You may have huge teeth, and sharp scales, and snore smoke, and breathe fire. But you do not-- I repeat-- You do not! Hurt! My! Friends! You got that?
@@ -129,11 +129,11 @@
 01 07 And I am very sorry about that. But you're bigger than she is, and you should know better. You should also know better than to take a nap where your snoring can become a health hazard to other creatures.
 01 07 Don't you 'but I' me, mister. Now what do you have to say for yourself? I said, what do you have to say for yourself?
 01 07 There, there. No need to cry. You're not a bad dragon, you just made a bad decision. Now go pack your things. You just need to find a new place to sleep. That's all.
-01 07 It's okay, Rainbow Dash. Not every pony can be as brave as me. [scream]
+01 07 It's okay, Rainbow Dash. Not every pony can be as brave as me. 
 01 07 [goat bleat]
-01 07 [laughter]
-01 07 [music]
-01 07 [credits]
+01 07 
+01 07 
+01 07 
 01 09 She's mysterious.
 01 09 Animals care for themselves...
 01 09 And then, she digs at the ground.
@@ -146,7 +146,7 @@
 01 09 Uh, I don't know. Seems awfully dangerous.
 01 09 Oopsie! Sorry.
 01 09 Uh... Spike? Are you coming?
-01 09 [sigh]
+01 09 
 01 09 She's an evil enchantress
 01 09 She does evil dances
 01 09 And if you look deep in her eyes
@@ -160,16 +160,16 @@
 01 09 And the chanting?
 01 09 [normal voice] ... Yes.
 01 09 [All ponies laugh]
-01 09 [credits]
+01 09 
 01 10 La, la la, la la, la la, la la. Thank you little squirrel, but remember: these flowers are for Princess Celestia. Only the prettiest ones will do. La, la la, la la, la la, la la.
 01 10 Gah!
 01 10 Hello little guy. I've never seen anything like you before.
-01 10 Oh, are you hungry? Here you go. [gasp] I guess you were hungry.
+01 10 Oh, are you hungry? Here you go.  I guess you were hungry.
 01 10 You're the cutest thing ever. I can't wait to show you to my friends.
 01 10 [<a href="/wiki/My_Little_Pony_theme_song" title="My Little Pony theme song">theme song</a>]
 01 10 Twilight, Pinkie, you won't believe... oh, I'm sorry. Uh, am I interrupting?
 01 10 You won't believe what I found at the edge of the Everfree Forest. Come on out, little guy. It's okay.
-01 10 [gasp] Three?
+01 10  Three?
 01 10 I'm not sure. I'm also not sure where these other two came from.
 01 10 Pinkie, do you want the other one?
 01 10 Ugh?
@@ -177,7 +177,7 @@
 01 10 I've tried everything I know: I've tried begging, and pleading, and beseeching, and asking politely and...
 01 10 What do we do?
 01 10 Ouch.
-01 10 [gasps]
+01 10 
 01 10 Well, I may have kept just one. Heh. I couldn't help myself. They're just so cute.
 01 10 What do we do? They're eating all the food in town.
 01 11 We wake up all their sleepy heads
@@ -209,7 +209,7 @@
 01 14 No, that's okay...
 01 14 No... it's fine...
 01 14 I... like it...
-01 14 All right! Since you really wanna know... [inhales] The armscye's tight, the middy collar doesn't go with the shawl lapel, the hems are clearly machine-stitched, the pleats are uneven, the fabric looks like toile, you used a backstitch here when it clearly called for a topstitch or maybe a traditional blanket stitch and the overdesign is reminiscent of pret-a-porter and not true French haute couture. [pauses] But, uh... you know... um, whatever you want to do is fine.
+01 14 All right! Since you really wanna know...  The armscye's tight, the middy collar doesn't go with the shawl lapel, the hems are clearly machine-stitched, the pleats are uneven, the fabric looks like toile, you used a backstitch here when it clearly called for a topstitch or maybe a traditional blanket stitch and the overdesign is reminiscent of pret-a-porter and not true French haute couture.  But, uh... you know... um, whatever you want to do is fine.
 01 14 French haute couture, please.
 01 14 Making sure we make a good appearance
 01 14 It's... perfect!
@@ -218,7 +218,7 @@
 01 14 Uh-uh. She doesn't like it.
 01 14 We just followed your brilliant design.
 01 15 Oh, I'm so, so sorry. You okay, Twilight Sparkle? I just couldn't stand to see the pond getting so over-populated, what with the frogs all hopping into each other and all, so I decided to fly as many as I can on over to Froggy Bottom Bog.
-01 15 [muffled] Bye-bye!
+01 15  Bye-bye!
 01 15 Of course.
 01 15 Oh, I'm so sorry.
 01 15 [hydra roars]
@@ -232,12 +232,12 @@
 01 16 [breathes in] Yay.
 01 16 Yay.
 01 16 Yay.
-01 16 [deep breath] [quietly] Yaay.
+01 16 [deep breath]  Yaay.
 01 16 ...Too loud?
 01 16 Yay.
 01 16 Wooo.
 01 16 Way to go.
-01 16 Rainbow Dash, you rock! Woohoo. [gasp] Did my cheering do that?
+01 16 Rainbow Dash, you rock! Woohoo.  Did my cheering do that?
 01 16 Actually, it wasn't all bad. I particularly liked it when you made the clouds spin.
 01 16 Were we arguing? I'm sorry.
 01 16 Yay.
@@ -259,7 +259,7 @@
 01 17 Oh, sorry. I thought the "open" sign meant you were open, but I must have been mistaken.
 01 17 No worries, Rarity. I've left her there in the basket.
 01 17 Oh, no! I wouldn't! I couldn't! I-I don't really have any control over when that happens. I-It just happens. No, I'm just good with animals. It's my special gift, you know?
-01 17 [gasp]
+01 17 
 01 17 These are lovely, but twenty by tonight? How will you get it all done?
 01 17 Well, maybe I should get out of your mane so you can work.
 01 17 What does that patch on your cape mean?
@@ -277,7 +277,7 @@
 01 17 What? These sweet little angels? They'll be no problem at all.
 01 17 [crickets chirping quietly, owl hooting]
 01 17 [door closes]
-01 17 [to herself] No problem at all. [normal] Okay, girls, uh, what should we do?
+01 17 [to herself] No problem at all.  Okay, girls, uh, what should we do?
 01 17 Girls?
 01 17 Should we--
 01 17 Girls, okay, now settle --
@@ -288,14 +288,14 @@
 01 17 Oh, no. The Everfree Forest is much too dangerous. It's filled with far too many strange creatures.
 01 17 Um, oh, maybe that's not such a-- now, girls, how about we do some nice coloring. Dhh--
 01 17 Careful... you don't...
-01 17 [crash]
+01 17 
 01 17 ...break anything.
 01 17 Oh, girls, it's okay. I--
 01 17 C-carpenters?
 01 17 Well, now that we've gotten that out of the way, how about a game?
 01 17 It's called "Shhh!"
-01 17 Well, it's a game about who can be quiet the longest. Sound fun? I'm the world champ, you know. I bet you can't beat me! [squee] [draws a deep breath]
-01 17 [sigh]
+01 17 Well, it's a game about who can be quiet the longest. Sound fun? I'm the world champ, you know. I bet you can't beat me!  [draws a deep breath]
+01 17 
 01 17 NO!
 01 17 I mean, it's time for bed, don't you think? Aren't you excited to get all toasty and warm in your snuggly-wuggly widdle beds?
 01 17 Um, okay, um. Maybe the crusading can wait until morning? When it's light? And not so... dark?
@@ -312,7 +312,7 @@
 01 17 Okay, Sweetie, that was...
 01 17 Thank you, Sweetie, um...
 01 17 [chickens clucking and flapping]
-01 17 [gasp] Girls!
+01 17  Girls!
 01 17 No, I don't think that's a-- ah, come back! Please!
 01 17 [Cutie Mark Crusaders giggling, more chicken flapping and squawking]
 01 17 Come on, girls, the chickens are fine-- oh, girls, um... GIRLS!
@@ -323,18 +323,18 @@
 01 17 Please?
 01 17 So, no more crusading for tonight, all right?
 01 17 Okay, good night.
-01 17 [sigh] It really wasn't THAT hard ... I mean, all I needed to do was just show them who's in charge. Nothing's gonna get past Fluttershy! Good with animals, good with kids.
+01 17  It really wasn't THAT hard ... I mean, all I needed to do was just show them who's in charge. Nothing's gonna get past Fluttershy! Good with animals, good with kids.
 01 17 [quiet galloping]
 01 17 [tearing fabric]
-01 17 Mmm, peace and quiet. [gasps] Too quiet. [gasps] Girls? Girls? Elizabeak! She's missing! GIRLS? [gasps] Oh, no! They must have gone looking for my missing chicken! Which means... they must have gone into... [gasp] [gulp] The Everfree Forest!
+01 17 Mmm, peace and quiet.  Too quiet.  Girls? Girls? Elizabeak! She's missing! GIRLS?  Oh, no! They must have gone looking for my missing chicken! Which means... they must have gone into...   The Everfree Forest!
 01 17 Those girls have really done it this time! They've really bitten off more than they can chew! Oh, just like me! I never should have offered to watch them. [draws a deep breath]
-01 17 (whispering) Girls? [gulp] Girls? [tiny terrified squeak] Oh! Get a hold of yourself, Fluttershy. Just put one hoof in front of the other.
+01 17 (whispering) Girls?  Girls? [tiny terrified squeak] Oh! Get a hold of yourself, Fluttershy. Just put one hoof in front of the other.
 01 17 [twig snaps]
 01 17 Ahh! What was that?
-01 17 [thump]
-01 17 [scream]
+01 17 
+01 17 
 01 17 [rush of air, clattering hooves]
-01 17 Twilight? I-is that you? Oh, Twilight, it is you. Thank goodness you're here. I need your help. The girls are out here somewhere, and I'm afraid that they're-- [gasps] Oh! What's happened to you? [scream]
+01 17 Twilight? I-is that you? Oh, Twilight, it is you. Thank goodness you're here. I need your help. The girls are out here somewhere, and I'm afraid that they're--  Oh! What's happened to you? 
 01 17 [Twilight falls over]
 01 17 Oh, no! If you've been turned to stone, it must mean-- oh! Oh no, the girls! Don't move; I'll be back for you. GIRLS!
 01 17 Girls? Girls?
@@ -347,7 +347,7 @@
 01 17 Girls! Wait!
 01 17 See? Now we have to --
 01 17 Girls, please. Girls-- now listen to me, girls, I-- please!
-01 17 [screaming]
+01 17 
 01 17 [cockatrice squawking]
 01 17 GIRLS! Behind me, NOW!
 01 17 [cockatrice squawking and roaring]
@@ -355,7 +355,7 @@
 01 17 You should be ashamed of yourself. I have a mind to find your mother and tell her what you've been up to, young man. Now you go over there, and turn Elizabeak and my friend Twilight back to normal, and don't ever let me catch you doing this again. Do you understand me?
 01 17 Are you girls all right? I was so worried!
 01 17 Oh, you DO, do you? Well, you better, or I'll give you... The Stare.
-01 17 [giggling]
+01 17 
 01 17 And that's when it brought you back from stone.
 01 17 Oh, I wouldn't go that far.
 01 17 I assumed that I'd be just as good with kids as I am with animals. Boy, was I wrong. I really learned the hard way not to bite off more than I could chew.
@@ -366,7 +366,7 @@
 01 17 I guess I'm just as good with kids as I am with animals.
 01 17 Of course. How about later today?
 01 17 [Opal yowls]
-01 17 [giggling]
+01 17 
 01 17 [closing credits]
 01 19 Oh! Oh my. Oh, oh!
 01 19 But they blocked up all the holes.
@@ -390,7 +390,7 @@
 01 20 Oh, Rarity. I was so worried I'd ruined everything.
 01 20 Oh, I am so excited for you. Just don't forget us little ponies when you become the most famous designer in all of Equestria.
 01 20 I can't, Rarity.
-01 20 [sneeze]
+01 20 
 01 20 N... nervous.
 01 20 You can't let Rarity down. You must do this. You must. You must. You must.
 01 20 Oh, yes. Best time ever...
@@ -400,11 +400,11 @@
 01 20 Photo Finish, I'm so sorry to interrupt. It's just that I'm running late.
 01 20 Oh, actually I'm supposed to be meeting my friend...
 01 20 Rarity! I'm so sorry I'm... Oh no. She's already gone, isn't she?
-01 20 Oh, I can't believe this. I am so frustrated I could just scream. [squeak]
+01 20 Oh, I can't believe this. I am so frustrated I could just scream. 
 01 20 No. Can I tell you something?
 01 20 You promise not to tell Rarity?
 01 20 Pinkie Pie-swear?
-01 20 I don't like being a model. No, I hate being a model. All this attention is awful, just awful. And I'm only doing it because Rarity told me I must. I must! I MUST! [sigh] I must...
+01 20 I don't like being a model. No, I hate being a model. All this attention is awful, just awful. And I'm only doing it because Rarity told me I must. I must! I MUST!  I must...
 01 20 Oh, what were you about to say?
 01 20 Oh, no. I could never do such a thing. Rarity would be devastated.
 01 20 Oh, if only all these ponies didn't like me so much. Photo Finish wouldn't want me to model anymore. She'd find somepony else with... the magic!
@@ -437,12 +437,12 @@
 01 22 You... found a watch? You... wanna be a watch? You're running! Running out of time? No. You're... late?
 01 22 [a clock strikes four]
 01 22 I'm late for a very important date! The big brunch for Princess Celestia at Sugarcube Corner. Oh, the princess is here in Ponyville for a party and we all promised we'd be there. But I'm not there! Oh, do I look all right? Do I need to bring anything? Maybe I shouldn't go?
-01 22 [fanfares]
+01 22 
 01 22 Aah! It's starting! I'm missing it! [departs, then returns] Oh, thanks, Angel. [and again] I mean, if if you hadn't reminded me, I might have not remembered and then... then I wouldn't be there and everypony would be wondering where I was and... Oh, right. I'm late.
 01 22 Oh, okay then. See you later.
 01 22 [<a href="/wiki/My_Little_Pony_theme_song" title="My Little Pony theme song">theme song</a>]
 01 22 Phew. Made it.
-01 22 [gulp] No one. Never mind. I'll go home.
+01 22  No one. Never mind. I'll go home.
 01 22 Thanks, Twilight.
 01 22 Sorry I'm late. I had to finish taking care of a patient first.
 01 22 Wow, Twilight. I thought I was the only one who got nervous at social gatherings.
@@ -484,7 +484,7 @@
 01 22 I had to do something.
 01 22 But...
 01 22 But...
-01 22 [sigh] You're right. Okay, let's...
+01 22  You're right. Okay, let's...
 01 22 ...go.
 01 22 [excessive coughing]
 01 22 But it's daytime.
@@ -506,7 +506,7 @@
 01 22 Excuse me!
 01 22 Philomena, come down from there! You'll hurt yourself!
 01 22 I'll catch you!
-01 22 [gasps]
+01 22 
 01 22 [cries/whimpers]
 01 22 It's all my fault.
 01 22 I'm the one who did it.
@@ -524,7 +524,7 @@
 01 23 Oh yes. It all started at Summer Flight Camp.
 01 23 You'd never guess, but when I was little I was very shy. And a very weak flyer.
 01 23 It was the most humiliating moment of my life. And then, out of nowhere...
-01 23 [voiceover] I had never seen such beautiful creatures. Butterflies don't fly as high as my cloud home. And I've never been near the ground before.
+01 23  I had never seen such beautiful creatures. Butterflies don't fly as high as my cloud home. And I've never been near the ground before.
 01 23 What is this place
 01 23 filled with so many wonders?
 01 23 Casting its spell
@@ -539,8 +539,8 @@
 01 23 If I knew the ground had so much up its sleeve
 01 23 I'd have come here sooner, and never leave
 01 23 Yes, I love everythiiiiiiiiiiiing!
-01 23 [explosion]
-01 23 [voiceover] Somehow I had the ability to communicate with the animals on a different level.
+01 23 
+01 23  Somehow I had the ability to communicate with the animals on a different level.
 01 23 Oh. Well, I wasn't there, so I don't really know what happened.
 01 23 Bye, girls!
 01 23 Wait a second. I heard that explosion. And I saw the rainbow too. Rainbow Dash, if you hadn't scared the animals, I never would have learned I could communicate with them and gotten my cutie mark.
@@ -560,7 +560,7 @@
 01 25 Not since this morning.
 01 25 I’m just glad I was able to come up with an excuse for why I couldn’t be there.
 01 25 As long as we keep her from finding out about it, it will.
-01 25 [gasp] [scream]
+01 25  
 01 25 [in unison] Surprise!
 01 25 I really thought she’d be more excited.
 01 25 Don’t worry about it.
@@ -577,13 +577,13 @@
 01 26 Meet new friends
 01 26 To meet!
 01 26 Oh my! A meadowlark!
-01 26 [whistling]
-01 26 I think she's calling to me. It's exactly what I wished for! [humming]
-01 26 [whistling]
-01 26 [humming]
-01 26 [whistling]
-01 26 [sigh] My little meadowlark is right around this bend!
-01 26 [whistling]
+01 26 
+01 26 I think she's calling to me. It's exactly what I wished for! 
+01 26 
+01 26 
+01 26 
+01 26  My little meadowlark is right around this bend!
+01 26 
 01 26 Was that you?
 01 26 Oh! Yes... Well... Excuse me.
 01 26 [animal noises]
@@ -591,7 +591,7 @@
 01 26 Oh, Fluttershy. You're such a loudmouth.
 01 26 This isn't what I wished for.
 01 26 ...for this moment.
-01 26 I just have to be more bold, like Twilight says. [loudly] I'm so sorry to have scared you, my friends! But I'm leaving now, so you can all come out!
+01 26 I just have to be more bold, like Twilight says.  I'm so sorry to have scared you, my friends! But I'm leaving now, so you can all come out!
 01 26 [sound of crunching]
 01 26 Gotcha! It's okay. I promise not to hurt you. I just wanna be your... friend?
 01 26 COME OUT!
@@ -600,12 +600,12 @@
 01 26 Talking!
 02 01 Now, Angel, you really shouldn't– No! It's not possible! I must be seeing things!
 02 01 Oh dear. I hope none of the animals see these delicious chocolate-filled cotton candy clouds. I'd hate to have to share them.
-02 01 [squeal]
+02 01 
 02 01 Can we go home now?
 02 01 W-We have to go in there?
-02 01 [scream]
-02 01 [gasping] What's that? Who's there? Girls!
-02 01 Okay, I can do this. I can...  [scream] Oh, Wait a minute... Butterflies? Wait! Don't leave me here!
+02 01 
+02 01  What's that? Who's there? Girls!
+02 01 Okay, I can do this. I can...   Oh, Wait a minute... Butterflies? Wait! Don't leave me here!
 02 01 Oh, no. I'm certain they're doing their best to find me.
 02 01 Not at all. I am weak and helpless and I appreciate their understanding.
 02 01 Not really. In fact, I think I'm awfully lucky to have friends who want me to be the best I can be.
@@ -618,15 +618,15 @@
 02 02 Ha, ha.
 02 02 I'm touching your gem, Rarity. Ha, ha.
 02 02 Good boy, Angel. Mama's so proud.
-02 02 Don't worry, you won't. [laughter]
+02 02 Don't worry, you won't. 
 02 02 With pleasure.
 02 02 'Cause you just looked so peaceful.
 02 02 Hey, Twilight, what's soaking wet and clueless?
-02 02 Your face! [bang]
+02 02 Your face! 
 02 02 Hah!
 02 02 [sing-song voice] Keep away!
 02 02 Hmph! Garbage.
-02 02 [mockingly] Oops, sorry, Rainbow Crash. [chuckle]
+02 02  Oops, sorry, Rainbow Crash. 
 02 02 Yeah! I'm sick of you losers.
 02 02 Oh no! Twilight, Applejack, I just had the worst dream!
 02 02 Uh? She's not here.
@@ -643,7 +643,7 @@
 02 03 Yes?
 02 03 [sighs of relief]
 02 03 Oh thank goodness. I thought something really awful had happened.
-02 03 [giggles]
+02 03 
 02 03 Wow. I've never seen Twilight so upset before.
 02 03 Why would you enchant your doll?
 02 03 Magic kindergarten?
@@ -651,16 +651,16 @@
 02 03 Please don't take her away from us just because we were too insensitive to help her.
 02 03 Mmhmm.
 02 03 [All right, etc]
-02 03 [cheering]
+02 03 
 02 03 We learned that you should take your friends' worries seriously.
-02 03 [laughs]
+02 03 
 02 04 Go away! No candy here! Visitors not welcome on Nightmare Night!
-02 04 It is you. Oh, and Nightmare Moon. [gasp] Nightmare Moon?!
+02 04 It is you. Oh, and Nightmare Moon.  Nightmare Moon?!
 02 04 Likewise.
-02 04 [quiet] Okay.
-02 04 [whispered] Okay.
-02 04 [quiet] Okay.
-02 04 [hurriedly] Perfectlessonover.
+02 04  Okay.
+02 04  Okay.
+02 04  Okay.
+02 04  Perfectlessonover.
 02 04 [nervous, dazed laughter] Yes.
 02 07 I thought you knew. You didn't know? She didn't know?
 02 07 Oh, please don't be mad at us.
@@ -726,35 +726,35 @@
 02 09 Poor baby.
 02 09 She looks awful.
 02 10 Happy birthday, Spike.
-02 10 [screams]
+02 10 
 02 10 I'm up here!
 02 10 I was helping my squirrel friends with a dance step, and all of a sudden, a giant, rampaging d-d-d-dragon stormed through!
 02 10 Spike? But why would Spike steal my chicken coop? He just pulled it out of the ground and filled it with a bunch of apples and stuff!
 02 10 Don't worry Rarity, we'll save you!
 02 10 I- if you wouldn't mind, that is...
 02 10 We'll be ever so grateful if you'd be so kind as to possibly consider...
-02 10 [screaming]
-02 10 [splash]
-02 10 [gasps] We did it! I can't believe we did it!
-02 11 I'm so excited, I-I feel like shouting! [softly] Woo hoo!
+02 10 
+02 10 
+02 10  We did it! I can't believe we did it!
+02 11 I'm so excited, I-I feel like shouting!  Woo hoo!
 02 11 Oh, I wish she hadn't honored me quite so much... I can't go onstage! I don't want everypony looking at me!
 02 11 No?
 02 11 So you're saying they'll be too busy to come to our play?
 02 11 A lot?
 02 11 Hundreds?
-02 11 [yelps]
-02 11 [bang]
+02 11 
+02 11 
 02 11 [wind rushing]
 02 11 Oh! Commander Hurricane, sir! How did it go, sir?
-02 11 [yelps]
+02 11 
 02 11 Conquer, sir?
 02 11 I don't see any enemies, Commander. Just... snow.
-02 11 [yelps]
+02 11 
 02 11 What a view... I can see my future house from here.
 02 11 I vote for calm.
-02 11 [gasp] [sigh]
+02 11  
 02 11 [windigo roaring]
-02 11 [screams]
+02 11 
 02 11 What is that... thing?
 02 11 Windigos?
 02 11 Well, I don't hate you... I actually hate Commander Hurricane a lot more than I hate you guys.
@@ -763,7 +763,7 @@
 02 13 Oh, I would love to babysit! But I can't today, sorry. I promised Angel we'd go on a picnic. You understand, don't you? Y-you're not mad at me are you? Please don't be mad at me!
 02 14 Oh, I hope Applejack is surprised by this surprise party!
 02 14 I know, but I hope she isn't so surprised she's startled, because while being surprised can be nice, being startled can be... very startling.
-02 14 [gasps] Oh, Pinkie, you startled me.
+02 14  Oh, Pinkie, you startled me.
 02 14 Maybe she's hurt, or sad, or scared!
 02 14 I don't know how we'll break it to the Apple family.
 02 14 We're so glad you're safe!
@@ -772,13 +772,13 @@
 02 14 Ooh... Can you please slow down?
 02 14 Help!
 02 14 STOP!
-02 14 [splat]
-02 14 [panting]
+02 14 
+02 14 
 02 14 Nn-nn.
 02 14 Applejack, we can always find a way to fix that hole in the roof. But if you don't come back, we'll never be able to fix the hole in our hearts.
-02 15 [yawns] Who could that be? It's still dark!
-02 15 [crash]
-02 15 [squee] [shrieks] Oh, where are we? What's the rush?
+02 15  Who could that be? It's still dark!
+02 15 
+02 15   Oh, where are we? What's the rush?
 02 15 Um, well, uh-
 02 15 I guess I-
 02 15 Gee Rainbow Dash. It looks like a few other ponies had the same idea.
@@ -787,7 +787,7 @@
 02 15 For the record, I don't mind-
 02 15 Uh, Pinkie Pie-
 02 15 Got it.
-02 16 [muffled] Oh, I'm so worried!
+02 16  Oh, I'm so worried!
 02 16 It's not so bad Rainbow Dash.
 02 16 Hi Rainbow Dash!
 02 16 We thought we'd come and cheer you up!
@@ -795,9 +795,9 @@
 02 16 Um... sky five?
 02 16 But Rainbow Dash, you, you didn't even get a turn.
 02 16 Glad we could... cheer you up?
-02 19 Lunch time! Who's hungry? Plenty for everypony. Slow down, sweetie. [giggles]
+02 19 Lunch time! Who's hungry? Plenty for everypony. Slow down, sweetie. 
 02 19 Here you go, Angel bunny.
-02 19 Okay, Mister Picky-pants, you win. Carrots, lettuce and apples, yum yum yum! What? But- Then, what will you eat? I'm not sure I can even make that. Well... I don't want you to starve... Oh, are you sure I can't tempt you with a nice crisp piece of- [sighs] I'll make your special recipe.
+02 19 Okay, Mister Picky-pants, you win. Carrots, lettuce and apples, yum yum yum! What? But- Then, what will you eat? I'm not sure I can even make that. Well... I don't want you to starve... Oh, are you sure I can't tempt you with a nice crisp piece of-  I'll make your special recipe.
 02 19 [<a href="/wiki/My_Little_Pony_theme_song" title="My Little Pony theme song">theme song</a>]
 02 19 Hmm, let's see. Asparagus. Excuse me... umm... I think you just stepped in front of me...? Excuse me, I think you made a mistake? You see I was actually here first and-
 02 19 I know.
@@ -833,18 +833,18 @@
 02 19 But... I was only doing what you did.
 02 19 But... I can't let Angel starve! He won't eat it unless I make it just right! I need that cherry no matter what it costs!
 02 19 Twenty?! Oh, but, I don't have that much!
-02 19 Tada! Here you go, Angel. Sorry there's no cherry on top, but the rest of it is exactly what you wanted. Angel? [sighs] Look at me... I really am a doormat. [reading from pamphlet] The incredible Iron Will turns doormats into dynamos. Assertiveness seminar today, hedge maze centre. As Celestia is my witness, I'm never gonna be a pushover again!
+02 19 Tada! Here you go, Angel. Sorry there's no cherry on top, but the rest of it is exactly what you wanted. Angel?  Look at me... I really am a doormat. [reading from pamphlet] The incredible Iron Will turns doormats into dynamos. Assertiveness seminar today, hedge maze centre. As Celestia is my witness, I'm never gonna be a pushover again!
 02 19 [ponies chattering]
-02 19 Oh! Ah! Uh... excuse me! [squeaks]
-02 19 [kick]
-02 19 [thump]
+02 19 Oh! Ah! Uh... excuse me! 
+02 19 
+02 19 
 02 19 [music playing on Eye of the Tiger starts]
 02 19 [goats bleat]
 02 19 [fireworks explode]
 02 19 [ponies cheering]
 02 19 Who, me?
-02 19 [gulps] Uh, well...
-02 19 [whispering] Okay.
+02 19  Uh, well...
+02 19  Okay.
 02 19 Um, politely walk around him?
 02 19 Gingerly tip-toe around him?
 02 19 Go back home and try again tomorrow?
@@ -861,39 +861,39 @@
 02 19 “When somepony tries to block, show them that you rock!”
 02 19 Good!
 02 19 What do you think you're doing?! Didn't you see me?
-02 19 'Maybe'? “Maybes are for babies!” [growling] Now go to the back of the line where you belong!
+02 19 'Maybe'? “Maybes are for babies!”  Now go to the back of the line where you belong!
 02 19 [VCR rewind sound]
 02 19 Iron Will's not a monster, he's a minotaur, and a true inspiration. His techniques really work.
 02 19 Yes I am. And new Fluttershy feels pretty stoked about new Fluttershy.
 02 19 “You laugh at me, I wrath at you!”
-02 19 [crash]
+02 19 
 02 19 Bye, girls.
 02 19 [ponies running away]
 02 19 What a day. Taxi! Oh no you don't. “Cut in line, I'll take what's mine!”
 02 19 [fight sounds]
-02 19 Nopony pushes new Fluttershy around! [screams] Nopony!
+02 19 Nopony pushes new Fluttershy around!  Nopony!
 02 19 You got this, new Fluttershy! This day is yours! And nopony's gonna take it away from you! Am I right?! Right! What?! He's delivered the wrong mail, again!
 02 19 And new Fluttershy does not want the wrong mail delivered to her cottage.
 02 19 “You apologize, I penalize!"
-02 19 [crash]
-02 19 [bites]
+02 19 
+02 19 
 02 19 [mail cart zooms in and out]
-02 19 [muffled] Sure, you just- [gasps]
-02 19 [growls] “You make me lose, I blow my fuse!”
+02 19  Sure, you just- 
+02 19  “You make me lose, I blow my fuse!”
 02 19 Didn't you see what he did to new Fluttershy? And he thought new Fluttershy was a pushover!
 02 19 What?! You just want new Fluttershy to be a doormat like old Fluttershy! But old Fluttershy is gone!
 02 19 No, you want wimp Fluttershy. You want pushover Fluttershy. You want do-anything-to-her-and-she-won't-complain Fluttershy!
 02 19 Things getting too complicated for your simple little brain, Pinkie Pie?
 02 19 Why not? I thought 'petty' was what you're all about, Rarity. With your 'petty' concerns about fashion.
 02 19 Oh, and what are you passionate about? Birthday cake? Party hats? I can't believe that the two most frivolous ponies in Ponyville are trying to tell new Fluttershy how to live her life when they are throwing their own lives away on pointless pursuits that nopony else gives a flying feather about!
-02 19 Iron Will's not a monster, he's a minotaur! [growls] ...I'm the monster.
+02 19 Iron Will's not a monster, he's a minotaur!  ...I'm the monster.
 02 19 [wind blows]
 02 19 [wolf howls]
-02 19 [muffled] Go away! Go away before nasty Fluttershy strikes again!
-02 19 [muffled] Pinkie's right. I'm the only one to blame. [normal] But don't worry, I'm never coming out of my house again. Everypony will be a lot safer with me and my mean mouth locked away.
+02 19  Go away! Go away before nasty Fluttershy strikes again!
+02 19  Pinkie's right. I'm the only one to blame.  But don't worry, I'm never coming out of my house again. Everypony will be a lot safer with me and my mean mouth locked away.
 02 19 I, I'm not sure I can, I'm too far gone. Whenever I try to assert myself I become a monster.
 02 19 [lightning strikes]
-02 19 [sneezes]
+02 19 
 02 19 Um, no.
 02 19 [goat bleats]
 02 19 No.
@@ -902,11 +902,11 @@
 02 19 [goats bleating]
 02 19 I'm sorry, but no means no.
 02 19 Don't worry, old Fluttershy's back for good. I'm sorry I took the whole assertiveness thing too far. Friends?
-02 19 [laughing]
+02 19 
 02 19 Dear Princess Celestia, sometimes it can be hard for a shy pony like me to stand up for myself, and when I first tried it, I didn't like the pony I became. But I've learned that standing up for yourself isn't the same as changing who you are. Now I know how to put my hoof down without being unpleasant, or mean.
-02 19 [credits]
-02 20 [grunts] Happy to... help... but... can I carry... the balloons next time?
-02 20 [crash]
+02 19 
+02 20  Happy to... help... but... can I carry... the balloons next time?
+02 20 
 02 20 Oh!
 02 20 [horn blowing]
 02 20 Who's the cute widdle three-headed dog?
@@ -916,14 +916,14 @@
 02 21 Miss out on what? Dragons? Big, scaly, fire-breathing dragons?
 02 21 Thanks, but... no thanks!
 02 21 I said... no!
-02 21 [high pitched growling] [whimpers]
+02 21 [high pitched growling] 
 02 22 Achoo. Hi, Rainbow Dash. [coughs weakly]
-02 22 Oh, I [sniffs] I think I have [coughs weakly] the pony pox. I'm sorry, I really, really wanted to come to training day today [coughs weakly] but this pony pox has really knocked me for a loop. Achoo. [coughs weakly]
+02 22 Oh, I  I think I have [coughs weakly] the pony pox. I'm sorry, I really, really wanted to come to training day today [coughs weakly] but this pony pox has really knocked me for a loop. Achoo. [coughs weakly]
 02 22 I know, plenty of bed-
-02 22 [splash]
-02 22 [yelps]
+02 22 
+02 22 
 02 22 Oh, y'know, all of a sudden I'm, I'm starting to feel better. [laughs nervously] I'll just get out of these robes and- ow! Oh, my wing, oh, ow, it's hurt, I guess I can't fly after all-
-02 22 [yelps]
+02 22 
 02 22 Well, y'see, uh, well, oh, Rainbow Dash, I just can't do it! I can't fly!
 02 22 But that was different, that was an emergency! This whole tornado thing, it's more like a performance, and you know how I hate performing in front of others. Don't you remember flight camp? I couldn't gallop hard, or fly fast, not with everypony looking at me!
 02 22 You're right, Rainbow Dash, it wasn't bad. It was horrible!
@@ -934,10 +934,10 @@
 02 22 I will.
 02 22 I'm game.
 02 22 [takes deep breath]
-02 22 [crying]
-02 22 [crying] Yes!
+02 22 
+02 22  Yes!
 02 22 I'm sorry, Rainbow Dash, I just [between sobs] don't have the courage right now...
-02 22 [squeaks] [crying]
+02 22  
 02 22 [squirrel chittering]
 02 22 Oh, thank you, but I'm afraid a couple of little acorns won't solve my big flying problem.
 02 22 [duck quacking]
@@ -960,21 +960,21 @@
 02 22 I figured... if I couldn't help Rainbow Dash with the tornado... the least I could do was offer moral support!
 02 22 Oh no! That's terrible news!
 02 22 [water splashing]
-02 22 [crunch]
+02 22 
 02 22 Oh, I'm too nervous to look!
 02 22 I won't make a difference!
 02 22 My measly 2.3 wing power is still too little!
-02 22 [gulps] [yelps]
+02 22  
 02 22 No!
 02 22 Whuh, what? Did we do it?
 02 22 Ah!
 02 22 Dear Princess Celestia, sometimes you can feel like what you have to offer is too little to make a difference, but today, I learned that everypony's contribution is important, no matter how small. If you just keep your head high, do your best, and believe in yourself, anything can happen.
 02 22 [Cloudsdale chugging]
-02 22 [credits]
+02 22 
 02 23 [bell rings]
 02 23 [foals chattering]
 02 23 [muffled crying]
-02 24 [Gasp] Oh my.
+02 24  Oh my.
 02 24 So did I.
 02 24 So tasty.
 02 24 And it was so good.

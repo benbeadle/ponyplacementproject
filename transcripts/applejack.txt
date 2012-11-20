@@ -1,16 +1,16 @@
 01 01 Yeehaw!
-01 01 [thump]
+01 01 
 01 01 Well, howdy-doo, Miss Twilight, a pleasure makin' your acquaintance. I'm Applejack. We here at Sweet Apple Acres sure do like making new friends!
 01 01 So, what can I do you for?
 01 01 We sure as sugar are! Would you care to sample some?
 01 01 Soup's on, everypony!
-01 01 [thump]
+01 01 
 01 01 Now, why don't I introduce y'all to the Apple family?
 01 01 This here's Apple Fritter. Apple Bumpkin. Red Gala. Red Delicious, Golden Delicious, Caramel Apple, Apple Strudel, Apple Tart, Baked Apples, Apple Brioche, Apple Cinnamon Crisp... [deep breath] Big McIntosh, Apple Bloom and Granny Smith. Up'n'attem, Granny Smith, we got guests.
 01 01 Why, I'd say you're already part of the family!
 01 01 Are you all right, sugarcube?
 01 01 [train whistle blowing]
-01 01 [muffled] Whoa there, Nelly...
+01 01  Whoa there, Nelly...
 01 02 Simmer down, Sally. She ain't no spy. But she sure knows what's going on. Don't you, Twilight?
 01 02 No can do, sugarcube. We sure ain't lettin' any friend of ours go into that creepy place alone. We're stickin' to you like caramel on a candy apple.
 01 02 And it ain't natural. Folk say it don't work the same as Equestria.
@@ -23,8 +23,8 @@
 01 02 Whoa! All yours, partner.
 01 02 Oh wait, I think I stepped in somethin'.
 01 02 It's just mud. Ahh!
-01 02 [screams]
-01 02 [screams]
+01 02 
+01 02 
 01 02 That's what all the fuss is about?
 01 02 Twilight, wait for us.
 01 02 Whoa. Come on, Twilight. Isn't this what you've been waitin' for?
@@ -34,19 +34,19 @@
 01 02 Come on!
 01 02 Everypony okay?
 01 02 Gee, Twilight! I thought you were just spoutin' a lot of hooey, but I reckon we really do represent the elements of friendship.
-01 03 Thank you kindly, Twilight, for helping me out. I bet Big McIntosh I could get all these Golden Delicious in the barn by lunchtime. If I win, he's gonna walk down Stirrup Street in one of granny's girdles. [chuckles]
-01 03 [gasp] The Grand Galloping Gala!
+01 03 Thank you kindly, Twilight, for helping me out. I bet Big McIntosh I could get all these Golden Delicious in the barn by lunchtime. If I win, he's gonna walk down Stirrup Street in one of granny's girdles. 
+01 03  The Grand Galloping Gala!
 01 03 [<a href="/wiki/My_Little_Pony_theme_song" title="My Little Pony theme song">theme song</a>]
-01 03 The Grand Galloping Gala! [cheering]
+01 03 The Grand Galloping Gala! 
 01 03 Woo-hoo!
 01 03 Nice? It's a heap good more than just nice. I'd love to go. Land sakes, if I had an apple stand set up, ponies would be chowin' our tasty vittles till the cows came home. Do you have any idea how much business I could drum up for Sweet Apple Acres? Why, with all that money, we could do a heap of fixin' up 'round here. We could replace that saggy old roof, and Big McIntosh could replace that saggy old plow, and Granny Smith could replace that saggy old hip. Why, I'd give my left hind leg to go to that gala.
 01 03 Rainbow Dash, you told me you were too busy to help me harvest apples. What were you busy doing, spyin'?
-01 03 Hold on just one pony pickin' minute here. [spit] I asked for that ticket first.
-01 03 Oh, yeah? Well I challenge you to a hoof-wrestle. Winner gets the ticket. [groan]
+01 03 Hold on just one pony pickin' minute here.  I asked for that ticket first.
+01 03 Oh, yeah? Well I challenge you to a hoof-wrestle. Winner gets the ticket. 
 01 03 Drummin' up business for the farm?
 01 03 Money t' fix granny's hip.
 01 03 Okay.
-01 03 [groan]
+01 03 
 01 03 Wait just another minute.
 01 03 No. I was followin' this one to make sure she didn't try any funny business. Still trying to take mah ticket.
 01 03 Did somepony say lunch?
@@ -58,50 +58,50 @@
 01 03 Twilight, you don't have to do that.
 01 03 Well wallop my withers, Spike. Isn't that just like a boy? Can't handle the least bit of sentiment.
 01 03 Whoa Nelly!
-01 03 [chuckles]
-01 03 [music]
-01 03 [credits]
+01 03 
+01 03 
+01 03 
 01 04 Boy howdy! I got my work cut out for me. That there is the biggest bumper crop a' apples I ever laid eyes on.
 01 04 Come on, big brother! You need to rest up and get yourself better. I haven't met an apple orchard yet that I can't handle. Oops, sorry. I'll take a bite out of this job by day's end.
 01 04 Are you sayin' my mouth is makin' promises my legs can't keep?
 01 04 Why of all the... This is your sister Applejack, remember? The loyalest of friends and the most dependable of ponies?
-01 04 Don't you use your fancy mathematics to muddle the issue! I said I could handle this harvest and I'm gonna prove it to you. I'm gonna get every last apple out of those trees this applebuck season all by myself. [gulps]
+01 04 Don't you use your fancy mathematics to muddle the issue! I said I could handle this harvest and I'm gonna prove it to you. I'm gonna get every last apple out of those trees this applebuck season all by myself. 
 01 04 [<a href="/wiki/My_Little_Pony_theme_song" title="My Little Pony theme song">theme song</a>]
 01 04 Well I better get kickin'. These apples aren't gonna shake themselves outta the trees. Hey! Oh no.
 01 04 YEEHAW!
 01 04 [ponies cheer]
 01 04 Move aside, Winona. Put 'em up, girl!
-01 04 Come on, little doggies! Turn! [whistle] Winona, put 'em up! Ha hah! Gotcha. [grunt]
-01 04 Attagirl. [grunts] Yee haw!
+01 04 Come on, little doggies! Turn!  Winona, put 'em up! Ha hah! Gotcha. 
+01 04 Attagirl.  Yee haw!
 01 04 [ponies cheer]
 01 04 Whoaaa. Hooie. Now what was that all about?
 01 04 I completely understand. Just next time, try and steer clear of Ponyville.
 01 04 Yee haw!
-01 04 I'm here. I'm here. [yawn] [sigh] Sorry I'm late--whoa--I was just... whoa... Did I get your tail? Miss Mayor. Thank you kindly for this here... award thingy. [yawn] It's so bright and shiny and, heh, heh heh, I sure do look funny heh. Ooo-ooo.
+01 04 I'm here. I'm here.   Sorry I'm late--whoa--I was just... whoa... Did I get your tail? Miss Mayor. Thank you kindly for this here... award thingy.  It's so bright and shiny and, heh, heh heh, I sure do look funny heh. Ooo-ooo.
 01 04 Ooo-ooo.
-01 04 [yawn] Yeah. I like helping the ponyfolks and [yawn] and stuff. [snore] Oh, uh, yeah. Uh, Thanks.
+01 04  Yeah. I like helping the ponyfolks and  and stuff.  Oh, uh, yeah. Uh, Thanks.
 01 04 [sounds of dragging metal]
-01 04 [grunts] [sigh] Phew. [gasp] O-oah.
+01 04   Phew.  O-oah.
 01 04 Whoops.
-01 04 [snore]
-01 04 [snore]
+01 04 
+01 04 
 01 04 Oh, howdy Twilight.
 01 04 It's Applebuck season. Whoa.
 01 04 Neh, It's what the Apple family calls harvestin' time. We gather all the apples from the trees so we can sell 'em.
 01 04 'cause Big McIntosh hurt himself.
-01 04 [sigh] They were just here for the Apple family reunion. They actually live all over Equestria and are busy harvestin' their own orchards. So, uh, I'm on my own. Which means, I should really get back to work. Ahem... hint hint? Get back to work?
+01 04  They were just here for the Apple family reunion. They actually live all over Equestria and are busy harvestin' their own orchards. So, uh, I'm on my own. Which means, I should really get back to work. Ahem... hint hint? Get back to work?
 01 04 Could you step aside, Twilight?
 01 04 Eh, don't any of you three worry none, I'm just fine and dandy. Whoa.
 01 04 Help? No way, no how.
 01 04 Is that a challenge?
 01 04 Well, I'm gonna prove to you that I can do it! Now if you'll excuse me, I've got apples to buck.
-01 04 [yawn] I'm a might' sorry, Rainbow. I was busy applebuckin' and I guess ah, I closed my eyes for a second and, when I woke up, I was late. Now, what's this new trick a' yours?
+01 04  I'm a might' sorry, Rainbow. I was busy applebuckin' and I guess ah, I closed my eyes for a second and, when I woke up, I was late. Now, what's this new trick a' yours?
 01 04 Uh... Yeah.
 01 04 Isn't that a might' dangerous?
 01 04 Well, alrighty then. Oh my.
-01 04 [crash]
-01 04 Got it. [grunt] [grunt] [grunt]
-01 04 You are. I'm okay. Really. I-I have an idea. Watch this. [groan] Ta da! Oh... Maybe not. Okay, one more try. I'm sure to get it this time.
+01 04 
+01 04 Got it.   
+01 04 You are. I'm okay. Really. I-I have an idea. Watch this.  Ta da! Oh... Maybe not. Okay, one more try. I'm sure to get it this time.
 01 04 Heh heh... Here I go!
 01 04 You're welcome!
 01 04 Ow!
@@ -121,10 +121,10 @@
 01 04 Wheat worms? Oh, that must be fancy talk for earthworms.
 01 04 If you say so.
 01 04 Yeah! Muffin spectacles! Get 'em while they're hot.
-01 04 [grunt] [snore] What? Huh? [grunt] [snore]
-01 04 Wha, huh? Oh, it's you, Twilight. [yawn] I know what you're gonna say, but the answer is still no.
-01 04 Hardy har. [groan] And no I don't.
-01 04 Help? No thanks. [groan] A little more... [groan] Little... [grunt] There. I'll prove that this apple can handle these apples. Come on [grunt] apples [grunt] fall off [grunt].
+01 04   What? Huh?  
+01 04 Wha, huh? Oh, it's you, Twilight.  I know what you're gonna say, but the answer is still no.
+01 04 Hardy har.  And no I don't.
+01 04 Help? No thanks.  A little more...  Little...  There. I'll prove that this apple can handle these apples. Come on  apples  fall off .
 01 04 I knew that.
 01 04 You know, I'm a little busy to get lectured right now, Twilight.
 01 04 Ugh. No, no, NO! How many times do I gotta say it? I don't need no help from nopony!
@@ -133,16 +133,16 @@
 01 04 I do NOT need any direction on corrallin' critters. Right, Winona?
 01 04 That's right! Let's go, bunnies. In the center. Hop to it. Swell. Just swell. Put 'em up, Winona!
 01 04 We know what we're doin'. Get along, little bunnies.
-01 04 Must [gasp] keep [gasp] buckin'... just [gasp] a few [gasp] more. Must finish harvestin'.
-01 04 [grunts] Ha! No I don't. Look, I did it. I harvested the entire Sweet Apple Acres without your help. How d'ya like them apples?
-01 04 [mumbling] Where'd all the apple...? [mumbling] [sigh]
+01 04 Must  keep  buckin'... just  a few  more. Must finish harvestin'.
+01 04  Ha! No I don't. Look, I did it. I harvested the entire Sweet Apple Acres without your help. How d'ya like them apples?
+01 04  Where'd all the apple...?  
 01 04 Huh?
 01 04 Okay, Twilight.
 01 04 Yes, Twilight. Yes, please. I could really use your help.
-01 04 How about y'all take a little break? I got some fine apple juice waitin' for ya! [sigh] Girls, I can't thank you enough for this help. I was acting a bit stubborn.
+01 04 How about y'all take a little break? I got some fine apple juice waitin' for ya!  Girls, I can't thank you enough for this help. I was acting a bit stubborn.
 01 04 Okay. A mite stubborn, and I'm awful sorry. Now, I know the town gave me the Prized Pony award, but the real award is having you five as my friends.
-01 05 [gasp] Land sakes!
-01 05 [chuckles]
+01 05  Land sakes!
+01 05 
 01 05 [squeaky toy]
 01 05 Who's this Gilda I've heard nothing about?
 01 05 Spittin' snakes. Hah, somepony pulled that prank on me last month.
@@ -161,7 +161,7 @@
 01 06 Mm-hmm.
 01 07 What in the name of all things cinnamon swirled is a full-grown dragon doing here in Equestria?
 01 07 Huh?
-01 07 [affirmations]
+01 07 
 01 07 Yaaa!
 01 07 [pop whistles]
 01 07 Let's go!
@@ -169,7 +169,7 @@
 01 07 Hold on, now. I think we should all go up together. Safety in numbers an all.
 01 07 I'll need this if I'm going to take her around the mountain another way.
 01 07 Don't worry, Twi. We'll be there lickety-split.
-01 07 [panting] We. Made. It. [panting]
+01 07  We. Made. It. 
 01 07 You could just leap on over.
 01 07 That's it.
 01 07 Everypony okay?
@@ -181,10 +181,10 @@
 01 07 Now what?
 01 07 What in tarnation...?
 01 07 Twilight! You gotta come see this! She's just five away from a new pony record!
-01 08 [groans]
-01 08 [spit] Just take the broken limbs down, Rarity. Don't y'all care about nothin' other than prettifyin'?
+01 08 
+01 08  Just take the broken limbs down, Rarity. Don't y'all care about nothin' other than prettifyin'?
 01 08 Yeah, well, the storm's gonna make an even bigger mess if we don't prune all these loose branches so they don't tumble down on anypony.
-01 08 [sigh] Think more practical-like, will ya? They accidentally skipped a scheduled sprinkle last week, so we need a doozy of a downpour to make up for it, is all.
+01 08  Think more practical-like, will ya? They accidentally skipped a scheduled sprinkle last week, so we need a doozy of a downpour to make up for it, is all.
 01 08 [rain pouring down]
 01 08 Ya shoulda hurried up and finished the job already.
 01 08 Uh, there. Hunker down to yer heart's content whilst I finish things.
@@ -204,27 +204,27 @@
 01 08 Twilight?
 01 08 Whoa, nelly. Is inside a tree really the best place to be in a lightning storm?
 01 08 Thank ya kindly for yer hospitality.
-01 08 [grumble] If I gotta spend one more second with that fussbudget Rarity today, I can't be held responsible for what I'm gonna do.
-01 08 [gasp] What in tarnation... Now wait just a goll-darn minute. Ya make me wash the mud off my hooves, but it's okay for y'all to have mud all over yer faces?
-01 08 Slumber 101: Everything You... Oh hey, heh, would'ja look at the time. I gotta skidaddle on home quick. I'm powerful late for, uh, fer somethin'. Uh, g'night. [cry] Or maybe I'll sit here for a spell.
+01 08  If I gotta spend one more second with that fussbudget Rarity today, I can't be held responsible for what I'm gonna do.
+01 08  What in tarnation... Now wait just a goll-darn minute. Ya make me wash the mud off my hooves, but it's okay for y'all to have mud all over yer faces?
+01 08 Slumber 101: Everything You... Oh hey, heh, would'ja look at the time. I gotta skidaddle on home quick. I'm powerful late for, uh, fer somethin'. Uh, g'night.  Or maybe I'll sit here for a spell.
 01 08 Blahch. What in the world is this for?
 01 08 Puffiness-schmuffiness! That's good eatin'!
 01 08 Of course not, 'n you wouldn't either, I reckon?
-01 08 You betcha. [spit]
+01 08 You betcha. 
 01 08 You know, there's fussy, 'n there's just plain gettin' on my nerves.
 01 08 Yay.
 01 08 Just fine, Rarity.
 01 08 Me! I'd like to tell y'all the terrifying tale of the prissy ghost who drove everypony crazy with her unnecessary neatness. Oo-oo! I'm sure y'all are familiar with that one?
 01 08 That's not a real story. You made it up.
-01 08 [gasp] [scream]
-01 08 Nah, ya just eat 'em. [munch] Mmm-mmm! [belch]
+01 08  
+01 08 Nah, ya just eat 'em.  Mmm-mmm! 
 01 08 Aw, I was just about to, but you interrupted me. Pardon.
 01 08 Oh yeah? Well I dare Rarity ta lighten up and stop obsessin' over every last little detail, for a change.
 01 08 And I think the truth is some pony oughta quit with her fussin' so the rest of us can get things done.
 01 08 I dares you to step outside and let your precious, tidy mane get ruined again.
 01 08 Hah!
-01 08 [snickers] [laughs]
-01 08 [gasp] Happy?
+01 08  
+01 08  Happy?
 01 08 I dare ya to enter the next rodeo when it comes to town.
 01 08 I dare ya to not comb your mane a hundred times before bed.
 01 08 I will if she will.
@@ -235,7 +235,7 @@
 01 08 Yeah, that's not gonna happen. Geronimo!
 01 08 Ah.
 01 08 Um, yeah?
-01 08 Can't hear ya, I'm asleep. [snore]
+01 08 Can't hear ya, I'm asleep. 
 01 08 I ain't budgin'.
 01 08 Give it back!
 01 08 Yes, you will!
@@ -245,38 +245,38 @@
 01 08 I've been tryin' my darndest to get along.
 01 08 No, it was me.
 01 08 Me!
-01 08 [gasp]
+01 08 
 01 08 Ya see? That's why we needed to take down all those loose branches in town, not spiffy 'em up.
 01 08 Outta my way, missy! Time's a-wastin'.
 01 08 No waitin'! No stoppin'! Doin'! And that, my friends, is what we call gettin' 'er done.
-01 08 Well, ya should'a tried harder. [sigh] I'm mighty sorry, Twilight.
+01 08 Well, ya should'a tried harder.  I'm mighty sorry, Twilight.
 01 08 What in tarnation are y'all doin' over there?
 01 08 We gotta do somethin'!
-01 08 [grunts] Rarity, for pony's sake, stop sweatin' the small stuff and help me get rid of this thing! I said hussle over here and help me! Look, I'm sorry, alright?
+01 08  Rarity, for pony's sake, stop sweatin' the small stuff and help me get rid of this thing! I said hussle over here and help me! Look, I'm sorry, alright?
 01 08 I said I'm sorry! I should'a listened to you when you noticed where this here branch would end up. Yer annoyin' attention to detail would'a saved us from this whole mess. But right now, ya need to stop bein' so dang fussy pickin' up all the little things and help me move the one big thing in here that actually matters! Please!
 01 08 Consarnit! What the... eh... you... I mean, yes, ickiness is often a side effect of hard work. But y'all need to get over it, on account I just can't fix this mess I made myself. I need your help.
-01 08 [grunt]
+01 08 
 01 08 Better?
-01 08 [laughter]
+01 08 
 01 08 Is it bigger than a barn?
-01 08 [sigh] We're never gonna guess what y'er thinkin' of, it could be anythin'.
+01 08  We're never gonna guess what y'er thinkin' of, it could be anythin'.
 01 08 She means are we gettin' any closer with our guesses?
 01 08 Is it... a six-legged pony with a purple polka-dotted mane and shootin' stars comin' out of his eyes?
 01 08 It is?
-01 08 [laughter]
+01 08 
 01 08 If only somepony hadn't been so persnickety.
 01 08 Sorry for being such a pain in the patootie.
 01 08 That's kind of ya to say, but I'm the one who's sorry.
 01 08 Ugh. Are not.
 01 08 Are not!
 01 08 Are not.
-01 08 [laughter]
-01 08 [cheers]
-01 08 [laughter]
-01 08 Whu, which is it? [crash] Whoa! That mess is your fault, not mine. [laughter]
-01 08 [laughter]
-01 08 [music]
-01 08 [credits]
+01 08 
+01 08 
+01 08 
+01 08 Whu, which is it?  Whoa! That mess is your fault, not mine. 
+01 08 
+01 08 
+01 08 
 01 09 We're hidin' from her!
 01 09 [All gasp]
 01 09 [<a href="/wiki/My_Little_Pony_theme_song" title="My Little Pony theme song">theme song</a>]
@@ -292,7 +292,7 @@
 01 09 All on their own!
 01 09 Apple Bloom! Hush and let the big ponies talk.
 01 09 Hey! Where's Apple Bloom?
-01 09 [sigh] That silly lil' filly! I told her to stay put!
+01 09  That silly lil' filly! I told her to stay put!
 01 09 Apple Bloom?
 01 09 You get back here right now!
 01 09 Y-you keep your creepy mumbo-jumbo to yourself, ya hear?
@@ -316,23 +316,23 @@
 01 09 No, Rainbow Dash. Other way.
 01 09 I'm comin' for ya, Apple Bloom!
 01 09 Whoa there. Easy, Rainbow Crash.
-01 09 [grunt]
-01 09 [gasp] Apple Bloom! You're okay!
+01 09 
+01 09  Apple Bloom! You're okay!
 01 09 What in the hay does that mean?
 01 09 ... Will somepony please talk normal?
 01 09 LITTLE JOKES?! Very funny.
 01 09 I'm right here little sis. I ain't tiny no more!
 01 10 Here's all those apples you wanted, Fluttershy, but I still can't figure why y'need so many. HEY!
-01 10 [scoffs] I'll rastle 'em up, but I need everypony's help to do it. Twilight, you and Rarity wait over there. I'll herd the little critters straight at ya like a funnel. Rainbow Dash, you and Fluttershy stay on top of 'em, don't let 'em fly away.
+01 10  I'll rastle 'em up, but I need everypony's help to do it. Twilight, you and Rarity wait over there. I'll herd the little critters straight at ya like a funnel. Rainbow Dash, you and Fluttershy stay on top of 'em, don't let 'em fly away.
 01 10 Yeeeeeee-haw!
 01 10 Alright y'all, here goes nothin'. Look out Rarity, that one's fixin' to get away. Keep a lead on 'em, Rainbow Dash. Hold on girls, we're almost there.
 01 10 Forget her ladies. Focus. Head 'em up and move 'em out.
 01 10 Couldn't a'done it without y'all.
 01 10 Looks like our problems are solved.
 01 10 Come on girls, there's no reasoning with that one. She's a few apples short of a bushel.
-01 10 [gasp] My apples!
+01 10  My apples!
 01 10 No woodland creature's gonna eat the Apple Family's crop.
-01 10 Brace yourself y'all, here they come. [gasp] Didn't see that one comin'.
+01 10 Brace yourself y'all, here they come.  Didn't see that one comin'.
 01 10 So you knew what those critters were all along, huh Pinkie Pie?
 01 11 But the food we've stored is runnin' out
 01 11 And we can't grow in this cold
@@ -362,9 +362,9 @@
 01 11 And it's gonna be all to pieces disastrous if we can't get our seeds all planted.
 01 11 Oh good gravy, Caramel lost the grass seeds again, didn't he?
 01 11 Spike's sure gonna be in for a hog-sized surprised when that last piece a' ice melts.
-01 11 [laughter]
+01 11 
 01 12 Don't get your mane in a tangle. You'll get your cutie mark. Every pony gets one eventually.
-01 12 'course you can. Y'know, I was the last pony in my class to get my cutie mark, and I couldn't be prouder of it. I know my future was to run Sweet Apple Acres, and these bright shiny apples sealed the deal. [gasp] Come to think of it, Granny Smith was the last one in her class, too. Huh, same as Big McIntosh.
+01 12 'course you can. Y'know, I was the last pony in my class to get my cutie mark, and I couldn't be prouder of it. I know my future was to run Sweet Apple Acres, and these bright shiny apples sealed the deal.  Come to think of it, Granny Smith was the last one in her class, too. Huh, same as Big McIntosh.
 01 12 Get your delicious nutritious apples here!
 01 12 Heh... she's so creative, heh.
 01 12 You forgot your change!
@@ -382,10 +382,10 @@
 01 12 And they got all the time in the world to figure it out, not just an afternoon.
 01 12 [ponies chatter]
 01 13 Hoo-wee! Not a bad pitch for a pony who works with her head in the clouds.
-01 13 I know I can. [grunt] Oh, for Pete's sake!
+01 13 I know I can.  Oh, for Pete's sake!
 01 13 All right, all right. You got another throw there, pony girl.
 01 13 Wow, Rainbow, heh. You couldn't hit a barn door with that kind of a throw.
-01 13 [grunt] Yee-haw! It's a ringer. That's how you do it down here on the farm.
+01 13  Yee-haw! It's a ringer. That's how you do it down here on the farm.
 01 13 Ah, don't feel bad, Rainbow. It's all in good fun.
 01 13 Besides, you're a mighty good athlete. I'm just better, heh heh heh.
 01 13 Well, I was gonna say in all of Equestria, but that might be gilding the lily.
@@ -395,30 +395,30 @@
 01 13 An Iron--
 01 13 See, we've set up a bunch of events to decide which one of us is--
 01 13 To be our judge and keep score.
-01 13 [gasp] Dagnabbit.
+01 13  Dagnabbit.
 01 13 You're kiddin'! That breaks my record from last year's rodeo.
-01 13 [sigh] Nuts and chews! Still, that's 22 seconds. Not too shabby. Hey, don't be nervous. Remember, it's all in good fun. Now git on up there.
+01 13  Nuts and chews! Still, that's 22 seconds. Not too shabby. Hey, don't be nervous. Remember, it's all in good fun. Now git on up there.
 01 13 Woo! That was some fancy hoofwork there, Rainbow!
 01 13 What was the time on that, Spike?
 01 13 18 seconds. Rainbow, are you sure you're not secretly a rodeo pony?
 01 13 Yeah, well, don't you go gettin' used to it.
 01 13 [bell rings]
 01 13 [ponies cheer]
-01 13 Mighty respectable, [spit] but let me show ya how it's really done. [grunt] [bell rings]
+01 13 Mighty respectable,  but let me show ya how it's really done.  [bell rings]
 01 13 [ponies cheer]
 01 13 Years of applebuckin'.
 01 13 [bell rings]
-01 13 [grunt]
+01 13 
 01 13 [ponies cheer]
 01 13 [bell rings]
-01 13 [grunt] Wuh
+01 13  Wuh
 01 13 [bell rings]
 01 13 Be a good sport, Applejack.
-01 13 [grunt]
-01 13 [gasp]
-01 13 [mumbling] That's not fair. You can't use your wings to help you win.
-01 13 [mumbling] You're cheatin'!
-01 13 I said... uh-oh. [grunt]
+01 13 
+01 13 
+01 13  That's not fair. You can't use your wings to help you win.
+01 13  You're cheatin'!
+01 13 I said... uh-oh. 
 01 13 [crowd cheers]
 01 13 [bell rings]
 01 13 Only 'cause you cheated.
@@ -428,18 +428,18 @@
 01 13 Hah! Prove it.
 01 13 Tomorrow is the annual Runnin' of the Leaves. I challenge you to race me in it.
 01 13 Hold on! There is one condition: the point is to run, so no wings allowed.
-01 13 [spit]
-01 13 [chuckle]
-01 13 [grunts]
+01 13 
+01 13 
+01 13 
 01 13 The Iron phony, you mean.
 01 13 I'm ready to run a good, clean race.
 01 13 You are not allowed to use your wings.
-01 13 [grunts] Trussed up like a turkey. Well, a turkey who can't fly, that is.
+01 13  Trussed up like a turkey. Well, a turkey who can't fly, that is.
 01 13 'least now we know we're racin' fair and square.
-01 13 [trumpets]
+01 13 
 01 13 Twilight? What in tarnation are you doin' up here?
-01 13 [snickers] But have you ever run a race?
-01 13 Well, I think that's just dandy, Twilight. Good luck. [snickers]
+01 13  But have you ever run a race?
+01 13 Well, I think that's just dandy, Twilight. Good luck. 
 01 13 Not so easy without wings, is it?
 01 13 Whoa! I don't believe it.
 01 13 Not the scenery, Twilight. Rainbow Dash just tripped me.
@@ -448,13 +448,13 @@
 01 13 See you at the finish line!
 01 13 It is for you. Heh.
 01 13 Ugh. Hey, Rainbow!
-01 13 [gasp] Why, that little cheater did that on purpose. It's on.
+01 13  Why, that little cheater did that on purpose. It's on.
 01 13 Later!
 01 13 Er, no, but the sign's pointed this way... Rainbow. Mind giving me a lift?
 01 13 No, I said no wings.
 01 13 Whoa!
 01 13 You do?
-01 13 [grunt]
+01 13 
 01 13 Cut it out!
 01 13 You started it.
 01 13 Oh no, you won't.
@@ -485,17 +485,17 @@
 01 14 Why, they're the best duds I ever did see.
 01 14 Whoa, Nelly! You could sell a ton o' dresses to this guy. Your business will be boomin'!
 01 14 Why's everypony lookin' at us like that?
-01 14 Nah. [pause] Okay, maybe a little.
+01 14 Nah.  Okay, maybe a little.
 01 14 Well, we can't just leave Rarity like this.
 01 14 Thanks to Fluttershy's freaky knowledge of sewing.
 01 14 Well, that's mighty big of you.
 01 14 Oh, right. That.
 01 15 Uh, Twilight? Why are you hanging out in a ditch?
-01 15 [gasp] Twitchy tail? Pinkie Sense? Woah! Nyu-uh!
+01 15  Twitchy tail? Pinkie Sense? Woah! Nyu-uh!
 01 15 I know it doesn't make much sense, but those of us who have been in Ponyville a while, have learned over time that, if Pinkie's-a-twichin', you better listen.
 01 15 Twilight! You came to visit my new apple cellar, how nice. Twi? You okay? Uh, Twi?
 01 15 Takin' more apples to my new apple cellar. How 'bout you Pinkie? Whatchu doin'?
-01 15 [gasp] That's where Fluttershy's headed!
+01 15  That's where Fluttershy's headed!
 01 15 We better go and make sure she's okay.
 01 15 I hope nothin'.
 01 15 I'm tryin' not to think about it.
@@ -508,14 +508,14 @@
 01 15 Um... Twilight?
 01 15 Who cares? RUN!
 01 15 [ponies screaming]
-01 15 [grunt]
+01 15 
 01 15 What are you talking about Pink?
-01 16 [grunt]
+01 16 
 01 16 Golly. I'd love to see you strut yer stuff in that competition.
 01 16 And Rainbow Dash here's the only pony to ever pull it off!
 01 16 Nervous? Have you spit yer bit or somethin'? She was tootin' her own horn louder then the brass section of a marching band!
 01 16 How'd you do that?
-01 16 [gasp]
+01 16 
 01 16 And we came to cheer you to victory!
 01 16 Yes!
 01 16 Since we're up here, I'd sure like to get a look at where the weather's made.
@@ -523,8 +523,8 @@
 01 16 Oh, don't worry about it kiddo.
 01 18 We're almost there, youngin's.
 01 18 Here we are.
-01 18 Cutie Mark Crusaders, welcome to your new clubhouse. [silence] Well, don't thank me all at once. This was my clubhouse when I was your age. Sure it hasn't been used in a while, but it's empty and on a secluded, private part of the farm. And it's all yours. It just needs a little, uh... TLC.
-01 18 Well, maybe y'all will get your cutie marks when you discover your talent for... Waaah! [crash] Uh... house cleanin'?
+01 18 Cutie Mark Crusaders, welcome to your new clubhouse.  Well, don't thank me all at once. This was my clubhouse when I was your age. Sure it hasn't been used in a while, but it's empty and on a secluded, private part of the farm. And it's all yours. It just needs a little, uh... TLC.
+01 18 Well, maybe y'all will get your cutie marks when you discover your talent for... Waaah!  Uh... house cleanin'?
 01 18 [<a href="/wiki/My_Little_Pony_theme_song" title="My Little Pony theme song">theme song</a>]
 01 18 [Birds chirping]
 01 18 [All gasp]
@@ -553,7 +553,7 @@
 01 21 Heh... Uh... Well, ya know, being replanted in a whole new place is very upsettin' for a tree... An' Bloomberg here is one of my favorites.
 01 21 But Bloomberg's the whole reason we're makin' this trip. He needs his rest so we can give him as a gift to my relatives in Appleloosa.
 01 21 Who you calling a baby?! Bloomberg's no baby! Don't wet widdle Rarity make you all saddy-waddy. Bloomberg's a big and strong apple tree. Yes, he is. A-coochie-coochie-coo-coo-coo!
-01 21 [gasp] They've got Bloomberg!
+01 21  They've got Bloomberg!
 01 21 Braeburn, listen –
 01 21 Braeburn, listen, something terrible has happened –
 01 21 … Listen, Braeburn, I – Oof!
@@ -580,9 +580,9 @@
 01 23 Apple Bloom!
 01 23 I never told you that story?
 01 23 Why, shoot. I was just a little filly. Even littler than y'all.
-01 23 [voiceover] I didn't want to spend my life at a muddy old apple farm. I wanted to live the sophisticated life, like my Aunt n' Uncle Orange. So I set out to try my luck in a big city. Manehattan! The most cosmopolitan city in all of Equestria.
-01 23 [voiceover] I knew I'd find out who I was meant to be in Manehattan.
-01 23 [voiceover] What's he talking about? What do I say? I don't wanna look like a fool.
+01 23  I didn't want to spend my life at a muddy old apple farm. I wanted to live the sophisticated life, like my Aunt n' Uncle Orange. So I set out to try my luck in a big city. Manehattan! The most cosmopolitan city in all of Equestria.
+01 23  I knew I'd find out who I was meant to be in Manehattan.
+01 23  What's he talking about? What do I say? I don't wanna look like a fool.
 01 23 I never felt so homesick in all my days as I did right then.
 01 23 It was amazin'! A rainbow pointin' right back to... home. In that moment, it all became clear. I knew right then just who I was supposed to be. That's when this here appeared.
 01 23 I've been happily workin' in the farm ever since. There they are! Get back here, ya thievin' varmints!
@@ -594,9 +594,9 @@
 01 25 Hooie! Ah am beat! I haven’t danced that much since… Well, since your last party. Thanks again for the invite!
 01 25 Huh? Oh, hi, Pinkie Pie! What brings you ’round these parts?
 01 25 This afternoon? A-as in, this afternoon this afternoon?
-01 25 Uh, well, ah… ah… uh… ah don’t think I can make it ’cause… uh… ah have to… uh… uh, you know what? Ah… uh… pick apples! Yep, apples! ’Cause that’s what we do! With the… apples. We, uh… pick ’em! [nervous chuckle] [gulp]
-01 25 [sigh]
-01 25 [gasp]
+01 25 Uh, well, ah… ah… uh… ah don’t think I can make it ’cause… uh… ah have to… uh… uh, you know what? Ah… uh… pick apples! Yep, apples! ’Cause that’s what we do! With the… apples. We, uh… pick ’em! [nervous chuckle] 
+01 25 
+01 25 
 01 25 Oh! Howdy, pardn’r!
 01 25 No! Uh, I mean, yes, I mean… you can’t come in here!
 01 25 Oh, well, she was just bringin’ in some… supplies! Yup, supplies for the… renovation! Fixin’ up the whole thing, top to bottom… uh, lots of construction goin’ on in there right now.
@@ -620,7 +620,7 @@
 01 26 Howdy, partner! You hungry?
 01 26 Well, what's you're hungering for? Caramel apple? Apple pie? Apple fritter? Apple fries?
 01 26 Well, thank you kindly, sir! Yeehaw! In the first minute, I made my first sale. Just like I expected.
-01 26 First minute, first sale. Second... Fourth... Sixth... Sixtieth minute... no sales. [sigh] This ain't what I expected at all.
+01 26 First minute, first sale. Second... Fourth... Sixth... Sixtieth minute... no sales.  This ain't what I expected at all.
 01 26 ...let it slip by.
 01 26 Two apple fritters comin' right up. That'll be four bits.
 01 26 It's okay, Rarity. I got you covered.
@@ -642,7 +642,7 @@
 02 01 I was talking to... uh... nopony! Nopony whatsoever!
 02 01 Nothing. Come on, uh, we best be going.
 02 01 I didn't notice anything strange about Pinkie.
-02 01 [laughing]
+02 01 
 02 01 Chocolate milk.
 02 01 Well, looky there. Rainbow Dash is flying away. She's abandonin' us.
 02 02 Our friendship...over?
@@ -653,12 +653,12 @@
 02 02 I guess you just bring out the worst in us, Spike.
 02 02 I don't have any book.
 02 02 Beats me.
-02 02 [yawn]
+02 02 
 02 02 Mine's workin'. There must be somethin' wrong with yours.
 02 02 I better go, too. I've got new better friends waiting for me at the farm.
 02 02 And so I tried to defeat Discord, but none of my so-called "friends" would lift a hoof to help me.
 02 02 Oh, now you want to fight. Where were you when I was battlin' Discord?
-02 02 Wh-what happened? Twilight! [sigh] I saw a vision of us feudin' and fightin'. I couldn't face the truth, so I started tellin' lies. Can you ever forgive me?
+02 02 Wh-what happened? Twilight!  I saw a vision of us feudin' and fightin'. I couldn't face the truth, so I started tellin' lies. Can you ever forgive me?
 02 02 She could be anywhere by now! We're never gonna find her.
 02 02 The same way he got you to think that cheap rock was a bona fide diamond.
 02 02 Rarity, Pinkie, hold on! Y'all are slowing her down!
@@ -671,7 +671,7 @@
 02 03 Yes?
 02 03 Yes?
 02 03 [sighs of relief]
-02 03 [giggles]
+02 03 
 02 03 No offense, sugarcube, but it looks like somepony's gettin' themselves all worked up over nothin'.
 02 03 Come on now. Have a seat and stop sweatin' the small stuff.
 02 03 Y'all hear that? What in the name of all things oats 'n apples is goin' on here?!
@@ -682,16 +682,16 @@
 02 03 So when she ran off all worked up, not a single one of us tried to stop her.
 02 03 Mmhmm.
 02 03 [All right, etc]
-02 03 [cheering]
+02 03 
 02 03 Y'all heard the Princess. Spike, take a letter. [clears throat]
 02 03 Dear Princess Celestia, we're writin' to you because today we all learned a little somethin' about friendship.
 02 03 Signed, your loyal subjects.
-02 03 [laughs]
+02 03 
 02 04 Howdy Spike, hey Twilight! Nice costume.
 02 04 With that beard, I reckon you're some sorta country music singer.
 02 04 While y'all here, ya' feel like bobbin' for an apple?
 02 04 [cheering and applauding]
-02 04 Whoop. Careful there, partner. [whimper]
+02 04 Whoop. Careful there, partner. 
 02 04 "Fit in"? Really?
 02 04 I mean... that's easy! All you gotta do is have the right attitude. Loosen up a bit, be positive, play a few games, have some fun.
 02 04 You can do it, princess!
@@ -705,7 +705,7 @@
 02 05 Exactly. Sweetie Belle, just give Rarity some time. She'll come around. Sisters always do.
 02 05 Come on, now. Apple Bloom and I got some chores to finish up on. Maybe you can help!
 02 05 Oh, come on, that's just stinkin' thinkin'. Watch!
-02 05 [laughing]
+02 05 
 02 05 Good catch there, Apple Bloom! Whoo!
 02 05 [more laughing]
 02 05 Since we can't sell the bruised apples, we gotta collect them all for the pigs to eat.
@@ -720,24 +720,24 @@
 02 05 H- Hold on, Sweetie Belle. Don't get ahead of yourself here.
 02 05 Yeah, um-
 02 05 Heh, um, actually, I-
-02 05 [chuckles] Oh Rarity, once again you're thinkin' about yourself. Bein' sisters is a give and take. You've been doin' a whole lotta takin', but you haven't been doin' a whole lotta givin'.
+02 05  Oh Rarity, once again you're thinkin' about yourself. Bein' sisters is a give and take. You've been doin' a whole lotta takin', but you haven't been doin' a whole lotta givin'.
 02 05 But ya never give in. Bein' sisters is like... apple pie. You can have amazin' apples, and you can have a wonderfully crispy crust, but only together you can have a perfect apple pie.
 02 05 He sure is a cutie.
 02 05 It's almost time!
 02 05 AB and I figured since we do this every year...
 02 05 Sister for a day.
 02 05 [deep breath]
-02 05 [chuckles] We switched places over at the very first mudhole.
+02 05  We switched places over at the very first mudhole.
 02 05 Mm-hmm.
 02 05 Yeah!
-02 05 [laughing]
-02 06 [whistles]
+02 05 
+02 06 
 02 06 [more cheering]
 02 06 Yee haw, little sis! Congratulations on gettin' not just one, but two cutie marks! We're mighty proud of you, right Big McIntosh?
 02 06 I've never seen anythin' like it, have you Big Mac?
 02 06 Why Apple Bloom, I think you're ready to hit the rodeo circuit right now!
 02 06 Night! Oh my, little Apple Bloom has finally blossomed, hasn't she, Big Mac?
-02 06 [grunting] What in tarnation is that? Apple Bloom, what is all that awful... tapping? Three cutie marks?!
+02 06  What in tarnation is that? Apple Bloom, what is all that awful... tapping? Three cutie marks?!
 02 06 C'mere, you! Ow! Ow! Whoa!
 02 06 Well I know somepony who might!
 02 06 Cutie pox?!
@@ -782,11 +782,11 @@
 02 10 You bet they are, birthday boy.
 02 10 C'mon, Spike, you already thanked me fifteen times. I'm startin' to get a little embarrassed.
 02 10 Now who in Ponyville would steal my apples? For that matter, who would steal my leaves?
-02 10 [laughs] Oh, that's a good one, Twilight. Sweet little Spike, running wild. Ha, what a laugh.
+02 10  Oh, that's a good one, Twilight. Sweet little Spike, running wild. Ha, what a laugh.
 02 10 Twilight, get my rope.
 02 10 Help!
 02 10 Get us out of here right now!
-02 10 [gasps] What was that?
+02 10  What was that?
 02 11 Whooowee! Canterlot, here we come!
 02 11 There's so much to look at! I feel like my durned eyes are gonna pop right out of my head!
 02 11 It's a reenactment of the founding of Equestria. It's not the 'Rainbow Dash Show'.
@@ -809,37 +809,37 @@
 02 11 How about 'Earth'?
 02 11 I agree. Let's all calm down.
 02 11 I know, I know.
-02 11 [gasp] [sigh]
+02 11  
 02 11 [windigo roaring]
-02 11 [screams]
+02 11 
 02 11 Windigos?
 02 11 Then... this is our fault. We three tribes... we brought this blizzard to our home by fightin' and not trustin' each other. Now it's destroyin' this land, too.
-02 11 [giggling]
+02 11 
 02 11 [windigo snorts]
-02 11 [laughing]
+02 11 
 02 11 Well, I don't hate you guys either.
 02 11 No matter what our differences, we're all ponies.
 02 11 [ice cracking]
 02 11 I didn't know unicorns could do that.
 02 11 Don't blame me. Rainbow Dash should've flown up there and shut it. After all, she's got wings.
-02 12 [snoring]
+02 12 
 02 12 [pots and pans banging, continues under]
 02 12 Yay, the zap apples are comin'!
-02 12 [grunts]
+02 12 
 02 12 There's the zap apple leaves, right on schedule!
 02 12 [springing sounds]
 02 12 I'm sorry, Apple Bloom. I already told you that we just can't take a break from harvest to come to your school. You know what'll happen.
 02 12 I'm sorry Apple Bloom, but don't you fret. Granny Smith's got no shortage of entertainin' stories to tell.
 02 12 The zap apple harvest has begun!
-02 12 [thud]
+02 12 
 02 12 So I take it Family Appreciation Day went well?
 02 12 Who wants to help Granny sing to the water?
-02 12 [laughing]
-02 12 [credits]
+02 12 
+02 12 
 02 13 Can you believe the new baby is finally here?
 02 13 Now how in thunderation is one of them twins a pegasus, and the other one a unicorn?
 02 13 Babysit? Now? When there's a swarm a' hungry caterpillars headed this way? I gotta get all these apples picked before they get swarmed on!
-02 14 [galloping]
+02 14 
 02 14 [tap on wood]
 02 14 Aw shucks, Apple Bloom. I sure hope so.
 02 14 Oh, shucks. I'm not much for speeches.
@@ -877,8 +877,8 @@
 02 14 No! Make it stop, make it stop!
 02 14 Never!
 02 14 Alright, alright! I'll tell everypony what's goin' on! Just please stop talkin'! But... can it wait 'til tomorrow at breakfast? I'm plum tuckered out.
-02 14 [sighs] I will tell you the whole truth at breakfast. Pinkie promise.
-02 14 [yelps]
+02 14  I will tell you the whole truth at breakfast. Pinkie promise.
+02 14 
 02 14 Giddy up, fellas, I gotta get the heck out of Dodge!
 02 14 Whoa! What the hay?
 02 14 Hey! Cut that out! Whoa! [to coach ponies] I'll pay you double to outrun them.
@@ -890,7 +890,7 @@
 02 14 I'm sorry, Pinkie, but I can't tell y'all the truth. I just can't.
 02 14 Yes. Hyah!
 02 14 [train whistle]
-02 14 [crunches]
+02 14 
 02 14 Yee-haw!
 02 14 Ha, try and catch me now. Oh, nuts.
 02 14 Fine. Now you know.
@@ -906,7 +906,7 @@
 02 15 And it's always true. But Apple family cider is made with love and integrity, and only the highest quality apples in Equestria. Sorry, but that recipe takes time.
 02 15 If y'all just be patient, we'll have plenty more tomorrow.
 02 15 What in Equestria is that?
-02 15 [bang]
+02 15 
 02 15 Uh, sure, I guess.
 02 15 I just don't know, y'all. We've always made cider the same way.
 02 15 Hold on. Who gets the seventy five?
@@ -921,7 +921,7 @@
 02 15 Thanks Twilight. We'll need it.
 02 15 Ready!
 02 15 Great job, y'all! We've already filled an entire barrel!
-02 15 [gulps]
+02 15 
 02 15 [dings and buzzes]
 02 15 C'mon, Apple Bloom, focus! We gotta forget those guys if we're gonna have a chance of winnin'!
 02 15 Rest when it's over, Big McIntosh! Ride! Ride!
@@ -935,9 +935,9 @@
 02 15 Go ahead, everypony. Go on, y'all. It's okay.
 02 15 They're gone.
 02 15 Dear Princess Celestia. I wanted to share my thoughts with you. [clears throat] I didn't learn anythin'! Ha! I was right all along! If you take your time to do things the right way, your work will speak for itself. Sure I could tell you I learned something about how my friends are always there to help me, and I can count on them no matter what, but truth is, I knew that already too.
-02 15 [credits]
+02 15 
 02 16 [whooshing noises]
-02 16 [muffled] Is she gonna be okay?
+02 16  Is she gonna be okay?
 02 16 I bet the chow in here is hoof-lickin' good.
 02 16 Is she serious? Who doesn't like to read a bang-up tale from time to time?
 02 16 Ugh, we need to get some fresh air in here. You're lookin' sweatier than a pig wrangler on a summer's day.
@@ -947,10 +947,10 @@
 02 16 ...causin' a fracas just because you like to read.
 02 20 What kind of disaster?
 02 20 The perimeter's clear.
-02 21 [hushed] Me neither.
-02 21 [hushed] You'll be toast alright, when the dragons see you parading around in that getup.
-02 21 [hushed] What do ya think of that 'move', Rainbow Dash? Still think they're lame?
-02 21 [laughing]
+02 21  Me neither.
+02 21  You'll be toast alright, when the dragons see you parading around in that getup.
+02 21  What do ya think of that 'move', Rainbow Dash? Still think they're lame?
+02 21 
 02 21 But why would you want to, Spike?
 02 23 [voice vibrating] You said it, ooh.
 02 23 She's not mean, Twilight, she's a hoot!
@@ -959,16 +959,16 @@
 02 23 Nope.
 02 24 Uh, beg pardon but, could we maybe move things along? This here cake's a mite heavy, right Big McIntosh?
 02 24 Phooey on the festivities, I can't wait to try all those tasty treats!
-02 24 [slap]
+02 24 
 02 24 Yeah, I'm gonna hit the hay myself.
 02 24 Yeah, those chefs aren't going to do your cake any harm.
 02 24 What is it?
 02 24 Uh, you're investigatin'?
-02 25 [slurp]
+02 25 
 02 25 [running footsteps]
 02 25 Well, color me pleased as punch!
 02 25 Your brother's getting married? Congratulations, Twilight, that's great news!
-02 25 As one of your P.F.F.'s... [pause] Pony Friends Forever...
+02 25 As one of your P.F.F.'s...  Pony Friends Forever...
 02 25 ... I wanna tell you that I think your brother sounds like a real good guy.
 02 25 Why the long face, sugarcube?
 02 25 Come on, now. You're his sister. He'll always make time for you.
@@ -976,8 +976,8 @@
 02 25 Cake, check. Ice sculpture, check. Best darn bitesize apple fritter you ever tasted...
 02 25 Hiya, Princess!
 02 25 Hiya, Princess Mi Amore Cadenza. You come to check out what's on the menu for your big day?
-02 25 Aw, shucks. Why don't you take a few to go? [squee] I know how you brides can be. So busy, you forget to get a little somethin' in your belly.
-02 25 [thud]
+02 25 Aw, shucks. Why don't you take a few to go?  I know how you brides can be. So busy, you forget to get a little somethin' in your belly.
+02 25 
 02 25 Spike! That goes on the cake.
 02 25 Aw, she was probably just trying to spare my feelin's.
 02 25 Think maybe you're being just a tiny bit possessive of your brother?
@@ -991,7 +991,7 @@
 02 26 OK, this is just gettin' weird. Real me! Real me!
 02 26 Sorry, Twi. We should've listened to you.
 03 01 I'd say she's handling things pretty well, considering.
-03 01 [explosion]
+03 01 
 03 01 Twilight! Did you pass?
 03 01 Made sweets with crystal berries
 03 01 Oh, we have to get this right

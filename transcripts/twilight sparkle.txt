@@ -1,13 +1,12 @@
 01 01 ...and harmony has been maintained in Equestria for generations since. Hmm... Elements of Harmony. I know I've heard of those before... but where?
-01 01 [<a href="/wiki/My_Little_Pony_theme_song" title="My Little Pony theme song">theme song</a>]
 01 01 Oh, sorry, girls... I've got a lot of studying to catch up on.
 01 01 I know I've heard of the Elements of Harmony.
 01 01 Spike! Spi-ike! Spike?
 01 01 There you are. Quick, find me that old copy of Predictions and Prophecies. What's that for?
 01 01 Oh Spike, you know we don't have time for that sort of thing.
-01 01 No, no, no... no, no, no! [grunts] Spike!
+01 01 No, no, no... no, no, no!  Spike!
 01 01 Ah! Elements, Elements, E, E, E... Aha! Elements of Harmony, see: Mare in the Moon?
-01 01 Mare, mare... aha! The Mare in the Moon, myth from olden pony times. A powerful pony who wanted to rule Equestria, defeated by the Elements of Harmony and imprisoned in the moon. Legend has it that on the longest day of the thousandth year, the stars will aid in her escape, and she will bring about nighttime eternal! [gasp] Spike! Do you know what this means?
+01 01 Mare, mare... aha! The Mare in the Moon, myth from olden pony times. A powerful pony who wanted to rule Equestria, defeated by the Elements of Harmony and imprisoned in the moon. Legend has it that on the longest day of the thousandth year, the stars will aid in her escape, and she will bring about nighttime eternal!  Spike! Do you know what this means?
 01 01 Take a note please, to the Princess.
 01 01 My dearest teacher, my continuing studies of pony magic have led me to discover that we are on the precipice of disaster!
 01 01 Threshold.
@@ -19,30 +18,28 @@
 01 01 Oh, I'm not worried, Spike. The Princess trusts me completely. In all the years she's been my mentor she's never once doubted me.
 01 01 See? I knew she would want to take immediate action.
 01 01 Mm-hm!
-01 01 [gasp]
-01 01 [sigh]
 01 01 Yes, yes it does. You know why? Because I'm right! I'll check on the preparations as fast as I can, then get to the library to find some proof of Nightmare Moon's return.
 01 01 She said to check on preparations. I am her student, and I'll do my royal duty, but the fate of Equestria does not rest on me making friends.
 01 01 Thank you, sirs.
 01 01 Um... hello?
 01 01 Well, that was interesting all right.
-01 01 [sigh] Let's get this over with... Good afternoon. My name is Twilight Sparkle-
+01 01  Let's get this over with... Good afternoon. My name is Twilight Sparkle-
 01 01 Friends? Actually, I-
 01 01 [clears throat] Well, I am in fact here to supervise preparations for the Summer Sun Celebration. And you're in charge of the food?
 01 01 As long as it doesn't take too long...
 01 01 [triangle ringing]
 01 01 Thanks, but I really need to hurry-
-01 01 [spit] [nervous laughter] Okay, well, I can see the food situation is handled, so we'll be on our way.
+01 01  [nervous laughter] Okay, well, I can see the food situation is handled, so we'll be on our way.
 01 01 Sorry, but we have an awful lot to do...
 01 01 ...fine.
 01 01 Ugh... I ate too much pie...
 01 01 Well, she's not doing a very good job, is she.
-01 01 [whack]
-01 01 [splat]
+01 01 
+01 01 
 01 01 Nng.
 01 01 Nnnn.
 01 01 Let me guess. You're Rainbow Dash.
-01 01 I heard you were supposed to be keeping the sky clear. [sigh] I'm Twilight Sparkle, and the Princess sent me to check on the weather.
+01 01 I heard you were supposed to be keeping the sky clear.  I'm Twilight Sparkle, and the Princess sent me to check on the weather.
 01 01 Practicing for what?
 01 01 The Wonderbolts?
 01 01 The most talented flyers in all of Equestria?
@@ -54,26 +51,26 @@
 01 01 Good afternoon-
 01 01 Oh, you mean my mane? Well, it's a long story. I'm just here to check on the decorations, and then I'll be out of your hair!
 01 01 Wait! Where are we going?! Help!
-01 01 [wincing] I've... been sent... from Canterlot... to-
+01 01  I've... been sent... from Canterlot... to-
 01 01 Quick! Before she decides to dye my coat a new color!
 01 01 Focus, Casanova. What's next on the list?
 01 01 Hello!
-01 01 Oh my, I'm so sorry, I didn't mean to frighten your birds. I'm just here to check up on the music and it's sounding beautiful. [pause] I'm Twilight Sparkle. [pause] What's your name?
+01 01 Oh my, I'm so sorry, I didn't mean to frighten your birds. I'm just here to check up on the music and it's sounding beautiful.  I'm Twilight Sparkle.  What's your name?
 01 01 I'm sorry, what was that?
 01 01 Didn't quite catch that.
-01 01 [pause] Well, um, it looks like your birds are back, so I guess everything's in order. Keep up the good work!
+01 01  Well, um, it looks like your birds are back, so I guess everything's in order. Keep up the good work!
 01 01 Oookay. [to Spike] Well, that was easy.
 01 01 Well, in that case we'd better be going.
-01 01 [groan]
+01 01 
 01 01 I am so sorry, how did we get here so fast? This is where I'm staying while in Ponyville and my poor baby dragon needs his sleep.
 01 01 Aww, wook at dat, he's so sweepy he can't even keep his widdle bawance!
 01 01 Yes, yes, we'll get right on that. Well, g'night!
 01 01 [door slamming]
 01 01 Sorry, Spike, but I have to convince the Princess that Nightmare Moon is coming, and we're running out of time! I just need to be alone so I can study without a bunch of crazy ponies trying to make friends all the time. Now, where's the light?
-01 01 [groan]
+01 01 
 01 01 Very surprised. Libraries are supposed to be quiet.
-01 01 [groan]
-01 01 [groan]
+01 01 
+01 01 
 01 01 [door opens, music gets louder]
 01 01 No! All the ponies in this town are crazy! Do you know what time it is?!
 01 01 [mockingly imitates Spike]
@@ -83,7 +80,7 @@
 01 01 Oh no... Nightmare Moon!
 01 01 I did. And I know who you are. You're the Mare in the Moon – Nightmare Moon!
 01 01 [ponies gasping]
-01 01 You're here to... to... [gulp]
+01 01 You're here to... to... 
 01 02 "Elements of Harmony, see: Mare in the Moon"?
 01 02 She will bring about nighttime eternal.
 01 02 It's imperative that the princess is told right away.
@@ -96,15 +93,15 @@
 01 02 How did you find that?!
 01 02 Oh. There are six Elements of Harmony, but only five are known: Kindness, Laughter, Generosity, Honesty and Loyalty. The sixth is a complete mystery. It is said, the last known location of the five elements was in the ancient castle of the royal pony sisters. It is located in what is now--
 01 02 Not so fast. Look, I appreciate the offer, but I'd really rather do this on my own.
-01 02 [sigh]
+01 02 
 01 02 So, none of you have been in here before?
 01 02 What's that supposed to mean?
-01 02 [screams]
+01 02 
 01 02 Applejack! What do I do?
 01 02 Are you crazy?
 01 02 That's not true!
-01 02 [screams] Phew-wah!
-01 02 Yes, Rainbow, I was there, and I'm very grateful, but we gotta- [gasp] A manticore!
+01 02  Phew-wah!
+01 02 Yes, Rainbow, I was there, and I'm very grateful, but we gotta-  A manticore!
 01 02 We've gotta get past him!
 01 02 Rainbow!
 01 02 How did you know about the thorn?
@@ -114,7 +111,7 @@
 01 02 Excuse me, sir. Why are you crying?
 01 02 Rarity, what are you-
 01 02 Oh, Rarity, your beautiful tail...
-01 02 [gasp] We can cross now. Let's go. Ah!
+01 02  We can cross now. Let's go. Ah!
 01 02 There it is, the ruin that holds The Elements of Harmony. We made it.
 01 02 We're almost there. Whoa!
 01 02 Rainbow, what's taking so long? Oh no. Rainbow! Don't listen to them.
@@ -130,10 +127,10 @@
 01 02 What happened? >Rainbow Dash
 01 02 What's going on?]
 01 02 [coughs, gasps]
-01 02 [gasp]
-01 02 [groan] Just one spark. Come on, come on. Aah!
-01 02 [gasp] But... where's the sixth Element?!
-01 02 [gasp] You think you can destroy The Elements of Harmony just like that? Well, you're wrong, because the spirits of The Elements of Harmony are right here.
+01 02 
+01 02  Just one spark. Come on, come on. Aah!
+01 02  But... where's the sixth Element?!
+01 02  You think you can destroy The Elements of Harmony just like that? Well, you're wrong, because the spirits of The Elements of Harmony are right here.
 01 02 Applejack, who reassured me when I was in doubt, represents the spirit of... honesty!
 01 02 Fluttershy, who tamed the manticore with her compassion, represents the spirit of... kindness!
 01 02 Pinkie Pie, who banished fear by giggling in the face of danger, represents the spirit of... laughter!
@@ -141,7 +138,7 @@
 01 02 And Rainbow Dash, who could not abandon her friends for her own heart's desire represents the spirit of... loyalty!
 01 02 The spirits of these five ponies got us through every challenge you threw at us.
 01 02 But it did! A different kind of spark. I felt it the very moment I realized how happy I was to hear you, to see you, how much I cared about you. The spark ignited inside me when I realized that you all are...my friends! You see, Nightmare Moon, when those Elements are ignited by the... the spark, that resides in the heart of us all, it creates the sixth element: the element of... magic!
-01 02 [gasps] Princess Celestia.
+01 02  Princess Celestia.
 01 02 But... you told me it was all an old pony tale.
 01 02 That's just it. Just when I learned how wonderful it is to have friends, I have to leave them.
 01 02 Oh thank you, Princess Celestia! I'll study harder than ever before.
@@ -151,15 +148,15 @@
 01 03 [stomach grumbles] [laughs nervously] Eh, I guess we better get some food.
 01 03 Oh Spike, that looks delicious. Spike.
 01 03 It's a letter from Princess Celestia.
-01 03 [gasp] The Grand Galloping Gala!
+01 03  The Grand Galloping Gala!
 01 03 [<a href="/wiki/My_Little_Pony_theme_song" title="My Little Pony theme song">theme song</a>]
-01 03 The Grand Galloping Gala! [cheering]
+01 03 The Grand Galloping Gala! 
 01 03 Wow, great! I've never been to the gala. Have you, Spike?
 01 03 Aw, come on Spike. A dance would be nice.
 01 03 Oh, well in that case, would you like to--
 01 03 Yeah, but--
 01 03 Girls, these are my tickets, I'll decide who gets it, thank you very much. Whoever has the best reason to go should get the ticket, don't you think?
-01 03 Oh my, those were all pretty good reasons, aren't they? [stomach rumbles] [chuckles] Listen to that, I am starving. I don't know about you, but I can't make important decisions on an empty stomach, so I'll, uh, think about it over lunch and get back to you two, okay?
+01 03 Oh my, those were all pretty good reasons, aren't they? [stomach rumbles]  Listen to that, I am starving. I don't know about you, but I can't make important decisions on an empty stomach, so I'll, uh, think about it over lunch and get back to you two, okay?
 01 03 I don't know Spike, but I really can't think straight when I'm hungry, so where should we eat?
 01 03 Um, actually--
 01 03 Uh--
@@ -171,7 +168,7 @@
 01 03 Eh! This is my decision, and I'm gonna make it on my own, and I certainly can't think straight with all this noise... [stomach rumbles] not to mention hunger. Now go on, shoo.
 01 03 [ponies grumble]
 01 03 And don't worry, I'll figure this out... somehow.
-01 03 [sighs] Spike, what am I gonna do? All five of my best friends have really good reasons to go to the gala. Applejack, or Rainbow Dash? Pinkie Pie or Fluttershy, Rarity... Oh, who should go with me? [stomach rumbles]
+01 03  Spike, what am I gonna do? All five of my best friends have really good reasons to go to the gala. Applejack, or Rainbow Dash? Pinkie Pie or Fluttershy, Rarity... Oh, who should go with me? [stomach rumbles]
 01 03 I CAN'T DECIDE!
 01 03 Oh. I would love a daffodil and daisy sandwich.
 01 03 What do you think, Spike?
@@ -184,20 +181,20 @@
 01 03 Rainbow, you're not trying to get extra consideration for the extra ticket by doing me extra special favors, are you?
 01 03 Uh-huh.
 01 03 Rainbow, I am not comfortable accepting unwanted favors, so I'd appreciate it if you close up that rain cloud right now.
-01 03 That's better. [groans]
+01 03 That's better. 
 01 03 No, really?
 01 03 Heh heh, oops, sorry.
 01 03 Uh...
 01 03 Ugh, Rarity, ow, this really isn't fixing it. I mean, thank you but, ooh, that's too tight.
 01 03 Uh, yeah, it is kinda pretty, isn't it?
-01 03 [giggles] Oh, Spike.
+01 03  Oh, Spike.
 01 03 Wait, The Grand--
 01 03 I see what's going on. You're just buttering me up so I give you the extra ticket. Well it's not gonna work. You're going to have to wait for my decision just like everyone else. Now, if you'll excuse me, I've been trying all day just to get some lunch.
 01 03 You've got to be kidding me!
 01 03 [stomach grumbles]
 01 03 No. No. I don't know who I'm giving the ticket to, and all these favors aren't making it any easier to decide. In fact, I'm less sure now than I was this morning. Ugh!
 01 03 Ugh, I never thought being showered with favors would be so aggravating.
-01 03 [gasp] Fluttershy, not you too?
+01 03  Fluttershy, not you too?
 01 03 It's summer.
 01 03 You're not doing this for the ticket, are you?
 01 03 No, no, no! Well, this was all very nice of you and Angel, but I'm not accepting any extra favors until I've made my final decision, so I'm going to have to ask you to leave.
@@ -206,7 +203,7 @@
 01 03 Pinkie!
 01 03 At least the other ponies tried to be subtle about the ticket.
 01 03 We're... gonna... run!
-01 03 [music]
+01 03 
 01 03 [ponies offer favors]
 01 03 I didn't even know it was gonna happen. Now quick, lock the doors. Yaaaargh! I can't decide, I just can't decide. It's important to all of you and I just can't stand to disappoint any of you, and giving me gifts and doing me favors won't make any difference, because you're all my friends and I wanna make you all happy and I can't, I just can't!
 01 03 Spike, take down a note. Dear Princess Celestia,
@@ -266,14 +263,14 @@
 01 04 Ugh. That pony is stubborn as a mule.
 01 04 [mule neighing]
 01 04 No offense.
-01 04 [humming] [gasp]
+01 04  
 01 04 I don't get it.
 01 04 Alright. Enough is enough.
 01 04 Alright, Applejack. Your applebucking hasn't just caused you problems, it's over-propelled Pegasus', practically poisoned plenty of ponies, and terrorized bushels of brand new bouncing baby bunnies. I don't care what you say, you. Need. Help.
 01 04 Applejack. Applejack.
 01 04 Oh, good, you're okay. Now Applejack, I completely respect the Apple family ways. You're always there to help any pony in need, so maybe you can put a little of your stubborn pride aside and allow your friends to help you.
 01 04 I am not taking "no" for an answer--what?
-01 04 [chuckles] [sigh]
+01 04  
 01 04 Dear Princess Celestia,
 01 04 My friend Applejack is the best friend a pony could ever have, and she's always there to help any pony. The only trouble is, when she needs help, she finds it hard to accept it, so while friendship is about giving of ourselves to friends, it's also about accepting what our friends have to offer.
 01 04 Your faithful student,
@@ -287,7 +284,7 @@
 01 05 You know what I think, Pinkie Pie.
 01 05 Well, I think... you're jealous.
 01 05 Well, yes. Jealous. Listen Pinkie, I don't want to upset you, but just because Rainbow Dash has another friend doesn't make Gilda a grump. I mean, perhaps it's you, Pinkie, who needs to improve her attitude.
-01 05 [sigh]
+01 05 
 01 05 You've met Gilda, right? What's she like?
 01 05 Why don't we let Gilda blow out the candles, Spike. She is the guest of honor after all.
 01 05 Spike.
@@ -301,7 +298,7 @@
 01 06 Okay, here goes.
 01 06 [magical chime]
 01 06 Sorry, Romeo. As attractive and enticing as you look, it's just for practice, and it's gotta go.
-01 06 [laughter]
+01 06 
 01 06 [<a href="/wiki/My_Little_Pony_theme_song" title="My Little Pony theme song">theme song</a>]
 01 06 True, for ponies whose talents are for things like cooking or singing or math. But what if a unicorn's special talent is magic?
 01 06 Oh, Spike, stop. I'm sure there are lots of ponies right here in Ponyville that know just as much magic as me.
@@ -310,10 +307,10 @@
 01 06 There's nothing wrong with being talented, is there?
 01 06 Spike! Shhh!
 01 06 You see the way they reacted to Trixie? I don't want anyone thinking I'm a show-off.
-01 06 [fanfare]
+01 06 
 01 06 There's no way I'm going to use my magic now, Spike. Especially since--
-01 06 [gulps]
-01 06 [music]
+01 06 
+01 06 
 01 06 I-- I--
 01 06 Uh...
 01 06 Nothing.
@@ -329,11 +326,11 @@
 01 06 Uh, is that what I think it is?
 01 06 What's going on?
 01 06 You what!?!
-01 06 [gulp]
-01 06 [groans]
-01 06 [wind]
+01 06 
+01 06 
+01 06 
 01 06 [music from broken cattails]
-01 06 [groans]
+01 06 
 01 06 I'm sorry. Please, please don't hate me.
 01 06 Well, I know how much you all hated Trixie's showing off with her magic tricks, and I just thought--
 01 06 So, you don't mind my magic tricks?
@@ -374,19 +371,19 @@
 01 07 We don't have time for this.
 01 07 You've got it.
 01 07 Just don't look down.
-01 07 [whispers] Let's keep it down. According to my map, we're entering an avalanche zone. The smallest peep could cause a huge rock slide.
+01 07  Let's keep it down. According to my map, we're entering an avalanche zone. The smallest peep could cause a huge rock slide.
 01 07 Shhh!
 01 07 Oh no! Help! Ooh!
-01 07 [coughing]
+01 07 
 01 07 Thanks to you I am.
-01 07 Yeah, we'll just have to [sigh] climb over.
-01 07 [grunts]
+01 07 Yeah, we'll just have to  climb over.
+01 07 
 01 07 We're about to find out. We're here. Rainbow Dash, you'll use your wings to clear the smoke.
 01 07 Rarity and Pinkie Pie, you'll create a diversion to distract the dragon if things get a little hairy in there.
 01 07 [squeaky toy]
 01 07 Applejack, you're ready with the apples in case he decides to attack. But it shouldn't come to that, because Fluttershy will do what she needs to do to wake him up, and between the two of us, we should be able to get him to understand why he needs to go. Is everypony ready?
-01 07 [affirmatives]
-01 07 Okay then, we're goin' in. So, what is the best way to wake up a sleeping dragon without upsetting him? Fluttershy? Oh, come on! Come on! [grunt] We have to do this! [grunt] Now! Every [grunts] second longer that dragon [grunts] sleeps is another [grunts] acre of Equestria that is covered in [grunts] smoke. Ooh!
+01 07 
+01 07 Okay then, we're goin' in. So, what is the best way to wake up a sleeping dragon without upsetting him? Fluttershy? Oh, come on! Come on!  We have to do this!  Now! Every  second longer that dragon  sleeps is another  acre of Equestria that is covered in  smoke. Ooh!
 01 07 What?
 01 07 But Fluttershy. You have a wonderful talent dealing with all kinds of animals.
 01 07 But, if you're so afraid of dragons, why didn't you say something before we came all the way up here?
@@ -397,9 +394,9 @@
 01 07 Excuse me.
 01 07 Mr. Dragon.
 01 07 Oh, good, you're awake. Please allow me to introduce myself. My name is Twilight--
-01 07 Augh! Puh! Sparkle, and my friends and I are residents here in Equestria. Ponyville, to be exact. We've come her to ask that you find another spot to take your nap. It's just that you seem to be doing an awful lot of snoring, and every time you do you send out a terrible cloud of smoke. [coughs] Equestria simply can't survive a hundred years in a dark haze. You understand, don't you?
-01 07 So, you'll find another place to sleep? [coughs]
-01 07 [coughs]
+01 07 Augh! Puh! Sparkle, and my friends and I are residents here in Equestria. Ponyville, to be exact. We've come her to ask that you find another spot to take your nap. It's just that you seem to be doing an awful lot of snoring, and every time you do you send out a terrible cloud of smoke.  Equestria simply can't survive a hundred years in a dark haze. You understand, don't you?
+01 07 So, you'll find another place to sleep? 
+01 07 
 01 07 You mean... getting rid of that dragon?
 01 07 Rainbow! No!
 01 07 You did it! I knew you could do it.
@@ -412,13 +409,13 @@
 01 08 Come inside girls, quick.
 01 08 It is if you have a magical lightning rod protecting your home like I do. Come on in!
 01 08 Some storm, huh? The Pegasus ponies sure have outdone themselves this time. I hope you and Applejack don't have any trouble getting home.
-01 08 Well, you're welcome to stay if need be. Spike is away in Canterlot on royal business. I'm home all alone tonight. [gasp] You and Applejack should totally sleep over! We'll have a slumber party! I've always wanted one of those.
+01 08 Well, you're welcome to stay if need be. Spike is away in Canterlot on royal business. I'm home all alone tonight.  You and Applejack should totally sleep over! We'll have a slumber party! I've always wanted one of those.
 01 08 My own personal copy. It's a fantastic reference guide. You should see the table of contents. I've been waiting for a chance to use it, and today is the day! This is gonna be so great!
 01 08 We're giving each other makeovers! Eee-hee! We have to do it, it says so in the book.
 01 08 Hurray slumber party!
 01 08 [loud chewing] Hee-hee! Isn't this exciting? We'll do everything by the book, and that will make my slumber party officially fun.
 01 08 This is going to be the bestest slumber party ever! Yay!
-01 08 This is so awesome! [giggle] Makeovers, check. Ooh, it says here we have to tell ghost stories. Who wants to go first?
+01 08 This is so awesome!  Makeovers, check. Ooh, it says here we have to tell ghost stories. Who wants to go first?
 01 08 I've got one! This story is called The Legend of the Headless Horse. It was a dark and stormy night, just like this one. And three ponies were having a slumber party, just like this one...
 01 08 ...and just when the last pony thought she was safe, there, standing right behind her, just inches away was -- the Headless Horse!
 01 08 Ghost story, check. Now, who wants s'mores?
@@ -429,21 +426,21 @@
 01 08 Um, do I ever get a turn?
 01 08 I, uh, I think we should check off Truth or Dare and move on. Let's see what our next fun-fun-fun thing is, shall we? Hm, what does this mean? Pillow fight?
 01 08 Oh, I get it! Pillow, fight! Fun! Ugh. Ah. Uh, girls? Maybe we should take it down a notch?
-01 08 [spit] Maybe we should just call it a night and get some sleep?
+01 08  Maybe we should just call it a night and get some sleep?
 01 08 Enough! It says right here that the number one thing you're supposed to do at a slumber party is have fun, and thanks to you two I can't check that off!
-01 08 I hope you're happy, both of you. You've ruined my very first slumber party. The makeover, the s'mores, Truth or Dare, the pillow fight... I mean, is there anything else that could possibly go wrong? [lightning] Sorry I asked.
-01 08 [cry]
-01 08 [crash]
+01 08 I hope you're happy, both of you. You've ruined my very first slumber party. The makeover, the s'mores, Truth or Dare, the pillow fight... I mean, is there anything else that could possibly go wrong?  Sorry I asked.
+01 08 
+01 08 
 01 08 It's... Well, it's not okay. There's a giant tree branch in the middle of my bedroom, and the book doesn't say anything about having a giant tree branch at your slumber party. Or at least I haven't found that entry yet. Ooh... ah!
 01 08 Baking... BFFs... Brothers... There's nothing in here about branches.
 01 08 Well, they do have a section about backyard slumber parties. Is that what we're doing right now? Does this count as camping?
 01 08 Oh, pretty! Where did these come from? They're not in the book either.
-01 08 [laugh] Nope.
-01 08 [laugh] No! Only three of your twenty questions left!
+01 08  Nope.
+01 08  No! Only three of your twenty questions left!
 01 08 Why? Is it too cold in here for you? I can turn up the heat.
 01 08 Oh! No. And that technically counted as a question, so only two more left!
 01 08 That's it!
-01 08 No. [chuckle] It's that. But it was just so nice to see you two finally getting along, I wanted you to be able to win together.
+01 08 No.  It's that. But it was just so nice to see you two finally getting along, I wanted you to be able to win together.
 01 08 See? We could have been having fun like this all along.
 01 08 I declare my first slumber party a success!
 01 08 Have fun, check.
@@ -455,12 +452,12 @@
 01 09 Not that I know of.
 01 09 Not more than usual.
 01 09 Uh... not very likely.
-01 09 [groans]
+01 09 
 01 09 Spike! There are no zombie ponies. Pinkie, what are you doing here alone in the dark?
-01 09 [gasp] Okay then, what are you all doing here in the dark?
+01 09  Okay then, what are you all doing here in the dark?
 01 09 Well, I saw her glance this way...
 01 09 ... And then a bunch of you flip out for no good reason.
-01 09 [groans]
+01 09 
 01 09 [Everyone but Twilight gasp]
 01 09 Will you cut that out?
 01 09 She's a zebra.
@@ -469,18 +466,18 @@
 01 09 Spike!
 01 09 Wow. Catchy.
 01 09 This is all just a lot of gossip and rumors. Now tell me; what exactly have you actually seen Zecora do?
-01 09 [dramatically] Oooooh.
-01 09 [dramatically] Oh, my.
-01 09 [dramatically] Good gracious! [normal tone] Okay, I'm sorry. But how is any of this bad? Maybe she comes to town to visit?
+01 09  Oooooh.
+01 09  Oh, my.
+01 09  Good gracious! [normal tone] Okay, I'm sorry. But how is any of this bad? Maybe she comes to town to visit?
 01 09 And maybe she's not lurking by the stores, maybe she's going to them, lurk free, to do some shopping?
 01 09 I am sure there is an explanation for everything Zecora does. And if anypony here were actually brave enough to approach her, she would find out the truth.
 01 09 You ponies are being ridiculous!
 01 09 Pinkie, I eat hay; you eat hay!
 01 09 Spike, you stay here in case Apple Bloom comes back.
-01 09 [sighs] Oh brother.
+01 09  Oh brother.
 01 09 You guys, there's no such thing as curses!
 01 09 My magic, real magic, comes from within. It's a skill you're born with. Curses are artificial, fake magic. It's conjured with potions and incantations; all smoke and mirrors meant to scare. But curses have no real power, they're just an old pony tale.
-01 09 Ugh... what a dream... Curses, schmurses. Whoa! [chuckle] Maybe Zecora cursed my hair. [Laughs nervously and then gasps] Or she cursed my horn!
+01 09 Ugh... what a dream... Curses, schmurses. Whoa!  Maybe Zecora cursed my hair. [Laughs nervously and then gasps] Or she cursed my horn!
 01 09 No no no no no! None of these books have a cure! Ugh! There has to be a real reason for this! An illness? An allergy?!
 01 09 I said a real reason. Something that points to something real.
 01 09 "Supernaturals"? Spike, the word supernatural refers to things like ghosts and spirits and zombies, which are as make-believe as curses. This book is just a bunch of hooey!
@@ -496,7 +493,7 @@
 01 09 Well we better go find them. Come on girls, let's go.
 01 09 C'mon girls. We've got to get to Zecora's. Hurry!
 01 09 Oh Pinkie. Doesn't sound anything like your song.
-01 09 Scary looking masks, confusing incantations, and a great big bubbling cauldron? [sigh] Everything is pointing to Zecora being... bad. Or... what if Zecora is just making soup?
+01 09 Scary looking masks, confusing incantations, and a great big bubbling cauldron?  Everything is pointing to Zecora being... bad. Or... what if Zecora is just making soup?
 01 09 Or... what if she's making Apple Bloom soup?!
 01 09 What if she's making Apple Bloom soup?
 01 09 [All ponies scream]
@@ -532,19 +529,19 @@
 01 10 Ahhh, typical Pinkie.
 01 10 Wow. Rarity, those outfits are gorgeous.
 01 10 The better question is, where did they come from? I only had one a minute ago.
-01 10 [sigh] The decorations, the banquet, I really hope everything comes together in time for tomorrow.
-01 10 Oh, [yawn] what's there to worry about?
+01 10  The decorations, the banquet, I really hope everything comes together in time for tomorrow.
+01 10 Oh,  what's there to worry about?
 01 10 Spike! Wake up! What happened?
 01 10 Where did they come from?
 01 10 The princess will be here in a few hours.
 01 10 Spike, help me round up these little guys.
-01 10 [gasp]
+01 10 
 01 10 Fluttershy knows everything about animals, I'm sure she can tell us how to stop them from multiplying.
 01 10 ...or not.
 01 10 Ugh, do something Fluttershy, can't you control them?
-01 10 [whine]
+01 10 
 01 10 If we can't get them under control before the princess arrives, it'll be a total disaster.
-01 10 [gasp] I got it! No pony can herd like Applejack.
+01 10  I got it! No pony can herd like Applejack.
 01 10 Pinkie!
 01 10 You're telling me. The princess could arrive at any moment.
 01 10 Maracas? Pinkie, we've got much bigger problems than missing maracas.
@@ -553,17 +550,17 @@
 01 10 Okay, everyone knows what to do, right? We gotta work extra hard to make up for lost time.
 01 10 Where did they come from?
 01 10 We don't have time to keep rounding up these things. What do we do now?
-01 10 [grunt] Way to go, Rainbow Dash!
+01 10  Way to go, Rainbow Dash!
 01 10 Pinkie Pie, what have you done?
 01 10 Will you forget about your silly instruments for one second? You're ruining our efforts to save Ponyville.
-01 10 We've gotta do something. [gasps] I got it! I'll cast a spell to make them stop eating all the food.
-01 10 [gasp]
-01 10 [sigh]
-01 10 [gasp] They're eating the words. [grunts]
+01 10 We've gotta do something.  I got it! I'll cast a spell to make them stop eating all the food.
+01 10 
+01 10 
+01 10  They're eating the words. 
 01 10 Zecora, these little guys are devouring Ponyville, and the princess is on her way. Can you help us, please?
 01 10 I don't know! Is it?
-01 10 [gulp]
-01 10 [grunts] Oh no, here she comes.
+01 10 
+01 10  Oh no, here she comes.
 01 10 [ponies scream]
 01 10 Okay, here's the plan. Rainbow Dash, you distract them.
 01 10 Good. Everyone else, we need to build an exact copy of Ponyville right over there. We've got less than a minute. Zecora was right, we're doomed. Oh no, the princess's procession is here. It's all over.
@@ -576,7 +573,7 @@
 01 10 An... infestation?
 01 10 Trouble? What trouble?
 01 10 My... report?
-01 10 Actually, I have. I've learned that sometimes the solution to your problems can come from where you least expect it. It's a good idea to stop and listen to your friends' opinions and perspectives [crash], even when they don't always seem to make sense.
+01 10 Actually, I have. I've learned that sometimes the solution to your problems can come from where you least expect it. It's a good idea to stop and listen to your friends' opinions and perspectives , even when they don't always seem to make sense.
 01 10 Thank you, princess.
 01 10 Emergency in Fillydelphia.
 01 10 I think the princess can handle it.
@@ -589,14 +586,14 @@
 01 10 You're a great friend, even if we don't always understand you.
 01 10 You saved my reputation with Princess Celestia, and more importantly, you saved Ponyville.
 01 10 ...Or not.
-01 10 [trombone]
-01 10 [music]
-01 10 [credits]
-01 11 [crickets]
-01 11 [gasp] Spike, wake up. Wake up, wake up, it's Winter Wrap Up day!
+01 10 
+01 10 
+01 10 
+01 11 
+01 11  Spike, wake up. Wake up, wake up, it's Winter Wrap Up day!
 01 11 Winter Wrap Up!
 01 11 Spike, the first day of spring is tomorrow, so every pony in Ponyville needs to clean up winter. Now help me get ready.
-01 11 No Spike, Ponyville was started by Earth ponies, so for hundreds of years they've never used magic to clean up winter. It's traditional. [sigh]
+01 11 No Spike, Ponyville was started by Earth ponies, so for hundreds of years they've never used magic to clean up winter. It's traditional. 
 01 11 Okay, let's see: scarf, check; saddle, check; boots, check; Spike refusing to get up and going back to sleep, check. It's a good thing I'm so organized, I'm ready. Bright and early. Oh... maybe a little too early.
 01 11 [<a href="/wiki/My_Little_Pony_theme_song" title="My Little Pony theme song">theme song</a>]
 01 11 Those must be the team vests Rarity designed. Blue for the weather team, green for the plant team, and tan for the animal team. I wonder which team vest I'll be wearing.
@@ -627,7 +624,7 @@
 01 11 What are you doing?
 01 11 Oh, can I help? How about if I help clear out the clouds?
 01 11 Right. No wings.
-01 11 [gasp] Great, now what do we do?
+01 11  Great, now what do we do?
 01 11 Come on Spike, this is serious business. Winter needs to be wrapped up, and I'm determined to do my part. Somehow.
 01 11 Rarity, please tell me there's something, anything I can help you with.
 01 11 Birds' nests?
@@ -651,20 +648,20 @@
 01 11 Okay, let's start there.
 01 11 [bell rings]
 01 11 Hello? Wake up little friends, wherever you are. Spring is coming. [bell rings] I wonder which cute little furry creatures I've awoken.
-01 11 Waaa! Snakes! Snakes! [scream] Ugh! [grunt] [scream] Ugh!
-01 11 [groan]
-01 11 [sigh] All this Winter Wrap Up stuff is a lot harder than it looks.
+01 11 Waaa! Snakes! Snakes!  Ugh!   Ugh!
+01 11 
+01 11  All this Winter Wrap Up stuff is a lot harder than it looks.
 01 11 No, Spike, I have to do it the traditional way. Ponyville has never needed magic to wrap up winter.
-01 11 No, no, no! I'm gonna find some other way that I can help out if it kills me. [grunt]
+01 11 No, no, no! I'm gonna find some other way that I can help out if it kills me. 
 01 11 Hey Applejack. How's everything going?
 01 11 Well, I'd like to help.
 01 11 Just give me a chance.
-01 11 [struggle] Ugh... [struggle] Ugh... [gasp]
+01 11  Ugh...  Ugh... 
 01 11 I could use a come-to-life spell. Hwww... Here goes...
-01 11 [gasp] Uh oh. Slow down. Slow down!
-01 11 Well, see, I just wanted to... [whine]
+01 11  Uh oh. Slow down. Slow down!
+01 11 Well, see, I just wanted to... 
 01 11 I'm a winter mess up.
-01 11 [whine] Thanks a lot for making me feel so much better.
+01 11  Thanks a lot for making me feel so much better.
 01 11 Did she say late?
 01 11 Spike! Get my checklist and clipboard, STAT!
 01 11 Stop everypony. [ponies argue] Stop. [bird chirps] Sorry. I know you all want to complete your jobs on time, but arguing is no way to go about it. What you need is organization, and I'm just the pony for the job.
@@ -672,9 +669,9 @@
 01 11 Gosh, I don't even know what to say. Thank you everypony.
 01 11 Dear Princess Celestia,
 01 11 Winter Wrap Up was one of the most special things I've ever been a part of here in Ponyville. It helped me to learn we all have hidden talents, and if we're patient and diligent, we're sure to find them, and as always, with good friendship and teamwork, ponies can accomplish anything. How's that, Spike? Spike?
-01 11 Oh, Spike. [laughter]
-01 11 [music]
-01 11 [credits]
+01 11 Oh, Spike. 
+01 11 
+01 11 
 01 12 [school bell rings]
 01 12 [students chatter happily]
 01 12 Whoa, what's been going on in here?
@@ -685,8 +682,8 @@
 01 12 I'm sorry but-
 01 12 Alright alright!
 01 12 I'm sorry sweetie, but I told you-
-01 12 [sigh]
-01 12 [pwing] [pwang] [pwing] [pweng] [pwung] [pwing] [pwung] [pwong] [pwing] [pwing] [pwung] [pwing]
+01 12 
+01 12            
 01 12 Told you that not even magic can make a cutie mark appear before its time.
 01 12 I'm sure it won't be as bad as all that.
 01 12 I for one think you are three very lucky fillies.
@@ -755,7 +752,7 @@
 01 14 She only has one cat.
 01 14 Like you should have let you do for our outfits. Those first dresses you designed were perfect.
 01 14 Maybe not.
-01 14 "Dear Princess Celestia. This week my very talented friend Rarity learned that if you try to please everypony, you often times end up pleasing nopony, especially yourself. And I learned this: when somepony offers to do you a favor, like making you a beautiful dress, you shouldn't be overly critical of something generously given to you. In other words, you shouldn't look a gift horse in the mouth." [giggles]
+01 14 "Dear Princess Celestia. This week my very talented friend Rarity learned that if you try to please everypony, you often times end up pleasing nopony, especially yourself. And I learned this: when somepony offers to do you a favor, like making you a beautiful dress, you shouldn't be overly critical of something generously given to you. In other words, you shouldn't look a gift horse in the mouth." 
 01 15 Tuh! Nuh! Uh! Nyuh!
 01 15 [magic chimes]
 01 15 Eyes over here, Spike!
@@ -773,12 +770,12 @@
 01 15 Oh, please.
 01 15 Honestly, Spike, she did not. Two coincidences in a row like this may be unlikely, but it's still easier to believe than twitchy tails that predict the future.
 01 15 Oh, wait. Don't tell me you believe in this stuff, too?
-01 15 Huh? [chuckles] A bath? This thing keeps on getting more ridiculous by the minute!
-01 15 [splash]
-01 15 [grumble]
+01 15 Huh?  A bath? This thing keeps on getting more ridiculous by the minute!
+01 15 
+01 15 
 01 15 Phhhhft.
 01 15 Is your knee pinchy now?
-01 15 [scream] How come your knee didn't get pinchy?! That isn't just scary, it's downright dangerous!
+01 15  How come your knee didn't get pinchy?! That isn't just scary, it's downright dangerous!
 01 15 Okay, okay... I get it.
 01 15 Well, I still don't believe all this... "special power" stuff. It's just a bunch of mumbo-jumbo.
 01 15 Huge! For one thing, [clears throat] magic is something you study and practice. It only happens when you decide to do it, and it's meant to make something specific that you choose to happen, happen. With you, uh, it makes no sense at all!
@@ -797,14 +794,14 @@
 01 15 I will not believe in anything I cannot explain.
 01 15 Oh my gosh, what? What is it?!
 01 15 [Pinkie Pie's stomach growls]
-01 15 Urgh... You know what? [bite] [snap] Just forget it! I don't need to know if this is real or not. I don't need to understand it! I don't even care!
+01 15 Urgh... You know what?   Just forget it! I don't need to know if this is real or not. I don't need to understand it! I don't even care!
 01 15 Rrrrgh... Did you two plan this?
 01 15 Urgh! This is ridiculous. This can't be happening. This makes no sense. I have to figure this out.
 01 15 [frog croaks]
 01 15 [frogs croaking]
 01 15 Ah!
 01 15 Honestly, Spike, don't you know better than to sneak up on ponies?
-01 15 [gasp] No! I'm doing scientific research. I'm observing Pinkie Pie, scientific name: Pinkius Piecus, in its natural habitat.
+01 15  No! I'm doing scientific research. I'm observing Pinkie Pie, scientific name: Pinkius Piecus, in its natural habitat.
 01 15 There's something fishy going on with the whole twitchy prediction thing, and I'm getting to the bottom of it. So, shh. Come on, Pinkius Piecus is on the move.
 01 15 Hm... Itchy nose...
 01 15 A-ha, that makes no sense. See? She's hiding like something's about to fall out of the sky, but a twitchy tail means that something's about to fall from the sky, not an itchy nose.
@@ -815,17 +812,17 @@
 01 15 Spike! Where are you going? I'm trying to teach you the value of scientific--
 01 15 [swarm buzzing]
 01 15 [comical "sting" noises]
-01 15 Ow! Ouch! Ow! [whimper]
+01 15 Ow! Ouch! Ow! 
 01 15 Smelling a flower.
 01 15 Probably that the flower smells good. Wait. I'm getting something. Ear flop, eye flutter, knee twitch.
 01 15 Oh, ho. You really, really believe this stuff, don't you? Here, let me show you there's nothing to be afraid of. You see? I promise you there's nothing to fear from that-- Wo-o-ah! Ow! Ugh! Ow! Ow!
 01 15 Okay, take this down: twitchy tail.
 01 15 Hush, Spike! We can't let Pinkie know we're here, remember?
 01 15 Ugh, Spike honestly, you're overreact--
-01 15 [crack]
-01 15 [clang]
-01 15 [smash]
-01 15 [crash]
+01 15 
+01 15 
+01 15 
+01 15 
 01 15 Ugh!
 01 15 You mean you knew all along?! Why didn't you tell me?
 01 15 Urgh!
@@ -833,8 +830,8 @@
 01 15 I don't. I just want to be there to see the look on Pinkie's face when we find out nothing's wrong.
 01 15 Cold? Need a jacket or something?
 01 15 Will you two stop? She's fine, I'm sure of it.
-01 15 Sorry, I know it's not nice to gloat but... AHA! I told you there was nothing to worry about and I was right. Pinkie Pie said whatever she was shuddering about was a [cough] doozy, and [cough] and the only [cough] doozy here is how right I am.
-01 15 Pinkie's made a lot of predictions today but [cough] ugh, what is that smell? But what we've shown here is that there's no point in believing [cough] in anything you can't see for yourself.
+01 15 Sorry, I know it's not nice to gloat but... AHA! I told you there was nothing to worry about and I was right. Pinkie Pie said whatever she was shuddering about was a  doozy, and  and the only  doozy here is how right I am.
+01 15 Pinkie's made a lot of predictions today but  ugh, what is that smell? But what we've shown here is that there's no point in believing  in anything you can't see for yourself.
 01 15 I see it... But I don't believe it!
 01 15 [Hydra roars]
 01 15 Pinkie! Come on!
@@ -848,12 +845,12 @@
 01 15 No small rodents of any kind!
 01 15 Oh... What would a brave pony like Rainbow Dash do? CHAAARGE!
 01 15 [hydra chirps]
-01 15 [smack]
+01 15 
 01 15 I'll never make it!
 01 15 I will not!
 01 15 [hydra roars]
-01 15 [gulp]
-01 15 [crash]
+01 15 
+01 15 
 01 15 Y-ugh! No! Oh no! Noooo! WA-A-A-AH! Ugh! Blegh!
 01 15 [ponies cheer]
 01 15 I don't know how it happened; coincidence, dumb luck, or what, but you said there'd be a doozy here at Froggy Bottom Bog, and I'd say we just had ourselves one heck of a doozy. I mean that hydra--
@@ -868,12 +865,12 @@
 01 15 Dear Princess Celestia, I'm happy to report that-- Spike, what have I been saying about focus?
 01 15 What's wrong Spike, never thought you'd see me with an umbrella hat on?
 01 15 Pinkie's tail's a-twitchin'. What else can I do?
-01 15 [laughter]
+01 15 
 01 15 "I am happy to report that I now realize there are wonderful things in this world you just can't explain, but that doesn't necessarily make them any less true. It just means you have to choose to believe in them, and sometimes it takes a friend to show you the way."
 01 15 "Always, your faithful student, Twilight Sparkle."
 01 15 I wonder what's gonna drop outta the sky this time?
-01 16 [sigh] Last one. Thank you so much for helping me clean up all these books guys. It was a crazy week of studying.
-01 16 [grunt]
+01 16  Last one. Thank you so much for helping me clean up all these books guys. It was a crazy week of studying.
+01 16 
 01 16 What are you two arguing about?
 01 16 What's that?
 01 16 What's a sonic rainboom?
@@ -892,7 +889,7 @@
 01 16 Rainbow Dash. Are you ok? You don't look so good.
 01 16 I loved number seven. Doing fifteen barrel-rolls in a row can't be easy.
 01 16 Oh no! Her wings evaporated into thin air!
-01 16 [gasp]
+01 16 
 01 16 Princess.
 01 16 I did Princess, but I think Rarity learned even more than me.
 01 17 Hello, Fluttershy.
@@ -904,7 +901,7 @@
 01 17 This is gonna make quite a letter to the princess. I was wrong about you. You certainly do know how to handle those girls.
 01 17 Hmm? How so?
 01 17 You and Rarity both. Good morning, Rarity.
-01 17 [giggling]
+01 17 
 01 17 [closing credits]
 01 18 What is going on here?
 01 18 Girls, I think you're going about this the wrong way. Instead of trying to do things in areas you're not familiar with, why not try doing things in areas that you already like?
@@ -926,8 +923,8 @@
 01 18 Yes? And...
 01 18 Yes? Yes?
 01 18 And that is...?
-01 18 One day... [giggle] One day...
-01 18 [credits]
+01 18 One day...  One day...
+01 18 
 01 19 Spike, can you breathe now?
 01 19 Good. Now tell us what you know.
 01 19 Creepy guys?
@@ -935,10 +932,10 @@
 01 19 Hello!
 01 19 Quick! We gotta get down one before they're all filled up.
 01 19 Oh, Rarity...
-01 19 [worryingly] Ooh.
+01 19  Ooh.
 01 19 Poor Rarity. What are we gonna do?
 01 19 Spike, it is very noble of you...
-01 19 [quieter] ...to sacrifice the gem Rarity gave you.
+01 19  ...to sacrifice the gem Rarity gave you.
 01 19 Applejack!
 01 19 Um... Which way do we go?
 01 19 All these tunnels... How are we ever gonna find Rarity?
@@ -947,7 +944,7 @@
 01 19 We're getting close. I can feel it.
 01 19 [Rarity crying]
 01 19 And just what do you think you're doing?
-01 19 Eh... fine. [neighs]
+01 19 Eh... fine. 
 01 19 Excuse me?
 01 19 I can't wait to write to Princess Celestia to tell her what you taught me today.
 01 19 Just because somepony is ladylike doesn't make her weak. In fact, by using her wits a seemingly defenseless pony can be the one who outsmarts and outshines them all.
@@ -956,7 +953,7 @@
 01 20 Give me a break. Everypony already knows how you...
 01 20 But...
 01 20 My lips are sealed. Though I'm pretty sure Rarity is gonna pick up on your feelings.
-01 20 [doorbell]
+01 20 
 01 20 She hardly took any pictures.
 01 20 Oh, Rarity. I'm so sorry. Is there anything we can do?
 01 20 I'm sure she just got tied up.
@@ -975,7 +972,7 @@
 01 20 But Rarity told me...
 01 20 [Pinkie Pie eats an apple in a menacing way]
 01 20 Uhhhhhh..
-01 20 I guess you're right. [pause] You're right. You're right, you're fight, you're right!
+01 20 I guess you're right.  You're right. You're right, you're fight, you're right!
 01 20 Don't you see? On her own, Fluttershy could never do something unattractive. But if I used my magic to help her do something unattractive on her next fashion show, no one would ever want her to model again. And if Fluttershy no longer has to be a model, Rarity will no longer have to be jealous of her. And I'll no longer have to keep their secrets! It's the perfect plan! You can't tell anyone about it. Promise me you won't tell anyone?
 01 20 So you do promise or you don't?
 01 20 Obviously.
@@ -990,8 +987,8 @@
 01 20 Did you get all that, Spike?
 01 20 You're right. That was wrong of me and I'm very sorry.
 01 20 Now will you take down my letter to Princess Celestia?
-01 20 [sigh]
-01 20 [credits]
+01 20 
+01 20 
 01 21 Uhh... Maybe it's time we all got a little shut-eye. We've got a big day ahead of us tomorrow.
 01 21 What's going on?
 01 21 Did you say she was a tree?
@@ -1006,7 +1003,7 @@
 01 21 We've just got to talk some sense into them before somepony gets hurt.
 01 21 Listen, maybe if you would just reconsider, we –
 01 21 If we could just sit down and talk we could –
-01 21 [gasp] ... Why won't anybody be rational and reasonable?!
+01 21  ... Why won't anybody be rational and reasonable?!
 01 21 Dear, Princess Celestia. Friendship is a wondrous and powerful thing. Even the worst of enemies can become friends. You need understanding and compromise. You've got to share. You've got to care –
 01 22 It's all right, sirs. She's on the list.
 01 22 I'm so glad you could make it, Fluttershy. It wouldn't be the same without you.
@@ -1014,16 +1011,16 @@
 01 22 Oh, it's not that. I just want the princess to approve of my friends.
 01 22 And read about you in my letters. But this is the first time she spent any real time with you. I want everypony to make a good impression.
 01 22 Oh...
-01 22 [sigh] Well, Spike, I don't know for sure how things went with the princess, but at least no big disasters happened.
-01 22 Hi, Fluttershy! I just wanted to drop by and say thank you so very much for making such a good impression on the princess today... [gasp] What is Celestia's pet doing here?!
+01 22  Well, Spike, I don't know for sure how things went with the princess, but at least no big disasters happened.
+01 22 Hi, Fluttershy! I just wanted to drop by and say thank you so very much for making such a good impression on the princess today...  What is Celestia's pet doing here?!
 01 22 Oh no. NonononononoNO! This is bad.
 01 22 But... but... she doesn't belong to you!
 01 22 Without telling anypony?! Without asking permission?!
 01 22 I know you had good intentions, but you have got to return Princess's pet!
-01 22 If we hurry, we can put her back before anypony even realizes she's missing. [gasp]
+01 22 If we hurry, we can put her back before anypony even realizes she's missing. 
 01 22 Really? You don't say!
-01 22 [cough]
-01 22 [cough]
+01 22 
+01 22 
 01 22 [excessive coughing]
 01 22 It's that dry night air.
 01 22 Well... day air's even drier. You guards better be on your way if you're gonna find the princess's missing pet. Philomena, was it? Thank you ever so much for keeping me in the loop. BYE! Phew... What are you doing?!
@@ -1057,19 +1054,19 @@
 01 23 I knew this was the most important day of my life, that my entire future would be affected by the outcome of this day and I was about to blow it!
 01 23 ...yesyesyesyes...
 01 23 ...yesyes, YEEEES!
-01 23 [giggle] Um... yes.
+01 23  Um... yes.
 01 23 This is uncanny! If that explosion didn't happen when it did, I would have blown my entrance exam. Rainbow Dash, I think you helped me earn my cutie mark too!
 01 23 Dear Princess Celestia.
 01 23 Today I learned something amazing. Everypony everywhere has a special magical connection with her friends, maybe even before she's met them. If you're feeling lonely and you're still searching for your true friends, just look up in the sky. Who knows? Maybe you and your future best friends are all looking at the same rainbow.
 01 23 Just write it, Spike.
-01 23 [music]
-01 23 [credits]
+01 23 
+01 23 
 01 24 This meteor shower tonight's gonna be amazing!
 01 24 You know, this shower only happens once every 100 years.
 01 24 We better get a move on!
 01 24 Spike, did you grab my quill and ink?
 01 24 Scrolls?
-01 24 [giggle] I can see that. Once again you've read my mind, Spike. And that is why you are my number one assistant.
+01 24  I can see that. Once again you've read my mind, Spike. And that is why you are my number one assistant.
 01 24 That is why you are my number one assistant.
 01 24 I said... Come on, let's get going. Wait! I almost forgot. I wanna bring the "Astronomical Astronomer's Almanac to All Things Astronomy".
 01 24 You know that really old big blue book on stars, moons, planets, the Universe...?
@@ -1082,7 +1079,7 @@
 01 24 Wow...
 01 24 Spike made them. Speaking of, Spike, can you bring us some punch? Spike?
 01 24 Aww... He's worked himself to the bone.
-01 24 Goodnight, Spike. [giggle] Sweet dreams, number one assistant.
+01 24 Goodnight, Spike.  Sweet dreams, number one assistant.
 01 24 "The Study of Comets. Comets are small, irregularly shaped bodies that are made of non-volatile grains and frozen gasses. They..."
 01 24 "...have body structures that are fragile and diverse..."
 01 24 Shoot! Oh... This is a job for Spike. If only he were awake...
@@ -1113,13 +1110,13 @@
 01 24 And I'm sorry too, Spike. I should have been more sensitive.
 01 24 He forgives you, Spike.
 01 24 It was your ketchup covered feet. Owlowiscious discovered your footprints and we followed them all the way to the cave.
-01 24 [stare]
+01 24 
 01 24 I know Princess Celestia will wanna read about what happened today...
 01 24 Hey, Spike. Why don't you write to Princess Celestia? And tell her what you've learned?
 01 24 I know. But nothing my number one assistant can't handle.
 01 24 Oh, Spike.
-01 24 Who? Spike! You kno... Oooooh... [giggle]
-01 24 [credits]
+01 24 Who? Spike! You kno... Oooooh... 
+01 24 
 01 25 Oh! Hi, Pinkie Pie…
 01 25 [>Pinkie Pie]
 01 25 This is your singing telegram
@@ -1153,7 +1150,7 @@
 01 25 I’ll keep that in mind.
 01 25 Shh! Is Pinkie Pie around?
 01 25 Good. I don’t wanna her to know anything about this.
-01 25 Thanks, and remember, not a word to Pinkie Pie. Hey! What’s with the tin can? [yelp]
+01 25 Thanks, and remember, not a word to Pinkie Pie. Hey! What’s with the tin can? 
 01 25 I don’t think so.
 01 25 Me too.
 01 25 [in unison] Surprise!
@@ -1162,8 +1159,8 @@
 01 25 It’s okay, Pinkie Pie. It could have happened to any of us.
 01 25 Huh?!
 01 25 Dear Princess Celestia, I am writing to you from the most delightful party. I’m not only having a great time with my friends, but also was given the opportunity to learn a valuable lesson about friendship. Always expect the best from your friends, and never assume the worst. Rest assured that a good friend always has your best interests at heart. Your faithful student, Twilight Sparkle.
-01 25 Yeah, why not? Let’s have a party for Gummy. [giggles]
-01 25 [credits]
+01 25 Yeah, why not? Let’s have a party for Gummy. 
+01 25 
 01 26 Pinkie! Please stop shouting, I'm trying to concentrate.
 01 26 Perfect! I'm ready.
 01 26 All right, Spike.
@@ -1187,13 +1184,13 @@
 01 26 Oh, I'm so excited to be here! We have so much to catch up on.
 01 26 That's just what I was hoping you'd say.
 01 26 Princess! I've been so excited to spend time with you and...
-01 26 [sigh] Looks like getting a chance to talk to the Princess is gonna be a magic trick in itself.
+01 26  Looks like getting a chance to talk to the Princess is gonna be a magic trick in itself.
 01 26 This isn't what I hoped.
 01 26 No!
 01 26 ...I'm gonna make this...
 01 26 Well... it can't get any worse.
 01 26 Uh... Eek!
-01 26 [whistles]
+01 26 
 01 26 I just hope Princess Celestia isn't upset with us for ruining the Gala.
 01 26 Pardon me, Princess, but tonight was just awful.
 01 26 It is?
@@ -1203,9 +1200,9 @@
 02 01 My fail-safe spell... failed. What do we do?
 02 01 Hmm, time for plan B. Rainbow, can you corral all those clouds in one corner of the sky?
 02 01 Applejack, I need you to bring those high-strung storm clouds down to Earth.
-02 01 [whispers]
+02 01 
 02 01 You see, Spike? You should never give up. There's nothing we can't overcome if we all work together.
-02 01 [gasp] Come on girls. Princess Celestia wants to see us all in Canterlot immediately!
+02 01  Come on girls. Princess Celestia wants to see us all in Canterlot immediately!
 02 01 Princess Celestia, we came as fast as we could.
 02 01 Is this about the weather? And the animals' weird behavior? What's happening out there? Why isn't my magic working? Is there–
 02 01 No longer connected?
@@ -1235,7 +1232,7 @@
 02 01 What is happening to my friends?
 02 01 You're welcome–
 02 01 Must... find... Rainbow Dash. As a team... we're unstoppable. Rainbow Dash won't let us down.
-02 01 Now I know that's a lie. [gasp] How can it be?
+02 01 Now I know that's a lie.  How can it be?
 02 01 [thunder, cracking]
 02 02 Princess Celestia, we came as fast as we could.
 02 02 The Elements! They're gone!
@@ -1247,21 +1244,21 @@
 02 02 Stop it, Discord. You're not playing fair.
 02 02 How are we supposed to find the Elements of Harmony when you took away the labyrinth before we could get to the end?
 02 02 But...but..
-02 02 [grunt] Think, Twilight, think! "Find the Elements back where you began." Back where you began.
+02 02  Think, Twilight, think! "Find the Elements back where you began." Back where you began.
 02 02 Ugh. I just want to go home... Wait a minute...home! "Back where you began!" The Elements must be in Ponyville! Come on, girls. I'm certain this is what Discord's riddle really meant. If we get back to the library, I have a book that I just know could give us a clue. Ah!
 02 02 Wah! Ahh! Discord's turned our dirt roads into soap.
 02 02 Ugh.
-02 02 I can't picture anything. It's too dark. [splash]
+02 02 I can't picture anything. It's too dark. 
 02 02 Ponyville, the chaos capital of the world? Not if I have anything to say about it.
-02 02 [sigh] Okay, we're here. Everyone please, please, please just go inside, please?
-02 02 [moan]
+02 02  Okay, we're here. Everyone please, please, please just go inside, please?
+02 02 
 02 02 Pleeeease, we've gotta hurry!
 02 02 Tom?
 02 02 You're not going in without him, are you?
-02 02 [grunting] Fine!
+02 02  Fine!
 02 02 Oh, for the love of...
 02 02 Don't ask. I need you to help me find something.
-02 02 Fluttershy, I've had just about enough... [splash]
+02 02 Fluttershy, I've had just about enough... 
 02 02 Ugh. No time to explain. We've got to find the reference guide to the Elements of Harmony before somepony does something she'll regret.
 02 02 Fluttershy, you'd better give me that book!
 02 02 Hey! Applejack, give me that book!
@@ -1270,21 +1267,21 @@
 02 02 [strained groan] Give me that book! Where is she? Where's Rarity?
 02 02 Lies!
 02 02 [cat yowl, fighting noises]
-02 02 Get back! All of you! This is my book. And I'm going to READ IT! [gasp] The Elements!
+02 02 Get back! All of you! This is my book. And I'm going to READ IT!  The Elements!
 02 02 The Elements! They were here all along!
 02 02 See girls? We did it! We found the Elements of Harmony! Together!
 02 02 You don't even care, do you?
-02 02 [sigh] I never thought it would happen. My friends... have turned into complete JERKS! Necklace! Necklace! Necklace! Necklace! And... big crown thingy! Come on everypony, let's go!
+02 02  I never thought it would happen. My friends... have turned into complete JERKS! Necklace! Necklace! Necklace! Necklace! And... big crown thingy! Come on everypony, let's go!
 02 02 Nope. We've got the liar, the grump, the hoarder and the brute. That just about covers it.
 02 02 Congratulations Spike, you're the new Rainbow Dash. Now let's go!
 02 02 Too bad, you're Rainbow Dash. Now let's go defeat Discord so we don't ever have to talk to each other again!
 02 02 Move! Look out, here comes Tom!
-02 02 [crash]
+02 02 
 02 02 Discord! I've figured out your lame riddle. You're in for it now!
 02 02 Formation, now!
 02 02 Rainbow Dash, get over here. All right, let's get this over with.
 02 02 What's going on?
-02 02 [growl]
+02 02 
 02 02 Who are you talking to?
 02 02 FINE! Leave! See if I care! I don't need you guys either! With friends like you, who needs...enemies...?
 02 02 Not anymore...
@@ -1341,7 +1338,7 @@
 02 03 Huh?
 02 03 You're right. I have no reason to worry. Because I'm going to solve a friend's problem and get that letter to Princess Celestia before sundown!
 02 03 So... got any problems, troubles, conundrums, or any other sort of issues, major or minor, that I as a good friend can help you solve?
-02 03 [sigh] Then it looks like I'm going to have to find somepony who does.
+02 03  Then it looks like I'm going to have to find somepony who does.
 02 03 You've got this, Twilight. You still have plenty of time to get that letter to Princess Celestia! Has to be somepony who needs the help of a good friend!
 02 03 Rarity!
 02 03 Don't worry, Rarity! I'm here!
@@ -1351,17 +1348,17 @@
 02 03 ...but now you've found it?
 02 03 ...and nothing else is bothering you? Nothing that I, as a good friend could help you with?
 02 03 Yes?
-02 03 [sighs] Measuring tape? Sure.
+02 03  Measuring tape? Sure.
 02 03 No need to panic. Rarity is just one pony. I'm sure one of my other friends will need me.
 02 03 What in the world...? Rainbow must be angry with Applejack! She must hate her guts! Oh wonderful! Rainbow Dash! Stop! Listen, Rainbow. I know you're upset with Applejack, but don't worry. Whatever it is that has come between you two, I'm sure that I, as a good friend, can help you resolve your problems.
 02 03 Oh, Rainbow Dash, you don't have to hide your feelings from me! I can tell you two must've had a terrible fight. Now, why don't you tell me all about your issues with Applejack.
 02 03 You don't? Then why are you destroying her property?
-02 03 [yelps]
-02 03 [sighs]
-02 03 [sigh] I can't believe I wasted all that time. I should have just come here first. Fluttershy always has some fear she's trying to get over. As a good friend, I'll be able to help her.
+02 03 
+02 03 
+02 03  I can't believe I wasted all that time. I should have just come here first. Fluttershy always has some fear she's trying to get over. As a good friend, I'll be able to help her.
 02 03 Fluttershy?
 02 03 How can this be happening? Of all the days she had to stop being such a scaredy-pony, she had to pick today?! What am I going to do?!
-02 03 It's fine. It'll all be fine. The day isn't over yet. But it will be over soon! [groans] It'll be all over! My time in Ponyville! My advanced studies! Nono. You're a good student. You can do this. Ooh! But what if I can't? You can. You just have to keep it together. Keep. It. Together!
+02 03 It's fine. It'll all be fine. The day isn't over yet. But it will be over soon!  It'll be all over! My time in Ponyville! My advanced studies! Nono. You're a good student. You can do this. Ooh! But what if I can't? You can. You just have to keep it together. Keep. It. Together!
 02 03 Huh?
 02 03 The picnic! I should go see my friends!
 02 03 No! I am not alright.
@@ -1378,12 +1375,12 @@
 02 03 Gr-eat. Just great. You three look like you're doing great too! Looks like three good friends who obviously don't need the help of another good friend. This is Smarty Pants. She was mine when I was your age, and now I want to give her to you!
 02 03 She even comes with her own notebook and quill, for when you want to pretend she's doing her homework!
 02 03 I just hope the fact that there are three of you and only one of her doesn't become a problem! I'd hate to cause a rift between such good friends. So, who wants to play with her first?
-02 03 (thinking) I gotta think of something! Thinkthinkthinkthink Twilight, think! [gasp] That's it! (normal) Ooh, you're going to like Smarty Pants. And you're going to like her more than anything.
+02 03 (thinking) I gotta think of something! Thinkthinkthinkthink Twilight, think!  That's it! (normal) Ooh, you're going to like Smarty Pants. And you're going to like her more than anything.
 02 03 The 'want it, need it' spell. Works every time. Okay okay, let's break it up. I think we can all see that there is an important lesson to be learned here about-- C'mon, girls, we're all friends here, right? Don't you think you ought to share?
 02 03 [annoyed groan] Big McIntosh! Thank goodness! You've gotta help me get that doll away from those girls!
 02 03 Oh, thank you so much. Now if you could just give her to me?
 02 03 Oh no!
-02 03 Can't... get... a clear shot! [grunting]
+02 03 Can't... get... a clear shot! 
 02 03 Oh, what have I done?!
 02 03 Don't look at it!
 02 03 My Smarty Pants doll! I enchanted her and now everypony is fighting over her!
@@ -1392,14 +1389,14 @@
 02 03 ...But...but... I'm supposed to send you a letter about friendship every week. I missed the deadline. I'm a bad student! I'm... tardy!
 02 03 Really?
 02 03 Princess Celestia, wait! How did you know I was in trouble?
-02 03 [laughs]
+02 03 
 02 04 I'm Star Swirl the Bearded. Father of the amniomorphic spell? Did you even read that book I gave you about obscure unicorn history?
 02 04 Hi, everypony. Great costumes. Happy Nightmare Night, Granny Smith.
 02 04 Since you moved here from Trottingham?
 02 04 Pinkie Pie, aren't you a little old for this?
 02 04 [bell jingles] Do you like it?
 02 04 A clown? Look at the borders on these robes. These are hoof-stitched!
-02 04 [groans]
+02 04 
 02 04 [<a href="/wiki/My_Little_Pony_theme_song" title="My Little Pony theme song">theme song</a>]
 02 04 Star Swirl the Bearded is only the most important conjurer of the pre-classical era.
 02 04 He created more than 200 spells! He even has a shelf in the Canterlot library of magic named after him. Maybe I should start up a pony group to teach ponies about history. I bet everypony would love it! Don't you, Spike?
@@ -1408,7 +1405,7 @@
 02 04 Look what you did to Spike.
 02 04 Happy Nightmare Night, Applejack!
 02 04 She means me, Spike.
-02 04 [Giggling]
+02 04 
 02 04 Princess Luna!
 02 04 I'm gonna go talk to her.
 02 04 No, she's not. I saw the Elements of Harmony change her back to good! But it seems like she's having some trouble adjusting after being gone for a thousand years.
@@ -1421,7 +1418,7 @@
 02 04 Don't worry, Princess. Fluttershy can give you some great pointers. She's delicate and demure with the sweetest little voice.
 02 04 Fluttershy, it's me, Twilight!
 02 04 [nervous laughter] Wait right here.
-02 04 [noise]
+02 04 
 02 04 Fluttershy... you remember Princess Luna?
 02 04 A little quieter, princess.
 02 04 Better. Right, Fluttershy?
@@ -1430,7 +1427,7 @@
 02 04 Come on, princess. Time for plan B.
 02 04 My friend Applejack is one of the most likeable ponies around. I'm sure she'll have some ideas.
 02 04 Uh... Applejack, the princess is looking for a little advice on how to fit in around here.
-02 04 [snarl]
+02 04 
 02 04 Fire away, princess!
 02 04 Princess, remember! Watch the screaming!
 02 04 It's not over yet.
@@ -1452,10 +1449,10 @@
 02 04 See? They really do like you, princess.
 02 04 Dear Princess Celestia,
 02 04 When you first sent me to Ponyville, I didn't know anything about friendship. I met somepony tonight who was having the same problem - your sister, Princess Luna! She taught me that one of the best things you can do with friendship is to give it to others, and help them find it themselves! And I'm happy to report that all of Ponyville has learned that even if somepony seems a little intimidating, even scary, when you offer them your friendship, you'll discover a whole new pony underneath. And even if my Star Swirl the Bearded costume didn't go over, this still turned out to be the best Nightmare Night ever!
-02 04 [thunder]
+02 04 
 02 06 Three cutie marks. Three talents. I've never seen anything like it! I was just reading something about unusual equine illnesses. What was it?
 02 06 Yes, Spike, you're amazing!
-02 06 Hay fever... the trots... [gasps] Cutie pox!
+02 06 Hay fever... the trots...  Cutie pox!
 02 06 Cutie pox. This puzzling pony plague afflicted a population of ponies back in the paleopony period!
 02 06 Random cutie marks appeared all over the ponies' bodies, causing them to perform all the talents that came with them!
 02 06 It says here there's no known cure!
@@ -1510,7 +1507,7 @@
 02 09 We all think so!
 02 10 No distractions. Today is too important. Re-shelving day. Understanding Medieval Equestria goes in Pony History. Modern Spellcasting. That's Classics. The Art of the To-Do List... actually, I kinda wanna read that again.
 02 10 Spike! What are you laughing at?
-02 10 [growls]
+02 10 
 02 10 [<a href="/wiki/My_Little_Pony_theme_song" title="My Little Pony theme song">theme song</a>]
 02 10 Uhh... if you guys don't mind?
 02 10 Start with this one.
@@ -1523,30 +1520,30 @@
 02 10 What are you doing? You're out here demanding gifts now?
 02 10 No problem. See you at home later?
 02 10 Wow, what a rough night's sleep, Spike. I had the weirdest drea--
-02 10 I can't believe you! Where'd you get all this-- [gasps]
+02 10 I can't believe you! Where'd you get all this-- 
 02 10 I don't know! Think back to last night. Did something happen? Spike? What did you do after I saw you?
 02 10 Spike!
 02 10 You went to talk to who?
 02 10 Huh?
-02 10 [crash]
+02 10 
 02 10 Spike, I'm worried about you. You're usually not so... grabby!
-02 10 [slaps]
-02 10 This is Spike. [slaps] And something's wrong with him. [slaps] He used to be half this size! And he keeps trying to take things that aren't [slaps] his!
+02 10 
+02 10 This is Spike.  And something's wrong with him.  He used to be half this size! And he keeps trying to take things that aren't  his!
 02 10 So? What do you think, Doctor?
 02 10 That's not the problem. He's always been a dragon.
-02 10 [sighs] Okay. Thank you, doctor.
+02 10  Okay. Thank you, doctor.
 02 10 Thanks anyway. C'mon, Spike.
 02 10 [squee, squeaks]
 02 10 [watch ticking]
 02 10 Mature? So he's just... growing up? But that doesn't explain why he keeps grabbing things.
-02 10 [gasps] You mean the more things a dragon collects, the bigger and greedier he gets? But how do we stop him before he's completely out of control?
+02 10  You mean the more things a dragon collects, the bigger and greedier he gets? But how do we stop him before he's completely out of control?
 02 10 [laughs nervously]
 02 10 Hey, Spike! Check out this amazing broom!
 02 10 [sing-song voice] C'mon, big boy! Look at this incredible broom!
 02 10 Fight all you want, I'm not letting you out! Oh Spike, I just re-shelved this room!
 02 10 [door closes]
-02 10 [crash]
-02 10 [groans] What now?
+02 10 
+02 10  What now?
 02 10 Applejack, help! Spike's running wild and I need you to lasso him!
 02 10 Help!
 02 10 Fluttershy? Fluttershy!?
@@ -1566,19 +1563,19 @@
 02 11 I actually think that the three tribes could've tried harder.
 02 11 What's wrong?
 02 11 Your highness, it's just a stream. We can cross it easily.
-02 11 [groans]
+02 11 
 02 11 What dungeon? Look, perhaps if we all calmed down...
 02 11 Look, everypony! The entrance!
 02 11 [ice cracking]
-02 11 [gasp] [sigh]
+02 11  
 02 11 [windigo roaring]
-02 11 [screams]
+02 11 
 02 11 They must be... windigos!
 02 11 My mentor Star Swirl the Bearded taught me about them. They're winter spirits that feed off fighting and hatred. The more hate the spirit feels, the colder things become!
 02 11 And now our bodies will become as cold as our hearts... all because we were foolish enough to hate.
-02 11 [giggling]
+02 11 
 02 11 [windigo snorts]
-02 11 [laughing]
+02 11 
 02 11 Nor do I.
 02 11 I didn't either. Nothing like this has ever happened before. But I know it couldn't have been just me. It came from all three of us, joined together, in friendship.
 02 11 We should be so honored that Princess Celestia chose us! She must really think we exemplify what good friends are!
@@ -1635,11 +1632,11 @@
 02 15 Integrity like that will always be... rewarded.
 02 15 That means Sweet Apple Acres is still in business!
 02 16 Hey Rarity, hey Pinkie Pie. What are you looking at?
-02 16 [gasp]
+02 16 
 02 16 Oh no, oh no, oh no!
 02 16 Ohh.
 02 16 How is she, doctor?
-02 16 This is the first story in the series. I own all of them. [squee]
+02 16 This is the first story in the series. I own all of them. 
 02 16 Reading is for everypony, Rainbow Dash!
 02 16 I think you'd like Daring. She's a lot like you. Adventurous, fierce, and undeniably, unquestionably, unstoppable.
 02 16 [door closes]
@@ -1677,7 +1674,7 @@
 02 20 No, the problem is I just finished planning my schedule for the month, but I forgot to leave time to plan for next month! Don't you see? There's no time in my schedule to put together another schedule! I could move my meeting with the Ponyville Hay Board to the following Tuesday, but then I have to reschedule my lunch with Pinkie Pie, and you know what a nightmare she is with scheduling. This is an absolute disaster. My whole year could be thrown off!
 02 20 Oh my gosh, I think I did it! If I can find a way to read The Art of Invisibility Spells, and Thornhoof's Brief History of Canterlot at the same time, that could leave me a half-hour scheduling window! Huh?
 02 20 [magic crackling, wind blowing]
-02 20 What's going on? [yelps]
+02 20 What's going on? 
 02 20 Who are you? I mean, you're me, but I'm me too. How can there be two 'me's? It's not scientifically possible. You are not scientifically possible!
 02 20 You're from the future?!
 02 20 What happened to you? The future must be awful.
@@ -1685,7 +1682,7 @@
 02 20 I can't believe time travel is really possible! How did you, I mean, I figure it out?
 02 20 Really? Where? I've never seen them.
 02 20 Is time travel fun, or does it hurt? I have so many questions- [muffled voice]
-02 20 Future Twilight? Oh no! What was she trying to warn me about? Her clothes, her mane, that scar... oh, what a mess she is! ...I mean, I am... or I... will be... [gasps] She must want me to prevent whatever horrible thing happens in the future! [gasps]
+02 20 Future Twilight? Oh no! What was she trying to warn me about? Her clothes, her mane, that scar... oh, what a mess she is! ...I mean, I am... or I... will be...  She must want me to prevent whatever horrible thing happens in the future! 
 02 20 Listen, everypony! I've got something really important to say!
 02 20 This is no laughing matter! We have a crisis on our hooves!
 02 20 I've just been visited by myself from the future!
@@ -1712,14 +1709,14 @@
 02 20 I'll be back as soon as I've returned him to the gates of Tartarus. Once he's back at home, there'll be no disaster.
 02 20 [cockerel crowing]
 02 20 Great. I got him back before any of the evil creatures could escape.
-02 20 [yelps] Oh no!
+02 20  Oh no!
 02 20 It's not that, it's this!
 02 20 The cut's in the exact same spot as the scar on future Twilight's cheek! We haven't changed the future at all! The disaster is still coming!
 02 20 If the disaster wasn't caused by Cerberus getting loose, then what could it possibly be?
 02 20 I don't have time for another one of your lectures, Spike! This is serious!
 02 20 I did everything I could think of to change the future. But it didn't work. So maybe it's not what I do... maybe it's what I don't do! If I stand right here and don't move a muscle until next Tuesday, I can't possibly do whatever it is that future Twilight wanted to warn me not to do!
 02 20 [through gritted teeth] Spike, stop! Think of the stomach ache!
-02 20 [wincing]
+02 20 
 02 20 What happened?
 02 20 Show me.
 02 20 Show me! Oh no! This is the same mane cut as future Twilight!
@@ -1736,32 +1733,32 @@
 02 20 I had an epiphany after that flowerpot. Doing things didn't work, not doing things didn't work, and I couldn't predict the future either, so I only had one other choice. Monitor everything.
 02 20 That way no matter what happens in the future, I'll be ready! I thought I saw something last night in the Horsehead nebula, but after staring at it for three straight hours I realized, I was wrong!
 02 20 Oh I didn't sleep. I haven't slept since future Twilight was here. There are only three days left until next Tuesday, I can sleep all I want after that!
-02 20 [gasps] Pinkie, did you finish recalibrating the apertures on the nine and quarter inch catadioptric telescopes?
+02 20  Pinkie, did you finish recalibrating the apertures on the nine and quarter inch catadioptric telescopes?
 02 20 Ah! My eye!
 02 20 The eye patch...! Another sign! Nearly all the signs have come true! I haven't done a thing to prevent the catastrophe! If Tuesday's tomorrow, and the disaster happens by Tuesday morning, then there's only one solution. I'll just have to... stop time.
 02 20 [train chugging]
-02 20 [hushed] Okay, the Canterlot archives are right over there. Let's move!
-02 20 [hushed] Guard! C'mon, you guys! [exhales] That was close.
-02 20 [hushed] No, there's nothing fun about this!
-02 20 [hushed] Focus, guys! The only way to prevent this disaster is to stop time! Time spells are kept in the Star Swirl the Bearded wing, the most secure section of the archives. That's why we're sneaking around!
-02 20 [hushed] No, it's not fun!
-02 20 [hushed] The coast is clear. Now slowly lift me into the window so we can- AH!
-02 20 [hushed] Okay, if my calculations are correct, the Star Swirl the Bearded wing should be right... here.
-02 20 [hushed] What is it, Spike?
+02 20  Okay, the Canterlot archives are right over there. Let's move!
+02 20  Guard! C'mon, you guys!  That was close.
+02 20  No, there's nothing fun about this!
+02 20  Focus, guys! The only way to prevent this disaster is to stop time! Time spells are kept in the Star Swirl the Bearded wing, the most secure section of the archives. That's why we're sneaking around!
+02 20  No, it's not fun!
+02 20  The coast is clear. Now slowly lift me into the window so we can- AH!
+02 20  Okay, if my calculations are correct, the Star Swirl the Bearded wing should be right... here.
+02 20  What is it, Spike?
 02 20 I don't understand. It's supposed to be right here... How are we supposed to find it now?
 02 20 Huh. How'd I miss that? Look at all those priceless magic scrolls. There are more than I ever imagined!
-02 20 [gasps] What do we do, what do we do?!
+02 20  What do we do, what do we do?!
 02 20 [chuckles nervously] Thanks!
 02 20 Oh no!
-02 20 [splat]
+02 20 
 02 20 Look! I look just like future Twilight... the last sign has come true!
 02 20 Come on! It's almost Tuesday morning! The disaster could happen at any moment!
 02 20 I. Don't. Know!
 02 20 [birds singing]
 02 20 Nnngh, no! Tuesday morning, the disaster! Incoming!
 02 20 Why isn't anypony surprised to see me sneaking around in here?! Is it possible there never was a disaster? That I've just been making myself frantic over nothing?!
-02 20 [giggles] I don't know. But I do know one thing. I look ridiculous.
-02 20 [laughing]
+02 20  I don't know. But I do know one thing. I look ridiculous.
+02 20 
 02 20 And it's all because I couldn't stop worrying and let the future handle itself! Well, not anymore. From now on, I'm gonna solve problems as they come, and stop worrying about every little thing!
 02 20 No more late night pacing. If only I had learned this lesson a week ago, we wouldn't have had to go through all this.
 02 20 Pinkie, you're a genius!
@@ -1778,19 +1775,19 @@
 02 20 [magic crackling]
 02 20 -waste your time... worrying... about... ugh, I can't believe I just did that.
 02 20 Remember last week when future Twilight came to warn me about something? That was me trying to warn myself not to worry so much! Now I'm gonna spend the next week freaking out about a disaster that doesn't even exist! Ugh...
-02 20 [giggles] Huh, I guess you're right, Pinkie.
-02 20 [giggling]
+02 20  Huh, I guess you're right, Pinkie.
+02 20 
 02 20 Come on, future Spike. Let's get you home.
-02 20 [credits]
+02 20 
 02 21 [digging sounds]
 02 21 C'mon, Fluttershy, it'll be fun!
 02 21 But Fluttershy, the great dragon migration happens only once in a generation! Do you really wanna pass up a chance like that?
 02 21 Aw Fluttershy, we just don't want you to miss out.
 02 21 Well... yeah!
-02 21 [gasps]
-02 21 [hushed] I don't see any dragons.
-02 21 [hushed] No, I don't think so. We're just a little early, and I'm glad we are. This way, we can watch every moment of the migration without bringing any unwanted attention to ourselves!
-02 21 [hushed] You look very nice, Rarity, but could you maybe look nice down here in the trench with us?
+02 21 
+02 21  I don't see any dragons.
+02 21  No, I don't think so. We're just a little early, and I'm glad we are. This way, we can watch every moment of the migration without bringing any unwanted attention to ourselves!
+02 21  You look very nice, Rarity, but could you maybe look nice down here in the trench with us?
 02 21 Wow, amazing!
 02 21 Or act like them.
 02 21 Uuugh! I don't know! For the last time, Spike, you were given to me as an egg. I don't know who found you, or where they found you.
@@ -1814,36 +1811,36 @@
 02 21 [dragon roaring]
 02 21 [teacup clinking]
 02 21 [sounds of exertion]
-02 21 Shh! [hushed] We'll never pass if they hear three voices coming out of one dragon! Now come on, let's go!
+02 21 Shh!  We'll never pass if they hear three voices coming out of one dragon! Now come on, let's go!
 02 21 [dragons cheering]
 02 21 [deep voice] Aheh... yeah... hilarious.
-02 21 [gasps] How can he just throw that away?! That letter could be something important!
+02 21  How can he just throw that away?! That letter could be something important!
 02 21 I know, I know!
 02 21 There's no reason to disrespect Princess Celestia that way!
 02 21 Let's go! [deep voice] I challenge Spike to a tail wrestle!
 02 21 Oof!
 02 21 [pinching noise]
-02 21 [hushed] Spike's on his own this time.
+02 21  Spike's on his own this time.
 02 21 [dragons cheering]
 02 21 Forever?!
 02 21 Oh no, this is terrible!
 02 21 No, Rainbow Dash, this is all my fault! I encouraged him to go!
-02 21 [yelps] Rainbow Dash, stop! We can't fly!
+02 21  Rainbow Dash, stop! We can't fly!
 02 21 Well, we're just gonna have to hoof it!
 02 21 That's right!
 02 21 Nyuh!
-02 21 [yelps]
+02 21 
 02 21 Of course. What are friends for?
 02 22 This is an anemometer. It measures your accelerative velocity and translates it into wing power, thus gauging your cumulative H<sub>2</sub>O anti-gravitational potential. Any other questions?
 02 22 Is that you again, Thunderlane? Please, we need to have a germ-free environment.
 02 22 We have 9.3 wing power.
 02 22 16.5 wing power!
 02 22 [hushed, to Rainbow Dash] Tell her!
-02 22 [hushed] No, you!
+02 22  No, you!
 02 22 That's wonderful, Flitter. Much better than yesterday.
 02 22 Do I look like I speak squirrel?
 02 22 Fluttershy, that's a huge improvement!
-02 22 Let's see, with those eight sick pegasi out with the feather flu... [gasp] oh no!
+02 22 Let's see, with those eight sick pegasi out with the feather flu...  oh no!
 02 22 No...
 02 22 ...you might not have enough wing power to create a tornado powerful enough to lift the water to Cloudsdale!
 02 22 [taps giant anemometer]
@@ -1898,11 +1895,11 @@
 02 24 Good... let's retrace your steps.
 02 24 Hm... A-ha! Our first clue. I think I know who did it Pinkie.
 02 24 Yes, but I need more evidence to confirm. Tell me what happened next.
-02 24 The conductor, huh? [gasp] But, that doesn't make any sense. What happened next Pinkie?
+02 24 The conductor, huh?  But, that doesn't make any sense. What happened next Pinkie?
 02 24 Yes?
 02 24 Interesting. Anything else?
 02 24 Oh my, what is that?
-02 24 [growling]
+02 24 
 02 24 [teapot whistling]
 02 24 What next Pinkie?
 02 24 And when you woke up, half the cake was gone?
@@ -1922,18 +1919,18 @@
 02 24 What do you say bakers?
 02 24 Well everypony, we finally have the mystery solved.
 02 24 Care for a bite?
-02 25 Dear Twilight, I am sure you are as excited as I am about the upcoming wedding in Canterlot. [to the others] Wedding? [reading] I will be presiding over the ceremony, but would very much like you and your friends to help with the preparations for this wonderful occasion. Fluttershy, I would like you and your songbird choir to provide the music.
+02 25 Dear Twilight, I am sure you are as excited as I am about the upcoming wedding in Canterlot. [to the others] Wedding?  I will be presiding over the ceremony, but would very much like you and your friends to help with the preparations for this wonderful occasion. Fluttershy, I would like you and your songbird choir to provide the music.
 02 25 Pinkie Pie, I can think of no one more qualified than you to host the reception.
 02 25 Applejack, you will be in charge of the catering for the reception.
 02 25 Rainbow Dash-
 02 25 ...I would very much appreciate it if you could perform a sonic rainboom as the bride and groom complete their I do's.
 02 25 Rarity, you will be responsible for designing the dresses for the bride and her bridesmaids.
 02 25 And as for you, Twilight, you will be playing the most important role of all: Making sure that everything goes as planned. See you all very soon. Yours, Princess Celestia. But... I don't understand. Who's getting married?
-02 25 Princess Celestia cordially invites you to the wedding of Princess Mi Amore Cadenza and... [gasp] My brother?!
+02 25 Princess Celestia cordially invites you to the wedding of Princess Mi Amore Cadenza and...  My brother?!
 02 25 [<a href="/wiki/Theme_song" title="Theme song" class="mw-redirect">theme song</a>]
-02 25 Yeah, great news. That I just got from a wedding invitation! Not from my brother, but from a piece of paper! Thanks a lot, Shining Armor. I mean, really, he couldn't tell me personally? [as >Shining Armor] Hey, Twilight, just thought you should know I'm making a really big decision that changes everything. Oh, nevermind, you'll hear about it when you get the invitation. [normal] Princess Mi Amore Cadenza? Who in the hoof is that?! [snort]
+02 25 Yeah, great news. That I just got from a wedding invitation! Not from my brother, but from a piece of paper! Thanks a lot, Shining Armor. I mean, really, he couldn't tell me personally? [as >Shining Armor] Hey, Twilight, just thought you should know I'm making a really big decision that changes everything. Oh, nevermind, you'll hear about it when you get the invitation.  Princess Mi Amore Cadenza? Who in the hoof is that?! 
 02 25 Sorry, it's just that Shining Armor and I have always been so close. He's my B.B.B.F.F!
-02 25 [pause]
+02 25 
 02 25 Big Brother Best Friend Forever?
 02 25 Before I came here and learned the importance of friendship, Shining Armor was the only pony I really accepted as a friend.
 02 25 When I was just a filly, I found it rather silly
@@ -1964,17 +1961,17 @@
 02 25 Yeah, there's a big wedding coming up. Maybe you heard about it?
 02 25 Okay, okay, I get it. You've got a really important job protecting all of Canterlot with a force field only you can conjure up. But still... how could you not tell me about something as big as your wedding? Am I not that important to you any more?
 02 25 You want me to be your best mare?
-02 25 I'd be honored! [pause] But I'm still pretty ticked you're marrying somepony I don't even know! When did you even meet this "Princess Mi Amore Cadenza"?
+02 25 I'd be honored!  But I'm still pretty ticked you're marrying somepony I don't even know! When did you even meet this "Princess Mi Amore Cadenza"?
 02 25 Cadance? As in the Cadance? As in the greatest foalsitter in all the history of foalsitters?!
 02 25 Ohmygoshohmygosh! Cadance is only the most amazing pony ever! She's beautiful, she's caring, she's kind...
 02 25 How many unicorns can just spread love wherever they go? I only know of one! And you're marrying her! [sing-song voice] You're marrying Cadance! You're marrying Cadance!
 02 25 Cadance! Sunshine, sunshine, ladybugs awake! Clap your hooves and do a little shake!
 02 25 Cadance, it's me, Twilight!
 02 25 Mmm. Check.
-02 25 [gasps] Did... you see what she...
+02 25  Did... you see what she...
 02 25 Oh, you should have seen how she acted back there. I don't know when she changed, but she changed! [imitating Cadance] "Please, call me Princess Mi Amore Cadenza."
 02 25 Gee, maybe her name should be "Princess Demandy-pants."
-02 25 [pop]
+02 25 
 02 25 Bet I can guess what you're all thinking! Cadance is the absolute worst bride-to-be ever.
 02 25 Rarity, she was so demanding!
 02 25 Applejack, did you know that after she told you how much she just 'love-love-loved' your hors d'eouvres she threw them in the trash?
@@ -1982,10 +1979,10 @@
 02 25 See? Rude!
 02 25 Pinkie Pie, you had to have noticed how Cadance treated-
 02 25 Nevermind. Rainbow Dash, you're with me, right?
-02 25 [growls]
+02 25 
 02 25 And I'm sure it's the result of being an awful pony who doesn't deserve to even know Shining Armor let alone marry him!
 02 25 I am not being possessive, and I am not taking it out on Cadance! You're all just too caught up in your wedding planning to notice that maybe there shouldn't even [thumps table] be a wedding!
-02 25 [knocking]
+02 25 
 02 25 We need to talk. I think you're making a big-
 02 25 She sure has a way of sneaking up on people.
 02 25 She isn't just unpleasant and rude, she's downright evil!
@@ -2001,8 +1998,8 @@
 02 25 She's been horrible to my friends, she's obviously done something to her bridesmaids, and if that wasn't enough, I saw her put a spell on my brother that made his eyes go all [bells jangling]!
 02 25 Because you're evil!
 02 25 Evil! And if I don't stop you you're gonna ruin my brother's life!
-02 25 [smack]
-02 25 [inhales]
+02 25 
+02 25 
 02 25 I was just trying to-
 02 25 I was-
 02 25 Maybe I was being overprotective. I could've gained a sister. But instead... I just lost a brother.
@@ -2012,26 +2009,26 @@
 02 25 Together...
 02 25 [smashing noise]
 02 25 I'm sorry!
-02 26 "Princess Celestia cordially invites you to the wedding of Princess Mi Amore Cadenza and..." [gasp] my brother?
+02 26 "Princess Celestia cordially invites you to the wedding of Princess Mi Amore Cadenza and..."  my brother?
 02 26 How dare you not tell me in person that you were getting married!
 02 26 But I'm still pretty ticked you're marrying somepony I don't even know.
 02 26 Cadance is only the most amazing pony ever!
 02 26 Cadance, it's me! Twilight!
 02 26 She's evil! I saw her put a spell on my brother that made his eyes go all [bells tingling]...
 02 26 I just lost a brother. I'm sorry.
-02 26 [echoing] Hello? Is anyone there?
-02 26 [laughter]
+02 26  Hello? Is anyone there?
+02 26 
 02 26 Where am I?
 02 26 Help! Help!
 02 26 Plans? What plans?
 02 26 Don't you dare do anything to my brother, you... you monster!
-02 26 Likely story! [snorts]
+02 26 Likely story! 
 02 26 ...and do a little shake.
 02 26 You remember me!
 02 26 We have to get out of here. We have to stop her!
 02 26 We will. We just have to find... there!
 02 26 Stop!
-02 26 [gasp]
+02 26 
 02 26 Princess Celestia!
 02 26 Rarity!
 02 26 Go, go!

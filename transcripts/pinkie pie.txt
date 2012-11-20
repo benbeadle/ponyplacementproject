@@ -8,18 +8,18 @@
 01 01 [muffled disco music]
 01 01 [clock ticking]
 01 01 Isn't this exciting? Are you excited, 'cause I'm excited, I've never been so excited- well, except for the time that I saw you walking into town and I went [deep gasp] but I mean really, who can top that?
-01 01 [fanfare]
+01 01 
 01 01 Ooh, ooh, I love guessing games! Is she hiding?
-01 01 Ooh, she's good. [yelp]
+01 01 Ooh, she's good. 
 01 01 [ponies gasping]
 01 01 Ooh, ooh, more guessing games! Um, Hokey Smokes! How about... Queen Meanie! No! Black Snooty, Black Snooty-[muffled noises]
-01 02 [gasp]
+01 02 
 01 02 "The Elements of Harmony: A Reference Guide."
 01 02 [sing-song voice] It was under "E"!
 01 02 Whee! Let's go!
 01 02 Especially if there's candy apples in there. What? Those things are good.
-01 02 [screams]
-01 02 [laughter] Bleh. Ooo! [funny noises]
+01 02 
+01 02  Bleh. Ooo! [funny noises]
 01 02 Oh girls, don't you see?
 01 02 [>Pinkie Pie]
 01 02 When I was a little filly and the sun was going down...
@@ -41,22 +41,22 @@
 01 02 Snortle at the spooky
 01 02 And tell that big dumb scary face to take a hike and leave you alone and if he thinks he can scare you then he's got another thing coming and the very idea of such a thing just makes you wanna... hahahaha...heh...
 01 02 Laaaaaaauuugh!
-01 02 [laughs]
+01 02 
 01 02 How are we gonna cross this?
 01 02 [distant cry]
 01 02 Huh?
-01 02 [sighs] Now what?
+01 02  Now what?
 01 02 Oh yeah.
 01 02 One, two, three, four... There's only five!
 01 02 Look at mine! Look at mine!
 01 02 Whoa!
-01 02 [blows her nose] [sobs] Hey, you know what this calls for?
+01 02 [blows her nose]  Hey, you know what this calls for?
 01 02 A party!
 01 02 [music and cheering ponies]
-01 02 Isn't this exciting? Are you excited cause I'm excited I've never been so excited, well, except for the time that I went [gasp] but I mean really-
-01 02 [music]
-01 02 [credits]
-01 03 [crash] Gah! Bats! Bats on my face! Help! Wait, these aren't... tickets to The Grand Galloping Gala? It's the most amazing incredible tremendous super-fun wonderful terrifically humongous party in all of Equestria! I've always always always wanted to go!
+01 02 Isn't this exciting? Are you excited cause I'm excited I've never been so excited, well, except for the time that I went  but I mean really-
+01 02 
+01 02 
+01 03  Gah! Bats! Bats on my face! Help! Wait, these aren't... tickets to The Grand Galloping Gala? It's the most amazing incredible tremendous super-fun wonderful terrifically humongous party in all of Equestria! I've always always always wanted to go!
 01 03 [>Pinkie Pie]
 01 03 Oh the Grand Galloping Gala is the best place for me
 01 03 Oh the Grand Galloping Gala is the best place for me
@@ -87,7 +87,7 @@
 01 03 Oh, you didn't know? Twilight has an extra ticket to the Grand Galloping Gala!
 01 03 And me too. It's no fun upsetting your friends.
 01 03 And to celebrate. Come on everyone, the cupcakes are on me.
-01 04 [laughter] Hey...! [reverberating] This makes my voice sound silly!
+01 04  Hey...!  This makes my voice sound silly!
 01 04 This is the best rodeo show I've ever seen.
 01 04 Yee haw! Ride 'em, cowpony!
 01 04 Appletastic!
@@ -109,7 +109,7 @@
 01 04 Now that's gonna be delicious.
 01 04 Free muffin sample spectacular!
 01 04 [ponies: mmm, muffins]
-01 04 No, not baked goods, baked bads. [groans]
+01 04 No, not baked goods, baked bads. 
 01 04 Eeew... Spike, I threw those all away. Where'd you get them?
 01 05 Hoof-biting action overload! She was like a stunt superstar, flying higher and higher, and then Rainbow Dash swooped down--swoosh--and right before she hit the ground--shoom-she pulled up--vrrrmmm!
 01 05 And then she looped around and around like whoo whoo whoo whoo whoo whoo whoo.
@@ -118,7 +118,7 @@
 01 05 But, but Rainbow Dash–
 01 05 But–
 01 05 I was gonna tell you to look out for that mountain.
-01 05 [humming] Hi, I'm looking for Rainbow Dash. Have you seen her? Hi there, have you seen Rainbow Dash? Okay, thanks anyway. Twilight, have you seen Rainbow Dash anywhere?
+01 05  Hi, I'm looking for Rainbow Dash. Have you seen her? Hi there, have you seen Rainbow Dash? Okay, thanks anyway. Twilight, have you seen Rainbow Dash anywhere?
 01 05 Rainbow Dash.
 01 05 Hi!
 01 05 Hi again.
@@ -126,56 +126,56 @@
 01 05 I totally promise it'll be totally fun.
 01 05 Over to the right. No no, a little to the left. Oh wait, back to the right. Now a little leftish while staying rightly. Stop. Hmm. Maybe a few inches to the south. Now a couple centimeters north. Okay. One more smidgimeter to the--
 01 05 Uh, I mean, perfect. Now wait for my signal.
-01 05 [laughing] Oh Rainbow Dash, we startled Spike into getting the hiccups.
+01 05  Oh Rainbow Dash, we startled Spike into getting the hiccups.
 01 05 Oh no, you're not hurt are you?
 01 05 Oh, okay, good.
-01 05 [laughs]
-01 05 [laugh]
-01 05 Have you ever seen anything more hilarious? [laughs]
-01 05 Aah! [hiccup] [giggles] [hiccup] [chuckles] [hiccup] [laughs] [hiccup]
-01 05 Are you [hiccup] kidding? [hiccup] I love to pull pranks. It's all [hiccup] in good fun, and Pinkie Pie lo--[hiccup]--oves to have [hiccup] fun! [hiccup]
-01 05 [hiccup]
-01 05 [hiccup] That'd be [hiccup] I'd really [hiccup] When do [hiccup] I mean [hiccup] When would you [hiccup]
+01 05 
+01 05 
+01 05 Have you ever seen anything more hilarious? 
+01 05 Aah!       
+01 05 Are you  kidding?  I love to pull pranks. It's all  in good fun, and Pinkie Pie lo----oves to have  fun! 
+01 05 
+01 05  That'd be  I'd really  When do  I mean  When would you 
 01 05 Mmm-hmm.
 01 05 I don't know. This is gonna be gold.
-01 05 [laughs]
+01 05 
 01 05 Aaa-choo!
-01 05 [laughs]
-01 05 [chuckles]
+01 05 
+01 05 
 01 05 [water splash]
 01 05 Is someone over there? Who're we gonna squirt? Who're we gonna squirt?
-01 05 WHAT? [spits] Nononononono, we can't prank Fluttershy, I mean, she's so sensitive. It'll hurt her feelings, even our most harmless prank.
-01 05 Oh, [chuckles] I've got someone in mind. [chuckles] The toughest around.
-01 05 [giggles] Oh, yes. [giggles] You're very close.
-01 05 [laughs]
+01 05 WHAT?  Nononononono, we can't prank Fluttershy, I mean, she's so sensitive. It'll hurt her feelings, even our most harmless prank.
+01 05 Oh,  I've got someone in mind.  The toughest around.
+01 05  Oh, yes.  You're very close.
+01 05 
 01 05 What's a griffon?
-01 05 [laughs] Oh that was awesome, and it gave me a great idea for a prank. Gilda, you game?
-01 05 Oh. Um, well sure, no problem. Have fun you guys, I'll, uh, just catch up with you-- [sigh] later. (blows a party hooter very sadly)
+01 05  Oh that was awesome, and it gave me a great idea for a prank. Gilda, you game?
+01 05 Oh. Um, well sure, no problem. Have fun you guys, I'll, uh, just catch up with you--  later. (blows a party hooter very sadly)
 01 05 Hey there.
 01 05 It's later. And I caught up.
 01 05 Hey!
 01 05 Wow guys, that was really close, but I think Rainbow Dash beat you by a teeny weeny itty bitty hair, or a teeny weeny itty bitty feather.
 01 05 Wait, guys! Oh wow, you guys almost got away from me that time.
 01 05 Yeah?
-01 05 [gasp] Whaaa-aaa–
+01 05  Whaaa-aaa–
 01 05 Hmph!
 01 05 Um, yeah. She keeps stealing Rainbow Dash away, she pops my balloons, and she told me to buzz off. I've never met a griffon this mean. Well, actually, I've never met a griffon at all, but I bet if I had, she wouldn't have been as mean and grumpy as Gilda.
 01 05 Hmm?
 01 05 Jealous?
 01 05 Improve my attitude? But I... D... B.. It's Gilda that... D... Are you seri... [scream of frustration]
-01 05 Maybe Twilight is right. Maybe Gilda isn't a big meanie grumpy mean-meanie-pants. Maybe I'm just a big jealous judgmental jealous-jealousy-pants. [sign]
+01 05 Maybe Twilight is right. Maybe Gilda isn't a big meanie grumpy mean-meanie-pants. Maybe I'm just a big jealous judgmental jealous-jealousy-pants. 
 01 05 Aw, poor Granny Smith, she didn't know it was a joke. How mean. No, no, I can't misjudge her. It was kind of a funny prank, I guess.&#160;:>Gilda
-01 05 [chews]
-01 05 [gasp] I did misjudge her. She's not only a meanie mean-pants, she's also a thief. Nonononono, she might give it back. It's just a joke.
+01 05 
+01 05  I did misjudge her. She's not only a meanie mean-pants, she's also a thief. Nonononono, she might give it back. It's just a joke.
 01 05 She's a grump, and a thief, and a bully. The meanest kind of mean meanie-pants there is. I can take it, but no one treats Fluttershy like that. No. One. This calls for extreme measures, Pinkie Pie style.
 01 05 Welcome, welcome. Welcome!
 01 05 Welcome. Welcome.
 01 05 Don't worry your pretty little head about mean old Gilda. Your auntie Pinkie Pie's got it all taken care of.
 01 05 Gilda! I'm so honored to throw you one of my signature Pinkie Pie parties, and I really, truly, sincerely, hope you feel welcome here amongst all us pony folk.
-01 05 [laughs]
-01 05 [laughter]
+01 05 
+01 05 
 01 05 Great.
-01 05 [giggles] Well, I hope so. This wasn't supposed to be a surprise party.
+01 05  Well, I hope so. This wasn't supposed to be a surprise party.
 01 05 And I got my eye on you. Everyone, I'd like you all to meet Gilda, a long-time, dear friend of Rainbow Dash. Let's honor her and welcome her to Ponyville.
 01 05 [ponies cheer]
 01 05 Please help yourself.
@@ -195,7 +195,7 @@
 01 05 Me? I threw this party to improve your attitude. I thought a good party might turn that frown upside down.
 01 05 Hey, if you want to hang out with party poopers, that's your business.
 01 05 No hard feelings.
-01 05 [laughter]
+01 05 
 01 05 It's okay Twilight, even you can't be a super smart smarty smart-pants all the time. Come on everypony, there's still a whole lotta party to finish.
 01 05 [ponies cheer]
 01 07 This calls for a celebration!
@@ -206,7 +206,7 @@
 01 07 Hey, Rainbow Dash, wait up!
 01 07 Huh?
 01 07 He should really see a doctor. That doesn't sound healthy at all.
-01 07 [laughter] Oh, I mean, grrr!
+01 07  Oh, I mean, grrr!
 01 07 Ooo! Pretty!
 01 07 Ooo, I think I have one in my bag!
 01 07 [pop whistles]
@@ -224,16 +224,16 @@
 01 07 A hop skip and jump,
 01 07 A hop skip and jump!
 01 07 Whoo-hoo! Let's do it again!
-01 07 [laugh]
-01 07 [squeal]
-01 07 [coughing]
+01 07 
+01 07 
+01 07 
 01 07 Spike is a dragon. You're not scared of him.
-01 07 [horn]
+01 07 
 01 07 Exactly! Sharing a laugh is a sure-fire way to get someone on your side! Hi!
-01 07 [crash]
+01 07 
 01 07 Apparently he doesn't like laughing, heh. Or sharing.
 01 07 [busted horn]
-01 07 [roar]
+01 07 
 01 09 Psst! Twilight! Spike! Come here! Come! Here! Hurry! Before she gets you!
 01 09 Z-Zombie pony?!
 01 09 I'm not alone in the dark.
@@ -264,32 +264,32 @@
 01 09 Nopthe.
 01 09 Plis place plooks horrible!
 01 09 Sthe sthtole my sthong! Shthe shtole mm mm!
-01 09 Ah. Hmm... Pbth! [whimper]
-01 09 [incoherent] You made me speak ridiculous!
+01 09 Ah. Hmm... Pbth! 
+01 09  You made me speak ridiculous!
 01 09 Oh my gosh! I never realized how horrible it is not to be able to talk. I mean I love talking so much and when I couldn't talk 'cause my tongue was all 'ehhhh'. It was the worst! Don't you agree, Fluttershy?
-01 10 Mmm... [slurp]
+01 10 Mmm... 
 01 10 Aaaaa... I know. That's why I'm tasting them. Somepony needs to make sure that everything is tasty enough to touch the royal tongue, and I, Pinkie Pie, declare that these treats are fit for a king, or a queen, or a princess.
-01 10 No, not at all. Come on in and make yourself at home. [slurp] What's going on, Fluttershy?
+01 10 No, not at all. Come on in and make yourself at home.  What's going on, Fluttershy?
 01 10 UGH! A parasprite? Are you kidding?
 01 10 Ugh. Now I gotta find a trombone.
 01 10 A trombone, you know: [trombone imitation]
 01 10 Does anypony know where I can find an accordion?
 01 10 Gals! Hello! This is important. Durgh! Thanks a lot.
 01 10 Look Rarity, Applejack loaned me a harmonica. [plays harmonica] Isn't that great?
-01 10 [gasp] And not a moment too soon.
+01 10  And not a moment too soon.
 01 10 And I'm not? You know how many more instruments I've gotta find? A lot, that's how many. Now if we split the list between us, we might just make it in time.
 01 10 You've got a real problem alright, and a banjo is the only answer.
 01 10 Twilight, we don't have much time.
 01 10 Exactly. That's why I need you gals to drop what you're doing and help me find some maracas.
-01 10 [gasp] You're right! Getting a tuba has to be our number one goal. Follow me. I said, follow me!
+01 10  You're right! Getting a tuba has to be our number one goal. Follow me. I said, follow me!
 01 10 And you are all so stubborn.
-01 10 They will be with these cymbals. [crash] Hey! Give me those back!
+01 10 They will be with these cymbals.  Hey! Give me those back!
 01 10 I've lost a brand new pair of cymbals, that's what I've done.
 01 10 Me? Ruin? I'm not the ruiner, I'm the ruinee! Or is it ruiness? Ruinette?
 01 10 Hey! I'm trying to tell you all that the ruining is on the other hoof. If you just slow down and listen to me!
-01 10 Look, tambourines! If you could all just... [scream] [tambourines shake]
+01 10 Look, tambourines! If you could all just...  [tambourines shake]
 01 10 I'll save you!
-01 10 [recorder]
+01 10 
 01 10 Hey, what happened to the princess?
 01 10 Oh no! Have they got parasprites too? Well, have tuba, will travel.
 01 10 Well DUH, why do you think I was so frantic to get my hooves on all these instruments? I tried to tell you.
@@ -303,12 +303,12 @@
 01 11 Thanks Twilight, I've been doing this since I was an itty-bitty little-wittle Twinkie-Pinkie. Just comes natural. Which is probably why they designated me the lake scorer. I cut lines in the lakes with my skates. That way, when the rest of the weather team comes here to break the ice, it'll be easy as pie.
 01 11 Ha, tell me about it. Hey, Twilight, wanna help me out?
 01 11 Come on, put on those skates over there. I bet you'll be a natural too.
-01 11 Yaaaaay! [cheers]
+01 11 Yaaaaay! 
 01 11 Yippie!
 01 11 Twilight, steer! Steer!
 01 11 Oh boy...
-01 11 [screams]
-01 11 [blips]
+01 11 
+01 11 
 01 11 Twilight, you did a great job your first time around. I'm sure my first time was just as wobbly and bobbly and crasheriffic as yours.
 01 11 No.
 01 11 But did I make you feel better?
@@ -317,7 +317,7 @@
 01 12 You look like you'd be good at eating cupcakes.
 01 12 Eating cupcaaakes!
 01 12 I don't have any cupcakes.
-01 12 [gasp] But you look like you'd be good at helping me make some.
+01 12  But you look like you'd be good at helping me make some.
 01 12 [>Pinkie Pie]
 01 12 All you have to do is take a cup of flour!
 01 12 Add it to the mix!
@@ -330,9 +330,9 @@
 01 12 Cupcakes! So sweet and tasty!
 01 12 Cupcakes! Don't be too hasty!
 01 12 Cupcakes! Cupcakes, cupcakes, CUPCAKES!
-01 12 Oooh, those look much better than the last batch. [chomp] Mmm...
+01 12 Oooh, those look much better than the last batch.  Mmm...
 01 12 What about that?
-01 12 [blow] Flour. It's flour! Yay! I guessed it. What game you wanna play next? Please say bingo, please say bingo.
+01 12  Flour. It's flour! Yay! I guessed it. What game you wanna play next? Please say bingo, please say bingo.
 01 12 We've been making cupcakes, wanna try them?
 01 12 Don't forget your party hat, Forgetty Forgetterson!
 01 13 Welcome to the annual Running of the Leaves! This is Pinkie Pie, your official p-eye-in-the-sky announcer.
@@ -392,13 +392,13 @@
 01 15 I'll start a bath for you.
 01 15 Sooo, basically, it works like this: I get different, little, niggling feelings and they mean different things. Like when my back is itchy, it means it's my lucky day. And, when my knee gets pinchy, that means something scary's about to happen.
 01 15 No, but my shoulder's achy. That means there's an alligator in the tub.
-01 15 [splash]
+01 15 
 01 15 No it's not, silly! This is my pet alligator, Gummy. He's got no teeth. See? Haha!
 01 15 What's not to believe? You do magic, what's the difference?
 01 15 That's so not true Twilight! Sometimes it's a bunch of random things happening to my body at random times that supposedly predict the future. I call 'em "combos".
 01 15 Sure! You know, like, ear flop, then knee twitch, then eye flutter. That means the sky is about to be graced with a beautiful rainbow!
 01 15 Uh oh, I feel a combo coming on. Ear flop, eye flutter, knee twitch!
-01 15 [crack]
+01 15 
 01 15 Oh no-no-no-no-no. You're thinking of an ear flop, then knee twitch, then eye flutter. This was an ear flop, then eye flutter, then knee twitch. That usually means "look out for opening doors". You okay?
 01 15 You don't believe because you don't understand.
 01 15 Okey-dokey-lokey!
@@ -409,45 +409,45 @@
 01 15 Sometimes you just have to believe in things, even when you can't figure 'em out.
 01 15 Wait, hold on, I'm feeling something...
 01 15 It's my tummy! That usually means I'm hungry! Let's eat!
-01 15 Okey-dokey-lokey. [gasp] Uh-oh. [gasp] Hu-bu-bu-bu-bu [falls over backwards]
-01 15 [smash]
+01 15 Okey-dokey-lokey.  Uh-oh.  Hu-bu-bu-bu-bu [falls over backwards]
+01 15 
 01 15 Uh-huh.
-01 15 [giggling] [sniff] Mmm... [giggling]
-01 15 [Music]
-01 15 [humming]
-01 15 [gasp]
-01 15 [humming] Hey, Applejack. Whatchya doin'?
+01 15   Mmm... 
+01 15 
+01 15 
+01 15 
+01 15  Hey, Applejack. Whatchya doin'?
 01 15 Oh, letting Twilight secretly follow me all day, without me knowing.
-01 15 [giggles] Silly, that would've spoiled the secret!
+01 15  Silly, that would've spoiled the secret!
 01 15 All done, clear skies from here on in, as far as I can tell-- Hu-bu-bu-bu-bu-bu!
 01 15 Dunno, never gotten any like it before, but whatever that shudder's about, it's a doozy. Something you never expect to happen is gonna happen! Hu-bu-bu-bu-bu hu-bu-bu-bu! And its gonna happen... At Froggy Bottom Bog!
 01 15 Uh, I'm not sure.
 01 15 Okey-dokey!
 01 15 [gate creaks]
 01 15 [frogs croak]
-01 15 [shivers] Hu-bu-bu-bu-bu-bu!
-01 15 No thanks, I'm fine. [shivers] Hu-bu-bu-bu-bu-bu!
+01 15  Hu-bu-bu-bu-bu-bu!
+01 15 No thanks, I'm fine.  Hu-bu-bu-bu-bu-bu!
 01 15 Woah!
 01 15 What if... What if she exploded, and then... and then exploded again!?
-01 15 Fluttershy? [gasp]
+01 15 Fluttershy? 
 01 15 I'm so glad everything's alright.
 01 15 Is that a hydra!?
-01 15 [whimper]
-01 15 Ooph! [pant]
+01 15 
+01 15 Ooph! 
 01 15 Oh, lookie there, it stopped. O-h-h-h, t-h-e-r-e i-t i-s a-g-a-i-n.
 01 15 [ponies gasp]
 01 15 Whoa-oa-oa-oa-oa!
 01 15 T-t-t-twilight!
 01 15 [hydra chirps]
-01 15 [crash]
-01 15 [crumble]
+01 15 
+01 15 
 01 15 [ponies gasp]
 01 15 [hydra roars]
 01 15 T-t-t-twilight! You have to jump!
 01 15 You'll be fine!
 01 15 Its your only ho-o-ope! You have to take a leap of faith!
 01 15 I knew you could do it, Twilight!
-01 15 [shudders]
+01 15 
 01 15 That wasn't it.
 01 15 The hydra wasn't the doozy.
 01 15 [Hydra spits]
@@ -455,16 +455,16 @@
 01 15 Dunno, but it just wasn't it.
 01 15 [kettle whistles]
 01 15 Y-y-y-you m-m-mean you b-b-b-believe?
-01 15 Oo-woo-oo-oo-oo, woo-oo-oo-oo-oh, woo-oo-oo-oo-oo-oo-ooh. Ooh! [gasp] That was it. That's the doozy.
+01 15 Oo-woo-oo-oo-oo, woo-oo-oo-oo-oh, woo-oo-oo-oo-oo-oo-ooh. Ooh!  That was it. That's the doozy.
 01 15 You believing. I never expected that to happen. That was the doozy, oh and, oh what a doozy of a doozy it was!
 01 15 [Pinkie Pie skips off, singing]
-01 15 [giggling]
+01 15 
 01 15 Honk!
 01 15 There it goes again.
 01 15 You never know.
 01 15 [jet engine sound]
-01 15 [crash]
-01 16 [grunt]
+01 15 
+01 16 
 01 16 It's where all the greatest Pegasus flyers get together and show off their different flying styles! Some are fast! [makes car sounds] And some are graceful. Woah, woah, WooooaaAAAAHH!
 01 16 OOH! I'd love to see you make a sonic rainboom! It's like, the most coolest thing ever! Even though I've never actually seen it, but I mean COME ON! It's a sonic rainboom! How not cool could it possibly not be?!
 01 16 You really need to get out more. The sonic rainboom is legendary! When a Pegasus like Rainbow Dash gets going soo fast... BOOM! A sonic boom and a rainbow can happen all at once!
@@ -474,15 +474,15 @@
 01 16 Sure did!
 01 16 Haha. Pretty cool, huh?
 01 16 Yes!
-01 16 [pants] Spicyyyyyy!...
-01 16 [gasp]
+01 16  Spicyyyyyy!...
+01 16 
 01 16 We still love you.
 01 19 Holy moly, that's a lotta holeys.
 01 19 Ow!
 01 19 Wait for me! Wheee!
 01 19 I can't believe you got all these gems!
 01 20 Cross my heart and hope to fly, stick a cupcake in my eye.
-01 20 [gasp] We won't say a word!
+01 20  We won't say a word!
 01 20 Twilight! You promised Spike you wouldn't say anything. He trusts you. And losing a friend's trust is the fastest way to lose a friend forever!
 01 20 FOREVER!
 01 20 How'd it go? How'd it go?
@@ -491,12 +491,12 @@
 01 20 Mmm... Juicy!
 01 20 [(Shows using gestures) Zipping her mouth, locking it with the key, digging a hole, burring the key in that hole, building a house atop that hole and moving into that house.]
 01 20 Uh, yes! Obviously, that's why I zipped my mouth closed, then locked it with a key, then dug a hole, then buried the key, then built a house up top the hole where I buried the key, then moved into the house atop the hole.
-01 20 [sigh] And you were doing so well.
+01 20  And you were doing so well.
 01 21 Awwww!
-01 21 [whispering] No, are you asleep yet?
-01 21 [whispering] Oh yeah! [giggle]
-01 21 [whispering] What tree? You mean Bloomberg?
-01 21 [whispering] Fluttershy's not a tree, silly!
+01 21  No, are you asleep yet?
+01 21  Oh yeah! 
+01 21  What tree? You mean Bloomberg?
+01 21  Fluttershy's not a tree, silly!
 01 21 Rainbow Dash thinks Fluttershy's a tree!
 01 21 She's not a tree, Dashy!
 01 21 Oooh, looky! Now they're doing TRICKS!
@@ -506,7 +506,7 @@
 01 21 I do?
 01 21 I am?
 01 21 Oh my gosh, so am I!
-01 21 Mmm! [munching] Before we finish EATING? Are you loco in the coco?!
+01 21 Mmm!  Before we finish EATING? Are you loco in the coco?!
 01 21 Can I please have more of that mushy stuff, whatever it was?
 01 21 Huh?
 01 21 Well that's not very nice. Right, Rainbow Dash?
@@ -543,17 +543,17 @@
 01 21 Oh... That wasn't the message of my song at all...
 01 21 Wah-ahh! Woah-oo-oo-oo-ooah!
 01 21 HEY! That's what I said!
-01 21 [credits]
+01 21 
 01 22 Cookies, candies and pies, oh my! [pie in the face] Oooh! Chocolate Fountainy goodness! [Head in choclate fountain, choclate hardens and eats it] You gonna eat that?! Hey!
 01 22 Hi!
-01 22 [gasps]
+01 22 
 01 22 [Philomena bursts into flames]
 01 22 No, it's my fault! Wait, what are we talking about?
 01 23 You're looking for Rainbow Dash? If I was her, I'd be at Sugarcube Corner. Of course, if I was anyone, I'd be at Sugarcube Corner. Hey! I have an idea! Wanna go to Sugarcube Corner?
 01 23 Cutie mark? Come with me and I'll tell you how I got mine!
 01 23 Alright!
-01 23 My sisters and I were raised on a rock farm outside of Ponyville. We spent our days working the fields. There was no talking. There was no smiling. [sigh] There were only rocks. We were in the south field, preparing to rotate the rocks to the east field when all of a sudden...
-01 23 [explosion]
+01 23 My sisters and I were raised on a rock farm outside of Ponyville. We spent our days working the fields. There was no talking. There was no smiling.  There were only rocks. We were in the south field, preparing to rotate the rocks to the east field when all of a sudden...
+01 23 
 01 23 I never felt joy like that before. It felt so good I just wanted to keep smiling forever. And I wanted everyone I knew to smile too, but rainbows don't come along that often. I wondered, how else could I create some smiles?
 01 23 And that's how Equestria was made.
 01 23 Maybe on the way home I can tell you the story of how I got my cutie mark. It's a gem!
@@ -571,14 +571,14 @@
 01 25 [rasping voice] Next time, I think I’ll just pass out written invitations.
 01 25 &#8203;&#91;&#8203;<a href="/wiki/My_Little_Pony_theme_song" title="My Little Pony theme song">theme song</a>&#8203;&#93;&#8203;
 01 25 Hey, girls!
-01 25 [squeal] Just wanted to tell you how happy I am that you can make it to Gummy’s party.
+01 25  Just wanted to tell you how happy I am that you can make it to Gummy’s party.
 01 25 Aw! It’s just a boring old apple. Don’t worry, there are plenty of other surprises in there.
 01 25 I can’t tell you that, silly. Then it wouldn’t be a surprise.
 01 25 Nope! Something new. It’s Gummy’s favorite. Ooh, this is my jam!
 01 25 Having fun?
 01 25 They’re always the best parties ’cause my best friends are always there! C’mon, everypony! Gummy wants to dance! Go, Gummy! It’s your birthday! Go, Gummy! It’s your birthday!
 01 25 You sure you don’t wanna stay? There’s still some cake left.
-01 25 [gasp] We should do this again soon!
+01 25  We should do this again soon!
 01 25 It’s soon!
 01 25 You said we should have another party soon, and… it’s soon! Here’s your invitation!
 01 25 All our bestest friends are invited, and there’s gonna be dancing, and games, and cake, and ice-cream, and punch!
@@ -595,17 +595,17 @@
 01 25 Nope!
 01 25 Huh… No Twilight, no Applejack, no Rarity. Oh well, a party is still a party even with only two guests.
 01 25 Yes! As in, this afternoon this afternoon!
-01 25 [sigh] Both of you?
+01 25  Both of you?
 01 25 Wait! Maybe I could bring you some after-birthday cake and ice-cream. Who’re you house-sitting for?
 01 25 Harry?
 01 25 That’s strange. I know just about everypony around here.
 01 25 A bear?
 01 25 Wait! There’s a bear around here who lives in a house?
 01 25 He’s vacationing at the beach?
-01 25 Something strange is definitely going on around here, Gummy. Sure Rainbow Dash and Fluttershy had to house-sit for that vacationing bear, but what are the chances all my other friends would have plans this afternoon too? Rarity has to wash her hair? Applejack has to pick apples? Twilight is behind on her studies, and has to hit the books? The more I think about it, the more those are starting to sound like… [gasp] excuses!
+01 25 Something strange is definitely going on around here, Gummy. Sure Rainbow Dash and Fluttershy had to house-sit for that vacationing bear, but what are the chances all my other friends would have plans this afternoon too? Rarity has to wash her hair? Applejack has to pick apples? Twilight is behind on her studies, and has to hit the books? The more I think about it, the more those are starting to sound like…  excuses!
 01 25 That doesn’t look like studying… or hitting!
-01 25 But… we’re friends. What wouldn’t Twilight want me to know anything about? [gasp] She's coming back.
-01 25 Time to get to the bottom of things! [gasp] I think our cover’s been blown! We’ll need a new disguise.
+01 25 But… we’re friends. What wouldn’t Twilight want me to know anything about?  She's coming back.
+01 25 Time to get to the bottom of things!  I think our cover’s been blown! We’ll need a new disguise.
 01 25 I thought everypony loved my parties.
 01 25 Rainbow Dash! Wait!
 01 25 Where’re you going?!
@@ -623,20 +623,20 @@
 01 25 And?
 01 25 Aaand?
 01 25 No! No! No! NO!
-01 25 Tell me that my friends are all lying to me and avoiding me because they don’t like my parties, and they don't want to be my friends anymore! [panting]
+01 25 Tell me that my friends are all lying to me and avoiding me because they don’t like my parties, and they don't want to be my friends anymore! 
 01 25 Ah-ha! I knew it! [balloon deflating noise] Oh no, my friends don’t like my parties and they don’t want to be my friends anymore.
-01 25 [sigh]
+01 25 
 01 25 Thank you all so much for coming! It means so much to Gummy.
-01 25 Well, of course you can have some more punch, Mr. Turnip. [twang]
+01 25 Well, of course you can have some more punch, Mr. Turnip. 
 01 25 Why, thank you, Rocky.
-01 25 I’m so glad Sir Lintsalot. [ding]
+01 25 I’m so glad Sir Lintsalot. 
 01 25 Anything for you, Madame Le Flour
 01 25 Oh, they’re not so bad.
 01 25 [low string instrument whine]
 01 25 Oh, c’mon now. “Losers” might be a little strong, don’cha think?
 01 25 Well, it was pretty rude...
 01 25 It was, wasn’t it?
-01 25 You know what? I’m not gonna speak to them ever again. And I’m not gonna invite them to another party as long as I live! They don’t deserve to be invited to my parties. [plink] Not after the way they’ve been acting.
+01 25 You know what? I’m not gonna speak to them ever again. And I’m not gonna invite them to another party as long as I live! They don’t deserve to be invited to my parties.  Not after the way they’ve been acting.
 01 25 Who could that be?
 01 25 I know how it goes, all right!
 01 25 No thanks. I’m spending time with my real friends. Isn’t that right, Madame Le Flour?'
@@ -648,7 +648,7 @@
 01 25 Excited? EXCITED? Why would I be excited to attend my own farewell party?!
 01 25 Yes! You don’t like me anymore, so you decided to kick me out of the group and throw a great, big party to celebrate! A “Farewell to Pinkie Pie” party!
 01 25 Why? Why? WHY? Because you’ve been lying to me and avoiding me all day, that’s why!
-01 25 [squeak] Because it’s my birthday! Ooh, how could I have forgot my own birthday?
+01 25  Because it’s my birthday! Ooh, how could I have forgot my own birthday?
 01 25 [ponies sigh in relief]
 01 25 And you like me so much you decided to throw me a surprise party!
 01 25 You girls are the best friends ever! How could I have ever doubted you?
@@ -671,11 +671,11 @@
 01 26 It's all I ever dreamed, woo hoo!
 01 26 It's all I ever dreamed, yippee!
 01 26 I'm at the Grand Galloping GalaaaaaaaaaaAAAAAAAAAAAA!
-01 26 [pause]
+01 26 
 01 26 It's all I ever... dreamed?
 01 26 I'm at the Grand Galloping Gala... and it's not what I dreamed.
 01 26 And I'm not going to...
-01 26 [gasp] [whisper]
+01 26  
 01 26 C'mon everypony! I know what will make you shake those groove-thangs!
 01 26 That's what I'm talking about
 01 26 You do the Pony Pokey
@@ -689,17 +689,17 @@
 01 26 Ooh! Rarity, your glass slipper! Now your prince is sure to find you.
 01 26 Laughing!
 01 26 In fact, it's made it...
-02 01 Why would you wanna stop this? [slurp]
+02 01 Why would you wanna stop this? 
 02 01 Hey, what happened?
 02 01 You and me both, sister! Hey!
 02 01 Hey, look! We're famous!
 02 01 Hold on a second! Eternal chaos comes with chocolate rain, you guys. Chocolate rain!
 02 01 Oh, well. If anyone needs me, I'll be outside in the chocolate puddles with a giant swizzle straw.
-02 01 [snickering]
-02 01 [laughing] He's standing on your head!
+02 01 
+02 01  He's standing on your head!
 02 01 See you guys there!
-02 01 [whistling]
-02 01 [chuckling] Whee! This is the greatest balloon garden I've ever seen! It's the first balloon garden I've ever seen, but still! Wah!
+02 01 
+02 01  Whee! This is the greatest balloon garden I've ever seen! It's the first balloon garden I've ever seen, but still! Wah!
 02 01 Hey, what gives?
 02 01 It's different. They're laughing at me.
 02 01 My friends laugh with me, not at me.
@@ -722,33 +722,33 @@
 02 02 I HATE the Elements of Harmony!
 02 02 It's your fault it didn't work.
 02 02 Any of you! To ALL OF YOU! I'm outta here!
-02 02 [laughter] And I-I turned gray! [giggle] Can you believe it?!
+02 02  And I-I turned gray!  Can you believe it?!
 02 02 Yeah, we will, 'cause she's right there!
 02 02 WHOA!
 02 02 Oops.
-02 02 Wait-wait-wait! [growl]
+02 02 Wait-wait-wait! 
 02 03 [various shock statements]
 02 03 Yes?
 02 03 Yes?
 02 03 Yes?
 02 03 [sighs of relief]
-02 03 [giggles]
-02 03 [giggles] Oh Twilight, you're such a crack-up! [laughs]
+02 03 
+02 03  Oh Twilight, you're such a crack-up! 
 02 03 We're never gonna see Twilight again!
 02 03 You can't punish her!
 02 03 Mmhmm.
 02 03 [All right, etc]
-02 03 [cheering]
+02 03 
 02 03 ...into an enormously huge entire-town-in-total-chaos Princess-has-to-come-and-save-the-day problem.
-02 03 [laughs]
+02 03 
 02 04 [chicken squawk] Enough chitchat! Time is candy!
 02 04 Too old for free candy? [chicken squawk] Never.
 02 04 Yeah! Great costume, Twilight! You make a fantastic weirdo clown!
 02 04 Twilight, Twilight! Look at our haul! Ah! Can you believe it? And then, we went to Cheerilee's house, and got a bunch more goodies. Didn't we, Pip?
 02 04 And then, we had to stop and wait for Granny Smith, and-[lightning zap] Bwak!
-02 04 [screaming]
-02 04 [scream]
-02 04 [screaming] Everypony! Just dump some candy and get out of here!
+02 04 
+02 04 
+02 04  Everypony! Just dump some candy and get out of here!
 02 04 Ah! It's Nightmare Moon! Run!
 02 04 Did you hear that, everypony? Nightmare Moon says she's gonna feast on us all!
 02 04 Fluttershy! You've gotta hide us! Nightmare Moon is here and... [chicken squawk] She stole Fluttershy's voice so she can't scream when she GOBBLES HER UP!!!
@@ -762,8 +762,8 @@
 02 04 Sometimes it's just really fun to be scared.
 02 04 No, I'm not. I'm a chicken. [chicken squawk]
 02 06 A party will cheer you up.
-02 06 Yesterday I told Mrs Cake that I ate two corn cakes, but I really ate three! Okay six! I ate six corn cakes! [cries] Make it stop! Oh, make it stop!
-02 07 [giggles]
+02 06 Yesterday I told Mrs Cake that I ate two corn cakes, but I really ate three! Okay six! I ate six corn cakes!  Make it stop! Oh, make it stop!
+02 07 
 02 07 We were totally gonna invite you, Rainbow, then Twilight remembered that you don't even have a pet, and Rarity remembered that you really like to take naps in the afternoon, so Applejack figured you wouldn't be missing out on anything anyway, and Fluttershy and I nodded our heads in agreement like this.
 02 07 Wait! Look!
 02 07 Tortoise!
@@ -772,18 +772,18 @@
 02 07 You did! You did say that! She did say that, that was the rule!
 02 08 You may be right...silly.
 02 08 Mm-hm.
-02 08 [yelps] Spike's a ghost!
-02 08 I saved the construction workers with my Pinkie Sense. [twitches]
+02 08  Spike's a ghost!
+02 08 I saved the construction workers with my Pinkie Sense. 
 02 08 [flowerpot shatters]
 02 08 It's alright.
-02 08 Yeah, the only thing that should be rubbed in anypony's face is chocolate cake. [slurp]
+02 08 Yeah, the only thing that should be rubbed in anypony's face is chocolate cake. 
 02 08 [yelping and screaming]
 02 09 [fades in] Swoosh! And right before she hit the ground, shoom, she- Hi again!
 02 09 Balloons are super easy to pack.
 02 09 [air let out of balloons]
 02 09 Isn't it fancy pants?
 02 09 Oh, I never leave home without my party cannon.
-02 09 [explosion]
+02 09 
 02 09 Tada.
 02 09 Let's party!
 02 09 [swing music]
@@ -792,8 +792,8 @@
 02 10 Duh! The party can't last forever 'cause you have to go to Sugarcube Corner, 'cause the Cakes said they have a special surprise for you, 'cause it's your birthday!
 02 10 I said the party couldn't last forever, but it doesn't need to end right now!
 02 10 [door slams]
-02 10 [screams]
-02 10 Back! Get back! [groans]
+02 10 
+02 10 Back! Get back! 
 02 10 [pie splats]
 02 10 I'm not giving him cake, I'm assaulting him with cake!
 02 10 How dare you take the cake!
@@ -801,20 +801,20 @@
 02 11 There it is! Canterlot!
 02 11 I spy somepony eating a gingerbread house...
 02 11 [cash register kaching]
-02 11 [munching] ...and it's me!
+02 11  ...and it's me!
 02 11 Twilight, let me handle this.
-02 11 [arguing]
+02 11 
 02 11 Us?! We're not hogging all the food, you are! Oh wait. You're right. It's us. Well, it's only 'cause you mean old pegasusususes are making it snow like crazy!
 02 11 Well, if you non-earths aren't gonna stop using your weirdo powers to freeze us all, then I'm just plum out of ideas.
 02 11 No, I'm first!
-02 11 [arguing]
+02 11 
 02 11 Maybe for you, Smart Cookie. But I am a chancellor. I was elected because I know how to think outside the box. Which means [slightly echoes] I can also think inside the chimney. Can you think inside a chimney?
 02 11 I didn't think so.
 02 11 Ohmygosh. Hold on to your hooves – I am just about to be brilliant!
 02 11 I have decided that the Earth ponies are gonna go it alone!
 02 11 Don't worry about them. We're the ones with all the food, right?
 02 11 Fine, then we'll have to go somewhere new where we can grow some new food. And with me as our fearless leader, what could go wrong?
-02 11 [crump]
+02 11 
 02 11 The point is...
 02 11 We must find a new land!
 02 11 Yes, yes. This is definitely the right direction.
@@ -839,17 +839,17 @@
 02 11 [ice cracking]
 02 11 Unicorns are snobs!
 02 13 I wanna see the new baby pony! I wanna see! Which one is it?!
-02 13 Two new foals for me to play with? [gasps] That's two, two, two times the fun! This is the greatest day ever! We need to celebrate your birthday, babies, 'cause you were just born today! Woohoo!
+02 13 Two new foals for me to play with?  That's two, two, two times the fun! This is the greatest day ever! We need to celebrate your birthday, babies, 'cause you were just born today! Woohoo!
 02 13 But I was just-
 02 13 But-
-02 13 [quieter] Happy happy birthday, to you and you today-
+02 13  Happy happy birthday, to you and you today-
 02 13 Quick! Make a wish and blow out your candles! Which is easy, 'cause there are zero candles! You are zero years old, after all!
 02 13 Happy monthiversary to you and you today
 02 13 [very quickly] I can't believe you're already a month old time sure flies doesn't it well it seems like only yesterday you were born.
 02 13 But now you're a month old today, hey!
 02 13 Are you ready for your favoritest game in the whole wide world? Where's Pinkie Pie... Here I am! Where's Pinkie Pie... Here I am! Where's Pinkie Pie... Here I am!
 02 13 Here I am! Here I am! Here I am! [blows raspberry]
-02 13 Don't worry, they're fine! [sniffs] Oogh, I mean...
+02 13 Don't worry, they're fine!  Oogh, I mean...
 02 13 Ah, no thanks. I just had a big breakfast.
 02 13 Oh, oh, you're making funny faces! I have one! Bleghhh-
 02 13 All set now? Everything good? Okay, who wants to play again?
@@ -861,11 +861,11 @@
 02 13 I wanna babysit! Pick me!
 02 13 Ooh, ooh, I wanna do it!
 02 13 Ask me! Mememememememememememememe!
-02 13 [gasps] I dunno. I'll have to check my schedule.
+02 13  I dunno. I'll have to check my schedule.
 02 13 [doors bang]
 02 13 I can be responsible. Why, responsibility is my middle name. Pinkie Responsibility Pie.
 02 13 Yes, I know, I will. I am.
-02 13 [ding]
+02 13 
 02 13 Whoa! That's a lot of responsi- Consider it done.
 02 13 No problemo, Mr. and Mrs. Cake. Everything is under control.
 02 13 Uh oh.
@@ -874,10 +874,10 @@
 02 13 [warbling noises]
 02 13 Oh, think think think... Aha!
 02 13 Hey guys, watch this!
-02 13 [applause]
+02 13 
 02 13 Hey, you're a wonderful crowd here tonight, where y'all from? Well that's great. Y'know, I used to have an ant farm, but I had to get rid of it because I couldn't find tractors that small!
 02 13 [ba-dum tish]
-02 13 Get it? Tractors that small? [pause] The other day, I spilled spot remover on my dog, and now I can't find him!
+02 13 Get it? Tractors that small?  The other day, I spilled spot remover on my dog, and now I can't find him!
 02 13 [ba-dum tish]
 02 13 Gee, tough crowd. [to herself] Tell me about it. Fine, I wasn't gonna pull off a show stopper, but you're a lovely audience and I think you deserve it!
 02 13 First you jiggle your tail! Oink oink oink!
@@ -892,14 +892,14 @@
 02 13 Then you wriggle your snout! Oink oink oink!
 02 13 Then you wiggle your rump! Oink oink oink!
 02 13 Then shout it out! Oink oink oink!
-02 13 [bamf]
+02 13 
 02 13 There, see? Nothing to this babysitting business! Ugh!
 02 13 Snack time. That's easy enough. Okie dokie! Eat up! Like this! Numnumnum, numnumnumnum! Ahh!
 02 13 No, Pumpkin Cake, we eat food, not tablecloths.
 02 13 Huh, huh? Uh hey guys, look at me!
-02 13 [bamf]
+02 13 
 02 13 Achoo!
-02 13 ...yeah. I think I can see where this is going. [snorts]
+02 13 ...yeah. I think I can see where this is going. 
 02 13 [water running]
 02 13 Towels are not food, Pumpkin Cake!
 02 13 Drop it... Drop it... Drop it!?
@@ -907,9 +907,9 @@
 02 13 [bubble pops]
 02 13 Uh, uh, uh, uh, don't cry, look, look, uh floating things! Ooh, aaah, eeh!
 02 13 Uh, Don't make me do it, guys! You know what happens when you mix flour and water, don't you?
-02 13 [sniffs] [gasps] [hoof on nose] Smells like somepony needs me to changie-wangie their diaper-wiper right now-a-wow! [tiptoeing noise] Easy... easy...
-02 13 [sighs]
-02 13 [growls]
+02 13   [hoof on nose] Smells like somepony needs me to changie-wangie their diaper-wiper right now-a-wow! [tiptoeing noise] Easy... easy...
+02 13 
+02 13 
 02 13 [fight sounds; >Pound Cake and >Pumpkin Cake giggling throughout]
 02 13 Wait- no- stay there- just- for a second- stand still I've almost-
 02 13 Oh, you've gotta be kidding me.
@@ -920,20 +920,20 @@
 02 13 Excuse me?
 02 13 Is that so? Well, thanks for stopping by, Twilight. Sorry, I don't have time to visit, I'm very very busy with my responsibilities here.
 02 13 Well, of all the- she thinks I can't handle things on my own! Maybe because I haven't handled things on my own. Well, I can handle things on my own!
-02 13 Pound Cake. [growls] This is a crib. It is only to be used for napping, sleeping, and on occasion with permission, as a pretend old-timey Western fort. It is not a trampoline, so stop your jumping right now, mister!
+02 13 Pound Cake.  This is a crib. It is only to be used for napping, sleeping, and on occasion with permission, as a pretend old-timey Western fort. It is not a trampoline, so stop your jumping right now, mister!
 02 13 And you, young filly. We do not put anything in our mouth that we cannot safely and properly digest, so stop slobbering on that toy this instant!
 02 13 [toy squeaks]
 02 13 Now, we've all had a very exhausting afternoon, and it's time for all good little foals to take their nap. So, fall asleep!
-02 13 [sighs] [kisses twice] Sleep tight.
+02 13  [kisses twice] Sleep tight.
 02 13 [toy squeaks]
-02 13 Now that's what I call handling things. [gasps]
+02 13 Now that's what I call handling things. 
 02 13 Oh, nononono. Not good not good not good! Pound? Pumpkin? Where are you? Come out come out wherever you are!
 02 13 [toy squeaks]
 02 13 Whoa! You be a good little girl now, Pumpkin-wumpkin, and stay in your crib for your pal Pinkie-winkie!
-02 13 Pound Cake? [clicks] Here, Pound Cake!
+02 13 Pound Cake?  Here, Pound Cake!
 02 13 [wind blowing]
 02 13 Uh, Pound Cake? Uh...
-02 13 [squeals] You can fly?!
+02 13  You can fly?!
 02 13 Oh- get down here- this instant- young- colt! [gasps for breath] I'm responsible for you!
 02 13 [plunger noises]
 02 13 [magic noises]
@@ -941,26 +941,26 @@
 02 13 No no.
 02 13 No. Hmph! I am the responsible one, and I said no.
 02 13 That goes for you too, Pound Cake!
-02 13 [thud]
+02 13 
 02 13 Gotcha! I think? [lots of Whoa!s, ows, etc]
 02 13 [banging on stairs]
-02 13 [splats]
+02 13 
 02 13 Mm, razzleberry. I'm- not- letting- go! I'm- re-spon-si-ble!
 02 13 [banging on stairs]
 02 13 [elastic stretching]
 02 13 Oh, not you too! There! Now who's the responsible one?
-02 13 [crying]
-02 13 [bamf]
-02 13 [giggles] Y'know, you're right. That is funny.
+02 13 
+02 13 
+02 13  Y'know, you're right. That is funny.
 02 13 Dear Princess Celestia, I've always had fun playing with little kids, and I thought babysitting meant just more playtime, right? Wrong! Being a caregiver is way more responsibility than just being a playmate. And today I learned that sometimes our desire for responsibility can outrun our actual ability to handle it.
 02 13 [bell rings]
 02 13 Shhh!
-02 13 [gasps] Hm- Ah- lemme check my schedule! I should be available a week from... never!
+02 13  Hm- Ah- lemme check my schedule! I should be available a week from... never!
 02 13 [happily gasps] I have some free time next Tuesday.
-02 13 [credits]
+02 13 
 02 14 Speech! Speech!
 02 14 Alright then, no speech!
-02 14 And have fun. And don't be nervous. Or if you are, use that nervous energy to do even better than you already would! And eat peanuts and popcorn and taffy and taffy gives lots of nervous energy! [eating]
+02 14 And have fun. And don't be nervous. Or if you are, use that nervous energy to do even better than you already would! And eat peanuts and popcorn and taffy and taffy gives lots of nervous energy! 
 02 14 And drink sarsaparilla! What? It gives you extra sass.
 02 14 Surprise!
 02 14 Sorry! I was just practicing my “surprise!” for when we surprise Applejack with this super cool party for becoming rodeo champion of Equestria! Surprise!
@@ -969,7 +969,7 @@
 02 14 Surprise! Aw, shoot!
 02 14 [panicked sounds under]
 02 14 I don't know how I'll make it to the next stop!
-02 14 Pickles! [knocking] Hurryhurryhurryhurryhurry! Hurry it up in there!
+02 14 Pickles!  Hurryhurryhurryhurryhurry! Hurry it up in there!
 02 14 [toilet flushes]
 02 14 Applejack! I found her, I found her, I found her, I found her, I found her!
 02 14 I found her, I found her, I found her, I found her! Be right back.
@@ -979,22 +979,22 @@
 02 14 What?! She had beans? Ugh, I told her I was snacky!
 02 14 Hey Applejack. Need some help?
 02 14 I promise.
-02 14 [thud]
+02 14 
 02 14 Have you ever had a cherry changa? Ooh! Sorry, that was a question.
 02 14 Well no wonder, because I made it up myself! A cherry changa is mashed up cherries in a tortilla that's deep fried. Cherrychanga. Great name, huh? Oh, but maybe I should call it a Chimicherry. Ooh, that's good too. Which do you think sounds better? Cherrychanga or Chimicherry? Or what if I combine them? Chimicherrychanga! What sounds the funniest? I like funny words! One of my favorite funny words is 'kumquat'! I didn't make that one up. I would work in a kumquat orchard just so I could say 'kumquat' all day! Kumquat, kumquat, kumquat! And 'pickle barrel'! Isn't that just the funnest thing to say? Pickle barrel pickle barrel pickle barrel. Say it with me! Pickle barrel, kumquat, pickle barrel, kumquat, pickle barrel, kumquat, Chimicherrychanga!
 02 14 [continues chant, muffled by Rainbow Dash]
 02 14 Speaking of beans, did you ever realize how many words rhyme with 'beans'? Lean, mean, spleen, unclean, bean... [continues under]
 02 14 Do you Pinkie promise?
 02 14 Don't worry, Rainbow. She's gotta 'fess up after making a Pinkie promise.
-02 14 [knocking]
-02 14 Good morning, Applejack. You ready for br- [gasps]
+02 14 
+02 14 Good morning, Applejack. You ready for br- 
 02 14 [sound of kettle boiling]
 02 14 Nopony breaks a Pinkie promise!
 02 14 Applejack! [slightly distorted] You Pinkie promised!
 02 14 Applejack, come back here!
 02 14 She's gonna get away!
 02 14 Follow that stagecoach! Oh, we have you now!
-02 14 [screeching]
+02 14 
 02 14 Get them! Get them!
 02 14 Applejack, you broke your Pinkie promise! Apologize!
 02 14 Wha?
@@ -1002,25 +1002,25 @@
 02 14 Well I heard a sorry in there, so that'll have to do for now. I'll get a real apology later. Rarity, catch me.
 02 14 What do you think, Rarity? Chimicherry, or Cherrychanga? Chimicherry, Cherrychanga? Chimicherry, Cherrychanga? Chimicherry, Cherrychanga? Chimicherry, Cherrychanga? [continues under]
 02 14 [continues repeating question to fadeout]
-02 14 [credits]
-02 15 [knocking]
+02 14 
+02 15 
 02 15 Isn't this great? I couldn't sleep last night 'cause I was so excited about cider season, and I had this brilliant idea to come down here and camp out, so I told a few others about it and they all thought it was a great idea too and now it's just a big old cider party! Woohoo! Oh gosh, that's a lot of ponies. Hope they don't run out before you get any.
 02 15 She's right, y'know! You can't rush perfection! And this year's batch was perfection!
 02 15 I'll never forget the cider I just drank! It was a moment in time that will never exist again...
 02 15 Non-pa what?
 02 15 Yes sir, ma'am, sir!
 02 15 Over there, Apple Bloom! Don't miss them!
-02 15 [crying]
+02 15 
 02 16 Rainbow Dash! Isn't she the most daring devil? I mean, the most devilish darer? I mean-
 02 16 Ooh yeah that's a good word. She's dazzling!
-02 16 [gasp]
+02 16 
 02 16 Ayiyiyiyi!
-02 16 [crunch]
+02 16 
 02 16 Ohh.
 02 16 So much for dazzling.
 02 16 [<a href="/wiki/My_Little_Pony_theme_song" title="My Little Pony theme song">theme song</a>]
 02 16 [heart monitor beeping]
-02 16 [muffled] Is her face gonna stay that way?
+02 16  Is her face gonna stay that way?
 02 16 Ooh, just like a spider! [to the doctor] Did the crash somehow give her super-duper spider powers?
 02 16 And look! You have a roommate!
 02 16 [wheels squeaking]
@@ -1028,7 +1028,7 @@
 02 16 Uh, we'll see you tomorrow, Rainbow Dash, aheh...
 02 16 [door closes]
 02 16 Hey, nopony invited me!
-02 16 [screeching]
+02 16 
 02 16 Oh, I'd say it's more of a fracas than a ruckus.
 02 16 Fracas!
 02 18 Let's do this. [wibbles tongue] Happy! Sad. Happy! Sad. Happy! Sad. Open, shut, open, shut, open, shut, open, shut. Yep, yep yep yep yep yep yep. Nope, nope nope nope nope nope nope. Oooweooo, oooweooo, oooweooo, oooweooo, oooweooweooweoo! [blows raspberry, then pants]
@@ -1039,7 +1039,7 @@
 02 18 Morning, Daisy Jo! You here to pick up some cookies to go with your milk?
 02 18 Well Mrs. Cake just baked a fresh batch of your favorite oatmeal.
 02 18 Oh, Rose, your Calla lilies look even better than last year! I bet you'll take first prize at the flower show again.
-02 18 Absolutely! [chomps] Looking fit as a fiddle, Mr. Waddle, and you're wearing my favorite tie!
+02 18 Absolutely!  Looking fit as a fiddle, Mr. Waddle, and you're wearing my favorite tie!
 02 18 Well, happy birthday, Cheerilee.
 02 18 Happy day-after-your-birthday, Zecora!
 02 18 And Miss Matilda, happy birthday to you... in one hundred and thirty two days!
@@ -1105,7 +1105,7 @@
 02 18 And your middle name?
 02 18 I'm sorry?
 02 18 One more time...!
-02 18 [gasps] So you're a Cranky Doodle Donkey?
+02 18  So you're a Cranky Doodle Donkey?
 02 18 You're a Cranky Doodle Donkey guy.
 02 18 A Cranky Doodle Donkey.
 02 18 I never met you but you're my new friend and I'm your best friend Pinkie Pie!
@@ -1121,7 +1121,7 @@
 02 18 Oooh, look at these!
 02 18 [windchimes chime]
 02 18 Eeeheeeheee!
-02 18 Okay, Cranky. [gasps] [quickly] I promised not to touch your wagon so I brought one of my own! I use it to welcome folks!
+02 18 Okay, Cranky.   I promised not to touch your wagon so I brought one of my own! I use it to welcome folks!
 02 18 Maybe we can be wagon buddies? Well, you've gotta at least let me give you the special welcome that comes with it...
 02 18 That's the spirit!
 02 18 Welcome welcome welcome
@@ -1134,8 +1134,8 @@
 02 18 To Ponyville today
 02 18 Wait for it!
 02 18 (timer dings, oven door opens, confetti flies out, and party kazoos have blowned away Cranky Doodle Donkey's hat and hair)
-02 18 Oh, silly me! I must've put the confetti in the oven and the cake in the confetti cannons! Again! [giggles] [chomps] Mmm, still delicious! Try some, Cranky, it's sure to make you smile.
-02 18 Where is what? [yelps] Spider! Big hairy spider!
+02 18 Oh, silly me! I must've put the confetti in the oven and the cake in the confetti cannons! Again!   Mmm, still delicious! Try some, Cranky, it's sure to make you smile.
+02 18 Where is what?  Spider! Big hairy spider!
 02 18 Oh. Was that your wig?
 02 18 I can fix this, I can fix this! [through megaphone] Hey, everypony! Does anypony have a toupee?
 02 18 [through megaphone] This donkey is really, really, bald!
@@ -1157,8 +1157,8 @@
 02 18 It's awfully pretty.
 02 18 Huh?
 02 18 I wonder where Cranky got this. Huh. Will you look at that? Hey, Cranky! Can I ask you about-
-02 18 [crunch]
-02 18 [crash]
+02 18 
+02 18 
 02 18 Oh no!
 02 18 There! Uh, all better?
 02 18 I'm sorry, Cranky!
@@ -1180,14 +1180,14 @@
 02 18 [six knocks]
 02 18 Cranky, please, please accept my apology! I'd do anything to make it up to you!
 02 18 Her? Her who? The special friend?
-02 18 [muffled] Cranky? It's me again. I understand that you don't wanna be my friend or accept my apology... before I leave you alone forever, I have something to at least try to make up for ruining your book.
+02 18  Cranky? It's me again. I understand that you don't wanna be my friend or accept my apology... before I leave you alone forever, I have something to at least try to make up for ruining your book.
 02 18 You didn't have to. I put two and two and two together and it added up to Matilda.
 02 18 Well when you were talking about your souvenirs, you said something about trying to find a special friend! And y'know, I wasn't just born yesterday, nuh-uh! My birthday isn't for another seventy five days!
 02 18 And then, in your scrapbook, there was a flower, an old ticket, and a menu from the Grand Galloping Gala! And I knew I recognized all these things.
 02 18 And I'd seen them in Matilda's book!
 02 18 Uh. Matilda? Nopony calls him Doodle...
 02 18 So does this mean that you accept my apology?
-02 18 [explodes like a firework] Woohoo! This is just fantastic! Ooh, now we can hang out together, and chat, and sing songs, and [gasps] party! Oh, I can throw you guys a big party! It'll be called a 'Welcome to Ponyville, I found my lost love, I'm BFF's with Pinkie Pie Party'! ...Or maybe something less over-the-top and not so super-hyper.
+02 18 [explodes like a firework] Woohoo! This is just fantastic! Ooh, now we can hang out together, and chat, and sing songs, and  party! Oh, I can throw you guys a big party! It'll be called a 'Welcome to Ponyville, I found my lost love, I'm BFF's with Pinkie Pie Party'! ...Or maybe something less over-the-top and not so super-hyper.
 02 18 Oh. Um, but we're still friends?
 02 18 Great!
 02 18 Dear Princess Celestia, there are many different kinds of friends, and many ways to express friendship. Some friends like to run and laugh and play together. But others just like to be left alone, and that's fine too. But the best thing about friendship is being able to make your friends smile.
@@ -1208,19 +1208,19 @@
 02 19 Two bits!
 02 19 I insist it's two bits or nothing!
 02 19 Have it your way, one bit it is!
-02 19 [giggles]
+02 19 
 02 19 See? Asserting yourself can be fun!
 02 19 Don't give him your money! One cherry is not worth twelve bits!
 02 19 Who's next, please, and what can I get for you today?
 02 19 Heyyy, look at you!
 02 19 Looks like that monster's workshop really paid off!
-02 19 Well, old Pinkie Pie feels really proud of new Fluttershy. Proud as pink punch. Want some? [giggles]
+02 19 Well, old Pinkie Pie feels really proud of new Fluttershy. Proud as pink punch. Want some? 
 02 19 Old Pinkie Pie is not so sure new Fluttershy is such a good idea after all.
 02 19 New Fluttershy... old Fluttershy...!?
 02 19 Nyaaaaah! Too many Fluttershies to keep track of! Make it stop!
 02 19 Hey, leave her alone! Fashion is her passion!
 02 19 [starts crying] Looks like nasty Fluttershy is here to stay!
-02 19 [crying]
+02 19 
 02 19 It's Pinkie Pie, and Rarity!
 02 19 We did?
 02 19 Yeah! He's the one that made you act super-duper nasty. What I mean is, there are other ways to assert yourself besides yelling at everypony.
@@ -1234,28 +1234,28 @@
 02 19 We need half a day and no more!
 02 19 Okie dokie. See you tomorrow.
 02 19 But we had an agreement! You gotta come back tomorrow!
-02 19 [screams]
-02 19 [splash]
-02 19 [spits]
+02 19 
+02 19 
+02 19 
 02 19 [goat munching]
-02 19 [crunch]
+02 19 
 02 19 You were amazing, Fluttershy! You totally stood up to that monster!
 02 19 The one we missed!
 02 19 Friends.
-02 19 [laughing]
+02 19 
 02 20 C'mon, Fluttershy! The party can't start until the party supplies get there!
 02 20 Run for your liiiiiiiife!
-02 20 [screaming] Anypony else wanna panic with me? No? [resumes screaming]
-02 20 Okay everypony, follow my lead. [screams]
-02 20 [screaming]
+02 20  Anypony else wanna panic with me? No? [resumes screaming]
+02 20 Okay everypony, follow my lead. 
+02 20 
 02 20 [stops screaming] Yes, Twilight?
 02 20 I have balls stashed all over Ponyville, in case of ball emergency.
-02 20 [spookily] Come... enter the chamber of Madame Pinkie Pie... For the answers you seek, let us consult the mystical orb of fate's destiny... [normal] Do you like my mystical orb of fate's destiny? I just got it. Cool, huh?
-02 20 [spookily] Look deep into the crystal ball... for soon it will reveal all! Ah yes, I see something... It is a vision of the future... I see... you, Twilight. You will get a really cool birthday present next year...
+02 20  Come... enter the chamber of Madame Pinkie Pie... For the answers you seek, let us consult the mystical orb of fate's destiny...  Do you like my mystical orb of fate's destiny? I just got it. Cool, huh?
+02 20  Look deep into the crystal ball... for soon it will reveal all! Ah yes, I see something... It is a vision of the future... I see... you, Twilight. You will get a really cool birthday present next year...
 02 20 That's it.
 02 20 Yep. Cool birthday present.
 02 20 Oh, my fortune telling has nothing to do with my Pinkie Sense, silly. It's only good for vague and immediate events.
-02 20 [crack]
+02 20 
 02 20 Like that, see? Where did that even come from?
 02 20 Lalalalalalala, lalalala... Gosh, I haven't seen Twilight since the flowerpot incident. Hope she still isn't mad. Uhhhh...
 02 20 [papers rustling]
@@ -1272,7 +1272,7 @@
 02 20 Oh... Are you sure?
 02 20 Awesome! That sounds fun!
 02 20 Aww.
-02 20 [rustling]
+02 20 
 02 20 [ripping sound]
 02 20 I still don't understand how sneaking into the archives is gonna help her find out about her birthday present.
 02 20 Cool! Can we climb in the window again? That was super fun!
@@ -1286,23 +1286,23 @@
 02 20 Woohoo!
 02 20 Did you tell her about the cool birthday present?
 02 20 Ah, don't worry about it. It's past Twilight's problem now.
-02 20 [giggling]
+02 20 
 02 21 Me neither neither.
-02 21 [hushed] Ahoy, maties! Dragons ho!
-02 21 [hushed] And 'super-duper scary'!
-02 21 [laughing]
+02 21  Ahoy, maties! Dragons ho!
+02 21  And 'super-duper scary'!
+02 21 
 02 21 Oh, not even close!
 02 23 Yeah, Twilight, I mean listen to this one. “Mayor, not naturally gray!” The Mayor in a mane dyeing scandal? Who wouldn't wanna read that?
-02 23 What?! [crying] It's true! I do have a problem!
+02 23 What?!  It's true! I do have a problem!
 02 24 Marzipan Mascarpone Meringue Madness. You've really outdone yourselves, Mr. and Mrs. Cake. This is sure to be the winning entry of this year's national dessert competition!
 02 24 Absolutely! It's my honor and I-
 02 24 Alrighty then Big Mac! To the train depot! That's it Big Mac, nice and slow. This is precious cargo you're carrying.
 02 24 Don't worry Mr. and Mrs. Cake. Rainbow Dash, Fluttershy, a little pegassistance? I'll get it there safely, you'll see!
-02 24 Twilight, can I see you a second? A nice protective spell as extra insurance [laughs], better safe than sorry. AJ, Rarity, one last thing? All right everypony, we're in the home stretch here. See Mr. and Mrs. Cake? I got it here without a hitch! Now all we have to do is get it... in?
+02 24 Twilight, can I see you a second? A nice protective spell as extra insurance , better safe than sorry. AJ, Rarity, one last thing? All right everypony, we're in the home stretch here. See Mr. and Mrs. Cake? I got it here without a hitch! Now all we have to do is get it... in?
 02 24 [<a href="/wiki/Theme_song" title="Theme song" class="mw-redirect">theme song</a>]
-02 24 [squeaking]
-02 24 [banging]
-02 24 [sigh] Thank you all for helping me get the cake safely on the dessert car.
+02 24 
+02 24 
+02 24  Thank you all for helping me get the cake safely on the dessert car.
 02 24 Well the tastiest treat of all is sure to be the Cakes' Marzipan Mascarpone Meringue Madness. All that rich creamy goodness of the marzipan, combined with the tart tanginess of the mascarpone, blended perfectly with the smooth, silky sweetness of the meringue. That's why I call the Marzipan Mascarpone Meringue Madness the "MMMM".
 02 24 Exactly. It's the most delicious delectable delightful de-lovely cake in Equestria, and it's sure to win first prize.
 02 24 Hello. What's your name?
@@ -1315,26 +1315,26 @@
 02 24 Huh? Stop you saboteur! I have you now! Wha? A-ha! Ahh? Oh! Thank Celestia you're okay! But one of those bakers is mixing up something bad, so I'm not leaving you again no matter what.
 02 24 [blinds snap shut]
 02 24 Huh? Who turned out the moon? Don't go near that cake, thief!
-02 24 [galloping]
+02 24 
 02 24 Stop thief!
-02 24 [clang]
-02 24 Oh, are you okay thief? [growls] Huh... overreacting my hoof. I knew I was going to have to keep a close eye on you, and that's just what I'm gonna do. [snores]
+02 24 
+02 24 Oh, are you okay thief?  Huh... overreacting my hoof. I knew I was going to have to keep a close eye on you, and that's just what I'm gonna do. 
 02 24 [rooster crow]
-02 24 [snores] Huh? What? [gasp] The cake! Oh MMMM, you look mmmm-marvelous.
+02 24  Huh? What?  The cake! Oh MMMM, you look mmmm-marvelous.
 02 24 I know. I think some congratulations are in order for a job well done.
-02 24 Look at what? Huh? [gasp]
-02 24 [screams]
-02 24 It's the Marzipan Mascarpone Meringue Madness, it's been [crying] mutilated.
-02 24 [gasp]
+02 24 Look at what? Huh? 
+02 24 
+02 24 It's the Marzipan Mascarpone Meringue Madness, it's been  mutilated.
+02 24 
 02 24 Now we just need to find out who done it.
 02 24 Exactly. Who did-done-dood it.
 02 24 Exactly.
-02 24 [pop]
+02 24 
 02 24 And as chief detective, that's exactly what I'm gonna do.
 02 24 Yes! And Twilight shall be my lowly assistant who asks silly questions with obvious answers.
 02 24 Perfect silly question, my dear Twilight. Because the obvious answer is...
 02 24 No! 'Cause I know who did it.
-02 24 [gasp]
+02 24 
 02 24 How could I possibly not know? Clearly this dastardly deed was done by the baker, who knew their dessert could not measure up to the mastery of the Marzipan Mascarpone Meringue Madness. I guess you feared your éclairs lacked flair, Gustave!
 02 24 [silent film music]
 02 24 Thus, destroying the cake, and the Cakes' chance of winning the National Dessert Competition.
@@ -1343,8 +1343,8 @@
 02 24 Hm... you're right, my fine fellow. Gustave le Grand is clearly in the clear, which means the "MMMM" was destroyed by another baker. A baker who's donuts are do-nots. That's right, it was Joe!
 02 24 [spy music]
 02 24 Or as he's known the spy world, Mane. Con Mane.
-02 24 [giggles]
-02 24 [beeps]
+02 24 
+02 24 
 02 24 [spraying noise]
 02 24 [laser noise]
 02 24 Crushing the Cakes' chances to win!
@@ -1353,14 +1353,14 @@
 02 24 Yes, and the mule behind the moose panicked when she saw the mastery of the "MMMM".
 02 24 Mulia Mild!
 02 24 [ninja sounds]
-02 24 [clang]
+02 24 
 02 24 [cutting sounds]
 02 24 Putting an end to the Cakes' dreams of taking first prize. Huh, I hope you're proud of yourself Mulia.
-02 24 [sigh] I guess you're right...
+02 24  I guess you're right...
 02 24 But I was so sure that it was one of the other bitter bakers that destroyed the "MMMM". That way, their delicious dessert would reign supreme. I mean, just look at Joe's Donutopia. It's a spectacular city of donutty delight, topped temptingly in sprinklicious sprinkles. And Gustave's éclairs look incredibly edible, with glistening glaziness. But then there's Mulia Mild's Mousse Moose. Hoh, why this mouth-wateringly marvelous mousse moose tempts the taste buds with its silky, smooth, yummy-nummy, chocolateyness. So why did this criminal devour the Marzipan Mascarpone Meringue Madness while leaving this trio of tasty treats untouched?
 02 24 [munching sounds]
-02 24 [scream]
-02 24 [gasp] Now I have no idea who do-doned it!
+02 24 
+02 24  Now I have no idea who do-doned it!
 02 24 This mystery gets more mysterious every minute.
 02 24 Huh! You're not accusing me, are you?
 02 24 I saw a silhouette in the moonlight!
@@ -1383,7 +1383,7 @@
 02 24 You're right Twilight. You know what we have to do?
 02 24 Look for clues! Uh huh, uh huh, uh huh.
 02 24 I most certainly did. It was, none other than, the bakers!
-02 24 [gasp]
+02 24 
 02 24 First of all, Gustave has mousse in his moustache, and Joe has éclair in his hair, and Mulia has sprinkles in her wrinkles!
 02 24 I think we can fix that. Come on!
 02 24 Dear Princess Celestia, today I learned that it is not good to jump to conclusions. You have to find out all the facts before saying somepony did something. If you don't, you could end up blaming somepony for something they never did. This could hurt their feelings, and it can make you look really foolish. So from now on, I will always make sure to get all the facts.
@@ -1391,26 +1391,26 @@
 02 24 I don't mind if I do.
 02 24 [munching sounds]
 02 24 Mmmmm.
-02 24 [laughter]
-02 24 [credits]
+02 24 
+02 24 
 02 25 Hip, hip, hooray!
-02 25 [gasp] [echoing] Best wedding ever!
+02 25   Best wedding ever!
 02 25 We're here, we're here!
 02 25 Aaaaaaaaa- [sneezes like a trumpet]
 02 25 Okay, let me see. We've been over the games... [rattles dice] ...the dances...
 02 25 [polka from Swarm of the Century plays]
 02 25 I think this reception is gonna be perfect! Don't you?
-02 25 [gasps] Thank you!
+02 25  Thank you!
 02 25 [kissing noises and laughing]
 02 26 Rarity!
-02 26 [laughing] Do me! Do me! Meh, I've seen better.
+02 26  Do me! Do me! Meh, I've seen better.
 02 26 [fly flying sounds]
 02 26 Let's get this party started!
 03 01 Are we gonna celebrate your awesomeness with Princess Celestia?
 03 01 Time to gather some intel!
 03 01 Because it isn't!
 03 01 Aaaah!
-03 01 A spy? How did they know? Ah! Must have noticed my night vision goggles. Ooh! Night vision-y! [slam]
+03 01 A spy? How did they know? Ah! Must have noticed my night vision goggles. Ooh! Night vision-y! 
 03 01 Oh, we have to get this right
 03 01 Yes we have to make them see
 03 01 We can save the Crystal Ponies with their history
