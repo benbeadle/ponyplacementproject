@@ -3,6 +3,10 @@ require 'fast_stemmer'
 
 class HomeController < ApplicationController
   
+  MAX_WORDS = 33000 #Since some ponies talk more, let's limit the amount of words. The least pony said 33025 words
+  TWEET_MIN_LENGTH = 75
+  KNN = 3
+  
   def tokenize(text)
     tokens = text.downcase.scan(/[\w']+/)
     
@@ -45,7 +49,7 @@ class HomeController < ApplicationController
       distance = self.find_distance(pvalue, self.find_tf((self.tweet_parse(tweet_string))))
       result[pkey] = distance
     end
-    result = result.sort_by{|key, value| value}.reverse.first(3)
+    result = result.sort_by{|key, value| value}.reverse.first(KNN)
   end
   
   #Get the term frequency all of the tokens
@@ -62,42 +66,54 @@ class HomeController < ApplicationController
     tf
   end
   
-  #TODO: Do more than just get the first max_words
+  #TODO: Do more than just get the first MAX_WORDS
   def calculate_tf
-    max_words = 33000 #Since some ponies talk more, let's limit the amount of words. The least pony said 33025 words
     
     @ponies_tf = Hash.new(0)
     
     @ponies.each do |pony|
       data = File.read("transcripts/" + pony + ".txt").split("\n").join("\n").downcase
       data = data.gsub(/[0-9]{2} [0-9]{2} /, "") #Remove the season and episode numbers
-      @ponies_tf[pony] = self.find_tf(self.remove_stop_words(self.tokenize(data))) #Tokenize
+      @ponies_tf[pony] = self.find_tf(self.remove_stop_words(self.tokenize(data)).first(MAX_WORDS)) #Tokenize
     end
     
   end
   
-  def test(k)
+  def test()
     @ponies = ["applejack", "fluttershy", "pinkie pie", "rainbow dash",  "rarity", "twilight sparkle"].reverse
     self.calculate_tf()
     right = 0.0
     wrong = 0.0
-    
-    output = Array.new
+    statistics = Hash.new(-1)
+    @output = Array.new
     @ponies.each do |pony|
       #puts pony
       #puts @ponies_tf["applejack"].sort_by{|key, value| value}.reverse.first(10)
       lines = File.read("transcripts/" + pony + ".txt").split("\n")
-      
-      for i in Array.[](1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50)
+      if statistics[pony] == -1
+        statistics[pony] = Hash.new(-1)
+      end
+      #for i in Array.[](1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50)
+      for i in Array(1..5) do
         text = lines.sample.gsub(/[0-9]{2} [0-9]{2} /, "")
         
-        while text.strip! == "" || text.length < 75
+        while text.strip! == "" || text.length < TWEET_MIN_LENGTH
           text = lines.sample.gsub(/[0-9]{2} [0-9]{2} /, "")
         end
         
         pony_classified = self.find_pony(text)
+        
+        
+        
         pony_classified.each do |key, val|
-          output.push(pony + " -> " + key + " (" + text + ")")
+        
+          if statistics[pony][key] == -1
+            statistics[pony][key] = 1
+          else
+            statistics[pony][key] += 1
+          end
+          
+          @output.push(pony + " -> " + key + " (" + text + ")")
           if pony == key
             right += 1
           else
@@ -107,21 +123,104 @@ class HomeController < ApplicationController
       end
     end
     
-    @right_guess = right
-    @wrong_guess = wrong
-    @percentage = ((right / (right+wrong)) * 100)
+    right_guess = right
+    wrong_guess = wrong
+    percentage = ((right / (right+wrong)) * 100)
     
-    @percentage
+    statistics
   end
   
   def index
-    @output = Array.new
-    for j in [1, 2, 3, 4, 5] do
-      for i in [1, 2, 3, 4, 5] do
-        res = self.test(i)
-        @output.push(i.to_s() + ": " + res.round.to_s() + "%")
+    stats = self.test()
+    output = ""
+    stats.each do |key1, val1|
+      val1.each do |key2, val2|
+        output += key1 + "\t" + key2 + "\t" + val2.to_s + "\n"
       end
     end
+    
+    
+    #aFile = File.new("output.txt", "w+")
+    #if aFile
+    #   aFile.syswrite(output)
+    #else
+    #   puts "Unable to open file!"
+    #end
+    #aFile.close()
+    
+  end
+  
+  
+  
+  #For this to work, must change test to pass in k
+  def test_find_best_k
+    out = Array.new
+    output = ""
+    statistical_data = Hash.new(-1)
+    for j in Array(1..5) do
+      statistical_data[j] = Hash.new(-1)
+      
+      for i in Array(1..100) do
+        statistical_data[j][i] = Hash.new(-1)
+        stats = self.test(j)
+        stats.each do |key1, val1|
+          val1.each do |key2, val2|
+            #output += j.to_s + "\t"
+            #output += i.to_s + "\t"
+            #output += key1 + "\t" + key2 + "\t" + val2.to_s + "\n"
+            
+            if statistical_data[j][i][key1] == -1
+              statistical_data[j][i][key1] = Hash.new(-1)
+            end
+            
+            statistical_data[j][i][key1][key2] = val2*1.0
+          end
+        end
+        #puts @statistics
+        #out.push(i.to_s() + ": " + res.round.to_s() + "%")
+      end
+      
+      #output += "\n"
+      #statistical_data[j]["average"] = statistical_data[j]["sum"] / statistical_data[j]["total"] * 100
+      #output += j.to_s + " " + statistical_data[j]["average"].to_s + "\n"
+    end
+    
+    
+    stat_results = Hash.new(-1)
+    statistical_data.each do |i, i_arr|
+      stat_results[i] = Hash.new
+      stat_results[i]["sum"] = 0
+      stat_results[i]["total"] = 0
+      statistical_data[i].each do |j, j_arr|
+        statistical_data[i][j].each do |user, user_arr|
+          statistical_data[i][j][user].each do |pony, count|
+            percentage = count / 30.0 * 100
+            
+            if user == pony
+              stat_results[i]["sum"] += percentage
+              stat_results[i]["total"] += 1
+            end
+          end 
+        end
+      end
+      stat_results[i]["average"] = stat_results[i]["sum"] / stat_results[i]["total"]
+    end
+    
+    statistical_data.each do |i, i_arr|
+      output += i.to_s + " -> " + stat_results[i]["average"].to_s + "\n"
+    
+    end
+    #@out = out
+    
+    aFile = File.new("output.txt", "w+")
+    if aFile
+       aFile.syswrite(output)
+    else
+       puts "Unable to open file!"
+    end
+    aFile.close()
+
+    
   end
   
 end
