@@ -1,0 +1,32 @@
+twilight sparkle	twilight sparkle	5
+twilight sparkle	rarity	2
+twilight sparkle	applejack	2
+twilight sparkle	pinkie pie	4
+twilight sparkle	rainbow dash	2
+rarity	twilight sparkle	4
+rarity	pinkie pie	3
+rarity	rarity	5
+rarity	rainbow dash	2
+rarity	fluttershy	1
+rainbow dash	twilight sparkle	5
+rainbow dash	rainbow dash	4
+rainbow dash	pinkie pie	4
+rainbow dash	fluttershy	1
+rainbow dash	rarity	1
+pinkie pie	twilight sparkle	5
+pinkie pie	pinkie pie	4
+pinkie pie	rarity	3
+pinkie pie	fluttershy	1
+pinkie pie	applejack	1
+pinkie pie	rainbow dash	1
+fluttershy	rainbow dash	2
+fluttershy	rarity	2
+fluttershy	fluttershy	3
+fluttershy	twilight sparkle	4
+fluttershy	pinkie pie	4
+applejack	twilight sparkle	4
+applejack	rarity	2
+applejack	rainbow dash	1
+applejack	pinkie pie	3
+applejack	fluttershy	2
+applejack	applejack	3
