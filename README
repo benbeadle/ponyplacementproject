@@ -1,0 +1,13 @@
+NOTE: Instead of running the app locally, you can alternatively go to http://ponyplacementproject.herokuapp.com to see the same output.
+
+To get the app running, you need to install Ruby. You can find Ruby here: http://rubyonrails.org/download
+
+Once you have downloaded and install Ruby, you need to install both RubyGems and Rails. Instructions for both can be found at the above website.
+
+Once you have installed all of the above, open the command prompt and navigate to the project folder you have cloned from Github. (Windows: Alternatively, you can go one folder above the app folder, hold down Shift and right click on the app folder to open the command prompt at that location.)
+
+Once you are in the project folder command prompt, type: "rails s" or "rails server" which will then run the server.
+
+Once the server is running, open your browser and go to http://localhost:3000/ and you can view the app!
+
+Currently, our algorithm returns roughly 30% accuracy. We are exploring ways of making it more accurate.
