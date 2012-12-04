@@ -5,7 +5,7 @@ gem 'rails', '3.2.8'
 gem 'multipart-post', '1.1.5'
 gem 'faraday', '0.8.4'
 gem 'simple_oauth', '0.1.9'
-gem 'twitter', '4.3.0'
+gem 'twitter_oauth', '0.4.4'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'

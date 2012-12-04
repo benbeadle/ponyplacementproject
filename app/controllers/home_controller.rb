@@ -1,6 +1,6 @@
 require 'rubygems'
 require 'fast_stemmer'
-
+#http://www.youtube.com/watch?feature=player_detailpage&v=E3shpvJUZ84#t=476s
 class HomeController < ApplicationController
   
   MAX_WORDS = 33000 #Since some ponies talk more, let's limit the amount of words. The least pony said 33025 words
@@ -80,7 +80,7 @@ class HomeController < ApplicationController
   end
   
   def test()
-    @ponies = ["applejack", "fluttershy", "pinkie pie", "rainbow dash",  "rarity", "twilight sparkle"].reverse
+    @ponies = ["applejack", "fluttershy", "pinkie pie", "rainbow dash",  "rarity", "twilight sparkle"]
     self.calculate_tf()
     right = 0.0
     wrong = 0.0
