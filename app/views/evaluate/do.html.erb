@@ -1,0 +1,17 @@
+<p>You are most like <b><%= @winner %></b>.</p>
+<% if @winner == "tainbow dash" %>
+<p>This Pegasus pony is the epitome of loyalty. While this pony can be a bit too confident sometimes and can never turn down a good nap, she is extremely athletic and competitive. While she can be a bit blunt with her friends, she can also show a fair amount of patience and compassion for them. She also has a mischievous side and is known as a trickster.</p>
+<% end
+if @winner == "fluttershy" %>
+<p>This Pegasus pony is the kindest pony you will ever meet. She can be incredibly shy and timid and is faithful and considerate when handling all types of animals. She is compassionate to all even when they do not show her the same in return, and she truly believes "swe all just need to be shown a little kindness". While not the best flyer, she is very skilled in caretaking, music, and sewing. She has a gentle, serene personality and can be sweet, soft-spoken, graceful and sometimes fearful.</p>
+<% end
+if @winner == "twilight sparkle" %>
+<p>This unicorn pony is quite skilled in magic. She has a tendency to rely on logic instead of instinct and is very studious. She often confuses her friends with the use of advanced and technical terms. She is often anxious when faced with tests and can overreact. She often shows empathy and patience when sharing her knowledge with her friends and is skeptical of superstition and all things she cannot find in her books.</p>
+<% end
+if @winner == "rarity" %>
+<p>This unicorn pony is a fashionista. She loves all things beauty and the spotlight. She is very poised and has a very formal vocabulary. She can get carried away with details. She can also be quite tough and resourceful when needed and takes control of situations well. She represents the spirit of generosity. She would help any friend or animal in need.</p>
+<% end
+if @winner == "pinkie pie" %>
+<p>This earth pony is extremely exuberant, enthusiastic, happy, silly, talkative, jolly, and giggly. As she is always giggling and smiling, she represents laughter. She is the happiest pony around. She loves party planning, bursting into random songs and dances, and baking. She marches to the beat of her own drum and definitely a free spirit.</p>
+<% end %>
+<p><% @output.each do |out| %><%= out %><br /><% end %></p>
