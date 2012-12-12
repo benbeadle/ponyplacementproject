@@ -1,7 +1,7 @@
 class OauthController < ApplicationController
   
   def begin_oauth
-    request_token = @client.authentication_request_token(:oauth_callback => 'http://3wfu.localtunnel.com/oauth/authorize')
+    request_token = @client.authentication_request_token(:oauth_callback => 'http://ponyplacementproject.com/oauth/authorize')
     
     session[:secret] = request_token.secret
 
