@@ -44,7 +44,7 @@ ul {
   padding-bottom: 10px;
 }
 
-#analyzing {
+#analyzing, #error {
   text-align: center;
 }
 
@@ -97,4 +97,111 @@ li {
   text-align: center;
   line-height: normal;
   margin-top: 150px;
+}
+
+#tweetTableDiv {
+  height: 500px;
+  overflow: auto;
+  margin: auto;
+  width: 85%;
+}
+#tweetTable {
+	margin:auto;
+  padding:0px;
+	width:100%;
+	border:1px solid #000000;
+	-moz-border-radius-bottomleft:5px;
+	-webkit-border-bottom-left-radius:5px;
+	border-bottom-left-radius:5px;
+	-moz-border-radius-bottomright:5px;
+	-webkit-border-bottom-right-radius:5px;
+	border-bottom-right-radius:5px;
+	-moz-border-radius-topright:5px;
+	-webkit-border-top-right-radius:5px;
+	border-top-right-radius:5px;
+	-moz-border-radius-topleft:5px;
+	-webkit-border-top-left-radius:5px;
+	border-top-left-radius:5px;
+}
+#tweetTable table {
+	width:100%;
+	height:100%;
+	margin:0px;padding:0px;
+}
+#tweetTable tr:last-child td:last-child {
+	-moz-border-radius-bottomright:5px;
+	-webkit-border-bottom-right-radius:5px;
+	border-bottom-right-radius:5px;
+}
+#tweetTable table tr:first-child td:first-child {
+	-moz-border-radius-topleft:5px;
+	-webkit-border-top-left-radius:5px;
+	border-top-left-radius:5px;
+}
+#tweetTable table tr:first-child td:last-child {
+	-moz-border-radius-topright:5px;
+	-webkit-border-top-right-radius:5px;
+	border-top-right-radius:5px;
+}
+#tweetTable tr:last-child td:first-child{
+	-moz-border-radius-bottomleft:5px;
+	-webkit-border-bottom-left-radius:5px;
+	border-bottom-left-radius:5px;
+}
+#tweetTable tr:nth-child(odd){ background-color:#f778a1; }
+#tweetTable tr:nth-child(even)    { background-color:#ffffff; }
+#tweetTable td{
+	vertical-align:middle;
+	border:1px solid #000000;
+	border-width:0px 1px 1px 0px;
+	text-align:left;
+	padding:5px;
+	font-size:10px;
+	font-family:Arial;
+	font-weight:normal;
+	color:#000000;
+}
+#tweetTable tr:last-child td{
+	border-width:0px 1px 0px 0px;
+}
+#tweetTable tr td:last-child{
+	border-width:0px 0px 1px 0px;
+}
+#tweetTable tr:last-child td:last-child{
+	border-width:0px 0px 0px 0px;
+}
+#tweetTable tr:first-child td{
+  background:-o-linear-gradient(bottom, #f778a1 5%, #f6358a 100%);
+  background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f778a1), color-stop(1, #f6358a) );
+	background:-moz-linear-gradient( center top, #f778a1 5%, #f6358a 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#f778a1", endColorstr="#f6358a");
+  background: -o-linear-gradient(top,#f778a1,f6358a);
+	background-color:#f778a1;
+	border:0px solid #000000;
+	text-align:center;
+	border-width:0px 0px 1px 1px;
+	font-size:14px;
+	font-family:Arial;
+	font-weight:bold;
+	color:#ffffff;
+}
+#tweetTable tr:first-child:hover td {
+	background:-o-linear-gradient(bottom, #f778a1 5%, #f6358a 100%);	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f778a1), color-stop(1, #f6358a) );
+	background:-moz-linear-gradient( center top, #f778a1 5%, #f6358a 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#f778a1", endColorstr="#f6358a");	background: -o-linear-gradient(top,#f778a1,f6358a);
+	background-color:#f778a1;
+}
+#tweetTable tr:first-child td:first-child{
+	border-width:0px 0px 1px 0px;
+}
+
+#tweetTable tr:first-child td:last-child{
+	border-width:0px 0px 1px 1px;
+}
+#tweetTable tr > td:first-child + td {
+  text-align: center;
+}
+
+#tweetTable tr > td:first-child + td +td {
+  text-align: center;
 }

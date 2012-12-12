@@ -231,7 +231,6 @@ class EvaluateController < ApplicationController
       render json: {:error => true}
       return
     end
-    
     tweets = self.tweets
     ponies_total = Hash.new(0)
     tweets_output = []
@@ -272,7 +271,7 @@ class EvaluateController < ApplicationController
       sum = 0
       tweet_pony.each {|pony, sim| sum=sum+sim }
       
-      tweet_out["pony"] = tweet_pony.first[0]
+      tweet_out["pony"] = self.pony_full_name(tweet_pony.first[0]);
       tweet_out["percent"] = ((tweet_pony.first[1] / sum)*10000).round.to_f/100
       
       tweets_output.push(tweet_out)
@@ -288,10 +287,15 @@ class EvaluateController < ApplicationController
       :percent => (ponies_total.first[1] / ponies_total.inject(0) { |sum, tuple| sum += tuple[1] })*100#,
       #:order => @ponies.join(" ")
     }
+    
     result["stats"] = self.pony_scores_to_name(ponies_total)
     result["tweet_count"] = tweets.length
     result["tweets"] = tweets_output
-    #File.open("#{Rails.root}/app/assets/dev_result_output.json", 'w') {|f| f.write(result.to_json) }
+    
+    open("#{Rails.root}/app/assets/user_results.json", 'a') do |f|
+      f.puts ponies_total.to_json
+    end
+    
     render json: result
     
   end
@@ -303,7 +307,6 @@ class EvaluateController < ApplicationController
   protected
   def tweets
     timeline = @client.user_timeline({:count => 200})
-    
     #File.open("#{Rails.root}/app/assets/tweets/_tweets.json", 'w') {|f| f.write(timeline.to_json) }
     #timeline = JSON.parse(File.read("#{Rails.root}/app/assets/tweets/ben_tweets.json"))
     #timeline = JSON.parse(File.read("#{Rails.root}/app/assets/tweets/lindsey_tweets.json"))
@@ -326,7 +329,7 @@ class EvaluateController < ApplicationController
   
   #This function was used to convert the pony files to UTF-8 and remove empty lines
   def processing_not_used
-    #return
+    return
     #Must add ".unpack('C*').pack('U*')" since apparently there's some non UTF-8 text in the transcripts
     @ponies = ["fluttershy", "pinkie", "rarity", "applejack", "rainbow", "twilight"].shuffle
     puts @ponies.join(" ")

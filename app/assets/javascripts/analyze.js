@@ -1,15 +1,22 @@
 function complete(data) {
-  //console.log(JSON.stringify(data));
+  if(data.error) {
+    if($("#error")) {
+      $("#analyzing").hide();
+      $("#error").show();
+    }
+    return;
+  }
   
   $("#pony_winner").html(data.winner.name);
   $("#pony_desc").html(data.winner.description);
   $("#pony_img").attr('src', '../images/ponies/' + data.winner.short_name + '.png');
   
   for(var i = 0; i < data.tweets.length; i++) {
-    var html = data.tweets[i].pony + " (" + data.tweets[i].percent + "%): " + data.tweets[i].text;
-    if($("#tweets").html() != "")
-      $("#tweets").html($("#tweets").html()+"<br />");
-    $("#tweets").html($("#tweets").html()+html);
+    var tweet = data.tweets[i];
+    if(tweet.percent != 0) {
+      $('#tweetTable > tbody:last').append("<tr><td>" + tweet.text + "</td><td>"
+      + tweet.pony + "</td><td>" + tweet.percent + "%</td></tr>");  
+    }
   }
   
   var chart_data = new google.visualization.DataTable();

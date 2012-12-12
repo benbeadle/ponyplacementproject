@@ -22,7 +22,6 @@ class ApplicationController < ActionController::Base
         :oauth_verifier => session[:oauth_verifier]
       )
     rescue Exception => e
-      puts e.message
       @client = nil
     end
   end

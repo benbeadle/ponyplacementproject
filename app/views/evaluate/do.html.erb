@@ -8,7 +8,18 @@
   <div id="chart_div"></div>
   <p id="pony_desc" class="center"></p>
   <br />
-  <p id="tweets" />
+  <div id="tweetTableDiv" >
+      <table id="tweetTable">
+        <tr> 
+          <td style="width:60%">Tweet</td>
+          <td style="width:25%">Pony</td>
+          <td style="width:15%">Perentage</td>
+        </tr>
+    </table>
+  </div>
+</div>
+<div id="error" style="display:none;">
+  <p>There was an error analyzing your tweets. Please try again later.</p>
 </div>
 <script type="text/javascript" src="https://www.google.com/jsapi"></script>
 <script type="text/javascript">
