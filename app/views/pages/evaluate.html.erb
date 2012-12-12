@@ -1,2 +1,4 @@
 <h1>Find your inner pony</h1>
-<p><a href="/oauth/begin">Login with Twitter</a></p>
+<p><% if session[:error] %><%= session[:error] %><% session[:error]=nil end %></p>
+<p>Please click the button below to log onto Twitter. Your results will then display below.</p>
+<p><a href="/oauth/begin"><%= image_tag("/assets/sign-in-with-twitter-gray.png", :alt => "Logo") %></a></p>

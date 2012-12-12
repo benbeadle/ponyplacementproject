@@ -32,6 +32,10 @@ h1 {
   margin-top: 20px;
 }
 
+#chart_div {
+  float: right;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -40,11 +44,23 @@ ul {
   padding-bottom: 10px;
 }
 
+#analyzing {
+  text-align: center;
+}
+
+.hide {
+  display: none;
+}
+
+.center {
+  text-align: center;
+}
+
 li {
   display: inline;
 }
 
-a:link, a:visited {
+#buttonBar a:link, #buttonBar a:visited {
   font-weight: bold;
   color: white;
   background-color: #F6358A;
@@ -57,7 +73,7 @@ a:link, a:visited {
   border-radius: 15px;
 }
 
-a:hover, a:active {
+#buttonBar a:hover, #buttonBar a:active {
   background-color: #F778A1;
 }
 
